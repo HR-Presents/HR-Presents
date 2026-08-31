@@ -18,50 +18,52 @@
 
 **HR-Presents** is an independent technology collaboration founded in 2026 by **Haziq Afzal** and **Ruveeha Ashfaq**.
 
-We build practical software with a strong focus on **defensive cybersecurity, secure development, automation, cloud and DevOps engineering, data-driven systems, and AI-assisted workflows**. Our goal is not to create demo-only projects. We take ideas through implementation, testing, security review, documentation, packaging, release engineering, and real user workflows.
-
-Our work is shaped by continuous technical study across cybersecurity, Linux, cloud platforms, DevOps, data science, machine learning, security architecture, governance, and critical-infrastructure security.
-
-## What we build
-
-| Area | What we work on |
-| --- | --- |
-| 🛡️ Defensive Security | Security monitoring, log analysis, incident investigation, detection workflows, security telemetry |
-| 🔐 Secure Development | Static analysis, code quality, secure coding guidance, standards-aware engineering |
-| ⚙️ Automation & DevOps | Python automation, CI/CD, containers, infrastructure tooling, release engineering |
-| ☁️ Cloud & Infrastructure | AWS, Azure, Linux administration, networking, cloud security and architecture |
-| 🤖 AI & Data | Machine learning, deep learning, data analysis, NLP, computer vision and AI-assisted tooling |
-| 🏭 OT / ICS Security | SCADA/ICS concepts, industrial security, NIST/ISO-aligned security thinking |
+We build practical software across **defensive cybersecurity, secure development, automation, cloud and DevOps engineering, data-driven systems, and AI-assisted workflows**. We take projects beyond prototypes through implementation, testing, security review, documentation, packaging, release engineering, and real user workflows.
 
 ---
 
-## Products & Engineering Work
+## Released Products
 
 ### 🛡️ AegisLog AI
 
-**AegisLog AI** is our terminal-first defensive security platform for log analysis, live monitoring, incident investigation, anomaly analysis, Windows and Linux security telemetry, and MITRE ATT&CK context.
+**Terminal-first defensive security and log-analysis platform.**
 
-It follows a **local-first, read-only defensive model** and is engineered around evidence, investigation, and analyst visibility rather than automatic system modification.
+AegisLog AI brings together live monitoring, incident investigation, anomaly analysis, Windows and Linux security telemetry, authentication intelligence, MITRE ATT&CK context, terminal dashboards, and structured reporting.
 
-**Core areas:** live monitoring · incident correlation · authentication intelligence · anomaly analysis · MITRE ATT&CK context · terminal dashboards · structured reporting · Windows executable delivery
+It follows a **local-first, read-only defensive model** designed to support investigation without automatically changing accounts, firewall rules, services, or other system settings.
+
+**Built around:** live monitoring · incident correlation · security telemetry · anomaly analysis · MITRE ATT&CK · terminal UX · reporting · Windows executable delivery
 
 ➡️ **[Explore AegisLog AI](https://github.com/HR-Presents/AegisLog-AI)**
 
 ### ⚡ Sentrix v1.0.0 FINAL
 
-**Sentrix is fully built and released as a stable v1.0.0 customer product.** The source repository is private because Sentrix is proprietary commercial software.
+**Customer-ready Python code quality, security, complexity, standards-guidance, and reporting workspace.**
 
-Sentrix brings Python **code quality, security analysis, formatting, complexity analysis, project history, standards guidance, and professional reporting** into one local browser-based workspace.
+Sentrix is fully built and released as a **stable v1.0.0 commercial product**. Its source repository remains private because the original HR-Presents source is proprietary commercial software.
 
-Its analysis workflow integrates tools and checks including **Pylint, Bandit, Radon, Black, and Python syntax validation**, together with secure file/project upload, dashboards, history, reviews, project metrics, structured findings, and downloadable reports.
+Sentrix combines **Pylint, Bandit, Radon, Black, Python syntax validation, secure project upload, dashboards, project history, reviews, structured findings, metrics, and downloadable professional reports** in a local browser-based workspace.
 
-Sentrix can provide evidence-aware guidance against security and engineering references such as **OWASP, CWE, MITRE, NIST, CIS, PCI DSS, ISO/IEC 27001/27002, SOC 2, GDPR, and HIPAA** where applicable. These mappings are guidance, not certifications or legal conclusions.
+Its evidence-aware guidance can reference **OWASP, CWE, MITRE, NIST, CIS, PCI DSS, ISO/IEC 27001/27002, SOC 2, GDPR, and HIPAA** where applicable. Framework mappings are engineering guidance, not certifications or legal conclusions.
 
 **Status:** `v1.0.0 FINAL / Stable` · customer-ready portable Windows distribution · commercial source license
 
 ---
 
-## The Founders
+## What We Build
+
+| Area | Engineering focus |
+| --- | --- |
+| 🛡️ Defensive Security | Monitoring, log analysis, incident investigation, detection workflows and security telemetry |
+| 🔐 Secure Development | Static analysis, code quality, secure coding guidance and standards-aware engineering |
+| ⚙️ Automation & DevOps | Python automation, CI/CD, containers, infrastructure tooling and release engineering |
+| ☁️ Cloud & Infrastructure | AWS, Azure, Linux, networking, cloud security and architecture |
+| 🤖 AI & Data | Machine learning, deep learning, data analysis, NLP, computer vision and AI-assisted tooling |
+| 🏭 OT / ICS Security | SCADA/ICS concepts, industrial security and NIST/ISO-aligned security thinking |
+
+---
+
+## Founders
 
 <table>
 <tr>
@@ -70,9 +72,9 @@ Sentrix can provide evidence-aware guidance against security and engineering ref
 ### Haziq Afzal
 **Co-Founder & CEO**
 
-Focuses on product direction, technical strategy, software development, cybersecurity projects, AI product ideas, release planning, and the growth of HR-Presents.
+Leads product direction, technical strategy, software engineering, cybersecurity development, AI product concepts, release direction, and the continued growth of HR-Presents.
 
-**Technical interests:** cybersecurity · Linux · Python · cloud · DevOps · automation · AI/ML · security engineering
+**Focus:** cybersecurity · Python · Linux · cloud · DevOps · automation · AI/ML · product engineering
 
 [GitHub](https://github.com/HaziqBinAfzal) · [LinkedIn](https://www.linkedin.com/in/haziq-afzal-010b6636a)
 
@@ -82,9 +84,9 @@ Focuses on product direction, technical strategy, software development, cybersec
 ### Ruveeha Ashfaq
 **Co-Founder & COO**
 
-Focuses on operations, project execution, software and security workflows, documentation, quality, customer experience, and the continued development of HR-Presents products.
+Leads operations and project execution with a focus on security engineering workflows, documentation, quality, product delivery, customer experience, and the development of HR-Presents products.
 
-**Technical interests:** cybersecurity · cloud security · DevOps · Python · AI/ML · security architecture · critical-infrastructure security
+**Focus:** cybersecurity · cloud security · DevOps · Python · AI/ML · security architecture · critical-infrastructure security
 
 [GitHub](https://github.com/ruveeha33) · [LinkedIn](https://www.linkedin.com/in/ruveeha-ashfaq-632b15378)
 
@@ -94,76 +96,78 @@ Focuses on operations, project execution, software and security workflows, docum
 
 ---
 
+## Technology Stack
+
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-Engineering-3776AB?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Systems-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Cloud_Native-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4?style=flat-square)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-Automation-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-Security_Analytics-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-Python_Web-000000?style=flat-square&logo=flask&logoColor=white)
+![Security](https://img.shields.io/badge/Security-NIST_%7C_MITRE_%7C_ISO-4C1?style=flat-square)
+
+</p>
+
+Our broader engineering exposure also includes **Bash, Selenium, Vagrant, Puppet, Chef, Consul, Gradle, Nagios, New Relic, Sensu, CircleCI, Jenkins, Maven, Splunk, TeamCity, scikit-learn, TensorFlow, PyTorch, Bandit, Pylint, Radon, and Black**.
+
+---
+
 ## Technical Foundation
 
-Our project work is backed by extensive hands-on coursework and continued study. We describe this as **training and coursework**, not as vendor certification unless a separate certification has actually been awarded.
+Our engineering work is supported by extensive hands-on coursework and continued technical study. We describe these areas as **training and coursework**, not vendor certifications unless a separate certification has actually been awarded.
 
-### Cybersecurity & Security Engineering
-
-Completed coursework and study areas include:
-
-- Linux fundamentals, Linux deep dive, RHEL networking/user administration and RHEL services
-- Cybersecurity essentials and CISSP-aligned security coursework
-- SCADA/ICS Security 101, SCADA prevention/detection, and SCADA security aligned with ISO 27019 and NIST SP 800-82 concepts
-- SOC engineering, SIEM foundations, Elasticsearch security monitoring, threat hunting and observability
-- Vulnerability assessment, web application pentesting, network pentesting, ethical hacking and incident-response concepts
-- CIS Controls implementation
-- ISO/IEC 27001, 27017 and 27018 implementation/audit coursework
-- PCI DSS QSA-oriented training
-- Web Security Testing Guide (WSTG) study
-- Cloud security, security architecture, risk, IAM, cryptography, disaster recovery and physical-security coursework aligned with CCSP, CCSK and ISSAP knowledge domains
-
-### Cloud & Infrastructure
-
-Completed study includes substantial **AWS architecture** and **Microsoft Azure administration** coursework covering VPC design, IAM, security groups/NACLs, EC2, EBS, Auto Scaling, S3, RDS, Redshift, Kinesis, Lambda, DynamoDB, Route 53, CloudFront, CloudFormation, SQS, CloudTrail, hybrid connectivity, identity integration, Azure administration, cloud security and architecture.
-
-### DevOps & Automation
-
-Hands-on coursework includes:
-
-`Docker` · `Bash` · `Python Automation` · `Selenium` · `Flask` · `JIRA with Python` · `Vagrant` · `Ansible` · `Terraform` · `Puppet` · `Chef` · `Consul` · `Gradle` · `Nagios` · `New Relic` · `Sensu` · `CircleCI` · `Git/GitHub` · `Jenkins` · `Maven` · `Splunk` · `TeamCity` · `Kubernetes` · `AWS Cloud Labs`
-
-Training has also covered Kubernetes/cloud-native application development and cloud-native fundamentals. Advanced Kubernetes administration and security labs remain part of ongoing study.
-
-### Data Science & Artificial Intelligence
-
-Completed data-science coursework includes **Python foundations, data handling, visualization and storytelling, statistics and probability, scikit-learn, applied NLP, time-series forecasting, TensorFlow/PyTorch deep learning, data engineering and big data, data ethics/privacy, and deployment/portfolio workflows**.
-
-AI/ML study includes **Python for machine learning, deep learning, mathematical foundations of machine learning, advanced ML topics, practical ML applications, model development and deployment, and computer vision**. Additional NLP and AIOps lab work remains ongoing.
+| Domain | Completed study and practical exposure |
+| --- | --- |
+| **Cybersecurity** | Linux/RHEL, cybersecurity fundamentals, SIEM/SOC, Elasticsearch security, threat hunting, vulnerability assessment, incident response, web/network pentesting, ethical hacking, CIS Controls and WSTG |
+| **OT / ICS** | SCADA/ICS security, prevention and detection, industrial-security concepts, ISO 27019 and NIST SP 800-82-aligned study |
+| **Governance & Architecture** | ISO 27001/27017/27018 coursework, PCI DSS-oriented training, CISSP-aligned study, cloud-security and architecture domains aligned with CCSP, CCSK and ISSAP curricula |
+| **Cloud** | AWS solution architecture, VPC/IAM/network security, EC2/EBS, Auto Scaling, S3, RDS, Lambda, DynamoDB, Route 53, CloudFormation, CloudTrail, hybrid connectivity and Azure administration |
+| **DevOps** | Docker, Bash, Python automation, Flask, Selenium, Git/GitHub, CI/CD, Terraform, Ansible, Jenkins/Maven, observability tooling, Kubernetes and AWS cloud labs |
+| **Data Science** | Python, data handling, visualization, statistics, probability, scikit-learn, time series, data engineering, big data, data ethics and deployment workflows |
+| **AI / ML** | Machine learning, deep learning, TensorFlow/PyTorch, mathematical ML foundations, model development/deployment, applied NLP and computer vision |
 
 <details>
-<summary><strong>Current learning areas</strong></summary>
+<summary><strong>Ongoing advanced learning</strong></summary>
 <br>
 
-We continue to work through advanced practical labs in **DevSecOps/DevSysOps, Kubernetes administration and security, cloud security, AIOps, NLP, machine learning deployment, infrastructure automation, and security architecture**.
+Current study continues through advanced practical work in **DevSecOps/DevSysOps, Kubernetes administration and security, cloud security, AIOps, NLP, ML deployment, infrastructure automation, and security architecture**.
 
-The aim is to turn coursework into usable engineering ability through projects, labs, testing, documentation, and releases rather than treating course completion alone as proof of expertise.
+Our aim is to turn coursework into usable engineering ability through projects, labs, testing, documentation and releases rather than treating course completion alone as proof of expertise.
 
 </details>
 
 ---
 
-## How we engineer
+## Engineering Principles
 
-We try to apply the same principles across our work:
+- **Defensive by design** — security tools should support investigation without overstating certainty.
+- **Local-first where practical** — sensitive information should remain under the user's control whenever possible.
+- **Security-aware development** — testing, static analysis, dependency/security checks and careful data handling are part of the build process.
+- **Release discipline** — CI, packaging validation, documentation, versioning and release notes matter alongside feature development.
+- **Human-readable UX** — technical tools should explain what they found and why it matters.
+- **Standards with context** — frameworks guide engineering but should never be misrepresented as certification.
+- **Continuous learning** — technical study is applied through real builds, experiments, reviews and improvements.
 
-- **Defensive by design** — security tooling should support investigation without overstating certainty.
-- **Local-first where practical** — sensitive data should remain under the user's control whenever possible.
-- **Security-aware development** — testing, static analysis, dependency/security checks and careful data handling are part of development.
-- **Release discipline** — CI, packaging checks, documentation, versioning and release notes matter as much as writing the feature.
-- **Human-readable UX** — security and engineering tools should explain what they found and why it matters.
-- **Standards with context** — frameworks help guide engineering, but mappings should never be misrepresented as certification.
-- **Continuous learning** — technical study is applied through real builds, experiments and improvements.
+---
 
-## GitHub milestones
+## GitHub Milestones
 
-Our currently visible GitHub achievements include **Pull Shark x2** and **Quickdraw**. We keep achievement activity genuine and treat badges as small milestones rather than substitutes for the actual engineering work behind the repositories.
+**Pull Shark x2** · **Quickdraw**
 
-## Current direction
+We treat GitHub achievements as small milestones. The engineering, collaboration and project history behind them matter more than the badge itself.
 
-We are continuing to strengthen HR-Presents around:
+---
 
-**defensive security products · secure software engineering · cloud and DevOps automation · AI-assisted tooling · practical security research · open-source participation · customer-ready software delivery**
+## Current Direction
+
+**Defensive security products · secure software engineering · cloud and DevOps automation · AI-assisted tooling · practical security research · open-source participation · customer-ready software delivery**
 
 ---
 
