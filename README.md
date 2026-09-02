@@ -6,7 +6,7 @@
 
 **Building practical security and software products from engineering fundamentals to customer-ready releases.**
 
-[![AegisLog AI](https://img.shields.io/badge/AegisLog_AI-Defensive_Security-1f6feb?style=for-the-badge)](https://github.com/HR-Presents/AegisLog-AI)
+[![AegisLog AI](https://img.shields.io/badge/AegisLog_AI-v1.6.0-1f6feb?style=for-the-badge)](https://github.com/HR-Presents/AegisLog-AI/releases/tag/v1.6.0)
 ![Sentrix](https://img.shields.io/badge/Sentrix-v1.0.0_FINAL-0A66C2?style=for-the-badge)
 [![GitHub](https://img.shields.io/badge/GitHub-HR--Presents-181717?style=for-the-badge&logo=github)](https://github.com/HR-Presents)
 
@@ -24,17 +24,21 @@ We build practical software across **defensive cybersecurity, secure development
 
 ## Released Products
 
-### 🛡️ AegisLog AI
+### 🛡️ AegisLog AI v1.6.0
 
-**Terminal-first defensive security and log-analysis platform.**
+**Open-source, terminal-first defensive security and log-analysis platform.**
 
-AegisLog AI brings together live monitoring, incident investigation, anomaly analysis, Windows and Linux security telemetry, authentication intelligence, MITRE ATT&CK context, terminal dashboards, and structured reporting.
+AegisLog AI combines local log analysis, live single-file and multi-source monitoring, native Windows Event Log/journald/Docker telemetry, incident correlation, analyst triage, investigation timelines, entity intelligence, anomaly analysis, MITRE ATT&CK context, evidence-led explanations, and structured reporting.
 
-It follows a **local-first, read-only defensive model** designed to support investigation without automatically changing accounts, firewall rules, services, or other system settings.
+The v1.6.0 stable release improves analyst triage, native telemetry diagnostics, temporary source-loss/recovery handling, and bounded long-running multi-source state while preserving AegisLog's **local-first, read-only defensive model**.
 
-**Built around:** live monitoring · incident correlation · security telemetry · anomaly analysis · MITRE ATT&CK · terminal UX · reporting · Windows executable delivery
+The primary Windows distribution is a standalone `AegisLog.exe` with a matching SHA-256 checksum. Normal customer use of the executable does not require Python or a virtual environment.
 
-➡️ **[Explore AegisLog AI](https://github.com/HR-Presents/AegisLog-AI)**
+**Built around:** live monitoring · incident investigation · security telemetry · anomaly analysis · MITRE ATT&CK · terminal UX · bounded runtime state · release engineering
+
+**Status:** `v1.6.0 / Stable` · open source · MIT licensed · standalone Windows executable
+
+➡️ **[Explore AegisLog AI](https://github.com/HR-Presents/AegisLog-AI)** · **[Download v1.6.0](https://github.com/HR-Presents/AegisLog-AI/releases/tag/v1.6.0)**
 
 ### ⚡ Sentrix v1.0.0 FINAL
 
@@ -119,6 +123,14 @@ Our broader engineering exposure also includes **Bash, Selenium, Vagrant, Puppet
 
 ---
 
+## Engineering & Release Practice
+
+HR-Presents projects are developed with an emphasis on **repeatable engineering rather than prototype-only demos**. Depending on the project, this includes automated tests, linting, security checks, package validation, executable builds, smoke tests, checksums, release notes, guarded publication workflows, and post-release documentation maintenance.
+
+For AegisLog AI v1.6.0, the release pipeline validates version metadata, runs quality and security gates, builds and smoke-tests the standalone Windows executable, verifies its SHA-256 checksum, and guards against accidental reuse of the release tag.
+
+---
+
 ## Technical Foundation
 
 Our engineering work is supported by extensive hands-on coursework and continued technical study. We describe these areas as **training and coursework**, not vendor certifications unless a separate certification has actually been awarded.
@@ -167,7 +179,9 @@ We treat GitHub achievements as small milestones. The engineering, collaboration
 
 ## Current Direction
 
-**Defensive security products · secure software engineering · cloud and DevOps automation · AI-assisted tooling · practical security research · open-source participation · customer-ready software delivery**
+**Maintain stable released products · defensive security engineering · secure software development · cloud and DevOps automation · AI-assisted tooling · practical security research · open-source participation · customer-ready software delivery**
+
+AegisLog AI is currently in a stable v1.6.0 state. Future feature work will be opened when there is a concrete product requirement rather than creating a new version line solely for version churn.
 
 ---
 
@@ -175,8 +189,7 @@ We treat GitHub achievements as small milestones. The engineering, collaboration
 
 **HR-Presents:** [github.com/HR-Presents](https://github.com/HR-Presents)  
 **Haziq Afzal:** [GitHub](https://github.com/HaziqBinAfzal) · [LinkedIn](https://www.linkedin.com/in/haziq-afzal-010b6636a)  
-**Ruveeha Ashfaq:** [GitHub](https://github.com/ruveeha33) · [LinkedIn](https://www.linkedin.com/in/ruveeha-ashfaq-632b15378)  
-**Email:** haziqxruveeha@gmail.com
+**Ruveeha Ashfaq:** [GitHub](https://github.com/ruveeha33) · [LinkedIn](https://www.linkedin.com/in/ruveeha-ashfaq-632b15378)
 
 ---
 
