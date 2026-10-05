@@ -6,7 +6,7 @@
 
 **Building practical security and software products from engineering fundamentals to customer-ready releases.**
 
-[![AegisLog AI](https://img.shields.io/badge/AegisLog_AI-v1.6.0-1f6feb?style=for-the-badge)](https://github.com/HR-Presents/AegisLog-AI/releases/tag/v1.6.0)
+[![AegisLog](https://img.shields.io/badge/AegisLog-v2.1.17-1f6feb?style=for-the-badge)](https://github.com/HR-Presents/AegisLog-AI/releases/tag/v2.1.17)
 ![Sentrix](https://img.shields.io/badge/Sentrix-v1.0.0_FINAL-0A66C2?style=for-the-badge)
 [![GitHub](https://img.shields.io/badge/GitHub-HR--Presents-181717?style=for-the-badge&logo=github)](https://github.com/HR-Presents)
 
@@ -24,21 +24,23 @@ We build practical software across **defensive cybersecurity, secure development
 
 ## Released Products
 
-### 🛡️ AegisLog AI v1.6.0
+### 🛡️ AegisLog v2.1.17
 
-**Open-source, terminal-first defensive security and log-analysis platform.**
+**Free, open-source, terminal-first defensive log investigation tool.**
 
-AegisLog AI combines local log analysis, live single-file and multi-source monitoring, native Windows Event Log/journald/Docker telemetry, incident correlation, analyst triage, investigation timelines, entity intelligence, anomaly analysis, MITRE ATT&CK context, evidence-led explanations, and structured reporting.
+AegisLog analyzes log files and accessible native Windows Event Log, Linux journald and Docker telemetry. It supports single-source and multi-source live monitoring, guided computer checks, folder investigations, deterministic findings, incident grouping, investigation timelines, entity context and evidence-supported MITRE ATT&CK mappings.
 
-The v1.6.0 stable release improves analyst triage, native telemetry diagnostics, temporary source-loss/recovery handling, and bounded long-running multi-source state while preserving AegisLog's **local-first, read-only defensive model**.
+Users can review grouped findings and next steps, search saved cases, compare activity baselines, export aggregate sharing summaries, and generate separate HTML investigation summaries and full retained-evidence reports. Rarity scores describe unusual event classes within the retained sample; they are not attack probabilities or trained machine-learning predictions.
 
-The primary Windows distribution is a standalone `AegisLog.exe` with a matching SHA-256 checksum. Normal customer use of the executable does not require Python or a virtual environment.
+The v2.1.17 stable release adds read-time JSON container limits, bounded custom rule packs and restricted custom regex syntax to reduce resource-exhaustion risks. It preserves the approved terminal and report design and AegisLog's **local-first, read-only, deterministic defensive model**. The supported product has no browser dashboard or remote AI dependency. Findings are investigation leads, not proof of compromise; source permissions, format coverage and retention limits affect what can be reviewed.
 
-**Built around:** live monitoring · incident investigation · security telemetry · anomaly analysis · MITRE ATT&CK · terminal UX · bounded runtime state · release engineering
+Windows users can download a standalone `AegisLog.exe` or ZIP without installing Python. Python users can install the released wheel through pipx and run `aegislog start` in their existing terminal. Release assets include matching SHA-256 checksums; the Windows executable remains unsigned.
 
-**Status:** `v1.6.0 / Stable` · open source · MIT licensed · standalone Windows executable
+**Built around:** log investigation · live monitoring · native telemetry · analyst triage · retained evidence · local reporting · bounded ingestion · release verification
 
-➡️ **[Explore AegisLog AI](https://github.com/HR-Presents/AegisLog-AI)** · **[Download v1.6.0](https://github.com/HR-Presents/AegisLog-AI/releases/tag/v1.6.0)**
+**Status:** `v2.1.17 / Stable` · free and open source · MIT licensed · Windows executable and Python packages
+
+➡️ **[Explore AegisLog](https://github.com/HR-Presents/AegisLog-AI)** · **[Download v2.1.17](https://github.com/HR-Presents/AegisLog-AI/releases/tag/v2.1.17)**
 
 ### ⚡ Sentrix v1.0.0 FINAL
 
@@ -127,7 +129,7 @@ Our broader engineering exposure also includes **Bash, Selenium, Vagrant, Puppet
 
 HR-Presents projects are developed with an emphasis on **repeatable engineering rather than prototype-only demos**. Depending on the project, this includes automated tests, linting, security checks, package validation, executable builds, smoke tests, checksums, release notes, guarded publication workflows, and post-release documentation maintenance.
 
-For AegisLog AI v1.6.0, the release pipeline validates version metadata, runs quality and security gates, builds and smoke-tests the standalone Windows executable, verifies its SHA-256 checksum, and guards against accidental reuse of the release tag.
+For AegisLog v2.1.17, the release pipeline validates version metadata, runs automated tests and security/dependency checks, builds Python packages and the standalone Windows executable, and checks installation, command navigation and report output. Publication verifies all seven release assets against reviewed digests and checksum files, including the bundled executable. Protected main-branch updates require review and passing checks. Synthetic detection evaluations establish regression consistency, not real-world detection effectiveness.
 
 ---
 
@@ -181,7 +183,7 @@ We treat GitHub achievements as small milestones. The engineering, collaboration
 
 **Maintain stable released products · defensive security engineering · secure software development · cloud and DevOps automation · AI-assisted tooling · practical security research · open-source participation · customer-ready software delivery**
 
-AegisLog AI is currently in a stable v1.6.0 state. Future feature work will be opened when there is a concrete product requirement rather than creating a new version line solely for version churn.
+AegisLog is currently released as stable v2.1.17. Our focus is maintaining the released tool and responding to concrete user needs. Broader real-world detection validation, physical-PC compatibility testing and Windows code signing remain future work.
 
 ---
 
