@@ -30,6 +30,10 @@ We also develop custom solutions around customer requirements, with the scope, f
 
 ## Released Products
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HR-Presents/AegisLog-AI/main/src/aegislog/assets/aegislog-logo.png" alt="AegisLog logo" width="160">
+</p>
+
 ### AegisLog v2.1.17
 
 **Free, open source defensive log investigation in your terminal.**
@@ -64,6 +68,10 @@ Windows executable users do not need Python. Python users can install through pi
 > Findings are investigation leads, not proof of compromise. Rarity scores describe the retained sample, not attack probability. Source permissions, supported formats and evidence limits affect coverage.
 
 **[Explore AegisLog](https://github.com/HR-Presents/AegisLog-AI) · [Download v2.1.17](https://github.com/HR-Presents/AegisLog-AI/releases/tag/v2.1.17) · [User Guide](https://github.com/HR-Presents/AegisLog-AI/blob/main/docs/USER_GUIDE.md)**
+
+<p align="center">
+  <img src="assets/sentrix-logo.svg" alt="Sentrix logo" width="160">
+</p>
 
 ### Sentrix v1.0.0 FINAL
 
