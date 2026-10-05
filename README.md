@@ -4,7 +4,7 @@
 
 ### Cybersecurity · Software Engineering · Cloud · DevOps · AI
 
-**Building practical security and software products from engineering fundamentals to customer-ready releases.**
+**Building practical security and software products from engineering fundamentals to customer ready releases.**
 
 [![AegisLog](https://img.shields.io/badge/AegisLog-v2.1.17-1f6feb?style=for-the-badge)](https://github.com/HR-Presents/AegisLog-AI/releases/tag/v2.1.17)
 ![Sentrix](https://img.shields.io/badge/Sentrix-v1.0.0_FINAL-0A66C2?style=for-the-badge)
@@ -26,9 +26,11 @@ We build practical software across **defensive cybersecurity, secure development
 
 Our work takes products through implementation, testing, security review, documentation, packaging and release verification. We pay attention to how people install the software, understand its findings and use it in their existing workflows.
 
+We also develop custom solutions around customer requirements, with the scope, features and delivery agreed before implementation.
+
 ## Released Products
 
-### 🛡️ AegisLog v2.1.17
+### AegisLog v2.1.17
 
 **Free, open source defensive log investigation in your terminal.**
 
@@ -63,7 +65,7 @@ Windows executable users do not need Python. Python users can install through pi
 
 **[Explore AegisLog](https://github.com/HR-Presents/AegisLog-AI) · [Download v2.1.17](https://github.com/HR-Presents/AegisLog-AI/releases/tag/v2.1.17) · [User Guide](https://github.com/HR-Presents/AegisLog-AI/blob/main/docs/USER_GUIDE.md)**
 
-### ⚡ Sentrix v1.0.0 FINAL
+### Sentrix v1.0.0 FINAL
 
 **Python code review with structured findings and professional reports.**
 
@@ -94,29 +96,33 @@ Commercial product · portable Windows distribution · local browser workspace �
 
 ## What We Build
 
-### 🛡️ Defensive Security
+### Defensive Security
 
 Monitoring, log analysis, incident investigation, detection workflows and security telemetry.
 
-### 🔐 Secure Development
+### Secure Development
 
 Static analysis, code quality, secure coding guidance and standards aware engineering.
 
-### ⚙️ Automation & DevOps
+### Automation & DevOps
 
 Python automation, CI/CD, containers, infrastructure tooling and release engineering.
 
-### ☁️ Cloud & Infrastructure
+### Cloud & Infrastructure
 
 AWS, Azure, Linux, networking, cloud security and architecture.
 
-### 🤖 AI & Data
+### AI & Data
 
 Machine learning, deep learning, data analysis, NLP, computer vision and AI assisted tooling.
 
-### 🏭 OT / ICS Security
+### OT / ICS Security
 
 SCADA and ICS concepts, industrial security and study informed by NIST and ISO guidance.
+
+> [!TIP]
+> **Custom solutions on request**
+> We can build software, defensive security tools, automation, cloud and DevOps solutions, and AI or data workflows tailored to customer requirements. Share your idea or existing workflow with our founders to discuss feasibility, scope, features and delivery.
 
 ## Founders
 
@@ -126,7 +132,7 @@ SCADA and ICS concepts, industrial security and study informed by NIST and ISO g
 
 ### Haziq Afzal
 
-**Co-Founder & CEO**
+**Co Founder & CEO**
 
 Leads product direction, technical strategy, software engineering, cybersecurity development and the continued growth of HR-Presents.
 
@@ -141,7 +147,7 @@ Cybersecurity · Python · Linux · cloud · DevOps · automation · AI/ML · pr
 
 ### Ruveeha Ashfaq
 
-**Co-Founder & COO**
+**Co Founder & COO**
 
 Leads operations and project execution, with a focus on documentation, quality, product delivery, customer experience and security engineering workflows.
 
@@ -296,17 +302,39 @@ Our focus is maintaining the released tool and responding to concrete user needs
 
 ## Connect
 
-**HR-Presents**
+<table>
+<tr>
+<td colspan="2" align="center">
+
+### HR-Presents
+
+**Product enquiries · Custom solutions · Collaboration**
 
 [github.com/HR-Presents](https://github.com/HR-Presents)
 
-**Haziq Afzal**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+### Haziq Afzal
+
+**Co Founder & CEO**
 
 [GitHub](https://github.com/HaziqBinAfzal) · [LinkedIn](https://www.linkedin.com/in/haziq-afzal-010b6636a)
 
-**Ruveeha Ashfaq**
+</td>
+<td width="50%" valign="top" align="center">
+
+### Ruveeha Ashfaq
+
+**Co Founder & COO**
 
 [GitHub](https://github.com/ruveeha33) · [LinkedIn](https://www.linkedin.com/in/ruveeha-ashfaq-632b15378)
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
