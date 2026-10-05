@@ -31,7 +31,7 @@ We also develop custom solutions around customer requirements, with the scope, f
 ## Released Products
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HR-Presents/AegisLog-AI/main/src/aegislog/assets/aegislog-logo.png" alt="AegisLog logo" width="160">
+  <img src="https://raw.githubusercontent.com/HR-Presents/AegisLog-AI/main/docs/assets/aegislog-readme-dark.png" alt="AegisLog logo" width="320">
 </p>
 
 ### AegisLog v2.1.17
@@ -140,9 +140,9 @@ SCADA and ICS concepts, industrial security and study informed by NIST and ISO g
 
 ### Haziq Afzal
 
-**Co Founder & CEO**
+**Co Founder & CTO**
 
-Leads product direction, technical strategy, software engineering, cybersecurity development and the continued growth of HR-Presents.
+Leads technical strategy, software engineering, cybersecurity development and the technical direction of HR-Presents products.
 
 **Focus**
 
@@ -155,9 +155,9 @@ Cybersecurity · Python · Linux · cloud · DevOps · automation · AI/ML · pr
 
 ### Ruveeha Ashfaq
 
-**Co Founder & COO**
+**Co Founder & CEO**
 
-Leads operations and project execution, with a focus on documentation, quality, product delivery, customer experience and security engineering workflows.
+Leads company direction, operations and product delivery, with a focus on quality, customer experience and the continued growth of HR-Presents.
 
 **Focus**
 
@@ -293,56 +293,6 @@ Frameworks guide engineering decisions without implying certification.
 **Continuous learning**
 
 Technical study is applied through builds, experiments, reviews and improvements.
-
-## GitHub Milestones
-
-**Pull Shark x2 · Quickdraw**
-
-We treat GitHub achievements as small milestones. The engineering, collaboration and product history behind them matter more than the badge itself.
-
-## Current Direction
-
-**Maintain released products · defensive security engineering · secure software development · cloud and DevOps automation · AI assisted tooling · practical security research · open source participation · software delivery**
-
-AegisLog is currently released as **stable v2.1.17**.
-
-Our focus is maintaining the released tool and responding to concrete user needs. Broader real world detection validation, physical PC compatibility testing and Windows code signing remain future work.
-
-## Connect
-
-<table>
-<tr>
-<td colspan="2" align="center">
-
-### HR-Presents
-
-**Product enquiries · Custom solutions · Collaboration**
-
-[github.com/HR-Presents](https://github.com/HR-Presents)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center">
-
-### Haziq Afzal
-
-**Co Founder & CEO**
-
-[GitHub](https://github.com/HaziqBinAfzal) · [LinkedIn](https://www.linkedin.com/in/haziq-afzal-010b6636a)
-
-</td>
-<td width="50%" valign="top" align="center">
-
-### Ruveeha Ashfaq
-
-**Co Founder & COO**
-
-[GitHub](https://github.com/ruveeha33) · [LinkedIn](https://www.linkedin.com/in/ruveeha-ashfaq-632b15378)
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 
