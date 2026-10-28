@@ -1,1 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="HR-Presents company banner"><defs><linearGradient id="bg"><stop stop-color="#071426"/><stop offset="1" stop-color="#0D2948"/></linearGradient><linearGradient id="line"><stop stop-color="#38BDF8"/><stop offset=".5" stop-color="#2585FF"/><stop offset="1" stop-color="#60A5FA"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#2585FF" stroke-opacity=".08"/></pattern></defs><rect width="1280" height="360" rx="20" fill="url(#bg)"/><rect width="1280" height="360" rx="20" fill="url(#grid)"/><circle cx="1150" cy="180" r="170" fill="#2585FF" opacity=".1"/><circle cx="1150" cy="180" r="124" fill="none" stroke="#2585FF" stroke-opacity=".3"/><circle cx="1150" cy="180" r="86" fill="none" stroke="#38BDF8" stroke-opacity=".4"/><path d="m1115 177 24 24 46-52" fill="none" stroke="url(#line)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/><rect x="54" y="55" width="156" height="28" rx="14" fill="#1557B0"/><text x="132" y="74" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#fff">BUILD TOGETHER</text><text x="54" y="151" font-family="Arial,sans-serif" font-size="55" font-weight="700" fill="#fff">HR-Presents</text><text x="57" y="197" font-family="Arial,sans-serif" font-size="24" fill="#DCEBFF">Software · Cybersecurity · Technical Education</text><text x="57" y="244" font-family="Arial,sans-serif" font-size="19" fill="#93C5FD">CYBERSECURITY · LINUX · CLOUD &amp; DEVOPS</text><text x="57" y="276" font-family="Arial,sans-serif" font-size="19" fill="#B9D6FF">BUILT BY HAZIQ AFZAL &amp; RUVEEHA ASHFAQ</text><rect x="55" y="313" width="1170" height="4" rx="2" fill="url(#line)"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-label="HR-Presents — Build. Teach. Solve."><style>text{font-family:Arial,Helvetica,sans-serif}.mono{font-family:DejaVu Sans Mono,monospace}</style>
+<defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#23415F" stroke-width=".6"/></pattern></defs>
+<path d="M0 0H1252L1280 28V420H28L0 392Z" fill="#071727"/>
+<path d="M0 0H810V420H28L0 392Z" fill="#EDF4F8"/>
+<path d="M810 0H1252L1280 28V420H810Z" fill="url(#grid)"/>
+<rect x="42" y="38" width="30" height="6" fill="#1677FF"/>
+<text x="84" y="47" class="mono" fill="#42617A" font-size="12" letter-spacing="2">HR / INDEPENDENT TECHNOLOGY STUDIO</text>
+<text x="40" y="135" fill="#071727" font-size="72" font-weight="800" letter-spacing="-3">HR-Presents</text>
+<text x="44" y="200" fill="#071727" font-size="42" font-weight="700">Build. Teach. Solve.</text>
+<text x="46" y="247" fill="#42617A" font-size="19">Software with purpose. Skills you can put to work.</text>
+<path d="M44 284H758" stroke="#C6D5DF"/>
+<g class="mono" font-size="12" letter-spacing="1"><text x="44" y="316" fill="#1677FF">01 / SOFTWARE</text><text x="295" y="316" fill="#1677FF">02 / EDUCATION</text><text x="548" y="316" fill="#1677FF">03 / SERVICES</text></g>
+<text x="44" y="373" fill="#42617A" font-size="14">Haziq Afzal + Ruveeha Ashfaq</text>
+<g fill="none" stroke="#2C8CFF" stroke-width="3"><path d="M866 104H918V164H1002V104H1054V278H1002V216H918V278H866Z"/><path d="M1082 278V104H1150L1190 140V186L1150 216H1082M1146 216L1194 278"/></g>
+<g fill="#81BAFF"><circle cx="866" cy="104" r="5"/><circle cx="1054" cy="278" r="5"/><circle cx="1194" cy="278" r="5"/></g>
+<path d="M850 332H1238" stroke="#23415F"/><text x="854" y="361" class="mono" fill="#A6BDD0" font-size="12" letter-spacing="2">ENGINEERING × LEARNING</text>
+<path d="M810 0V420" stroke="#1677FF" stroke-width="3"/><rect x="1244" y="388" width="12" height="12" fill="#FFB454"/>
+</svg>
