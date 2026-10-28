@@ -107,9 +107,65 @@ We work together on agreed technical projects, from understanding your requireme
 
 ## Tech stack
 
-<img src="./technology-panel.svg" width="100%" alt="Engineering: Python, Flask, Bash, Git and APIs. Infrastructure: Linux, Docker, CI/CD and cloud tools. Security: code analysis and log investigation tools." />
+**Programming & automation**
 
-Tools across our products, engineering work and labs. Usage varies by project. [Broader technical foundation](company-background.md#technical-foundation).
+![Python](https://img.shields.io/badge/Python-12355B?style=for-the-badge&logoColor=E6F1FF&logo=python)
+![Flask](https://img.shields.io/badge/Flask-164578?style=for-the-badge&logoColor=E6F1FF&logo=flask)
+![Bash](https://img.shields.io/badge/Bash-1557B0?style=for-the-badge&logoColor=E6F1FF&logo=gnubash)
+![Python Automation](https://img.shields.io/badge/Python_Automation-1E65A6?style=for-the-badge&logoColor=E6F1FF&logo=python)
+![REST APIs](https://img.shields.io/badge/REST_APIs-12355B?style=for-the-badge&logoColor=E6F1FF)
+![Git](https://img.shields.io/badge/Git-164578?style=for-the-badge&logoColor=E6F1FF&logo=git)
+![Jira](https://img.shields.io/badge/Jira-1557B0?style=for-the-badge&logoColor=E6F1FF&logo=jira)
+
+**Linux & cloud**
+
+![Linux](https://img.shields.io/badge/Linux-12355B?style=for-the-badge&logoColor=E6F1FF&logo=linux)
+![AWS](https://img.shields.io/badge/AWS-164578?style=for-the-badge&logoColor=E6F1FF&logo=amazonwebservices)
+![Azure](https://img.shields.io/badge/Azure-1557B0?style=for-the-badge&logoColor=E6F1FF)
+![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-1E65A6?style=for-the-badge&logoColor=E6F1FF)
+![Linux Administration](https://img.shields.io/badge/Linux_Administration-12355B?style=for-the-badge&logoColor=E6F1FF&logo=linux)
+![SSH](https://img.shields.io/badge/SSH-164578?style=for-the-badge&logoColor=E6F1FF)
+
+**DevOps & infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-12355B?style=for-the-badge&logoColor=E6F1FF&logo=docker)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-164578?style=for-the-badge&logoColor=E6F1FF&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1557B0?style=for-the-badge&logoColor=E6F1FF&logo=githubactions)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-1E65A6?style=for-the-badge&logoColor=E6F1FF&logo=githubactions)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-12355B?style=for-the-badge&logoColor=E6F1FF&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/Terraform-164578?style=for-the-badge&logoColor=E6F1FF&logo=terraform)
+![Ansible](https://img.shields.io/badge/Ansible-1557B0?style=for-the-badge&logoColor=E6F1FF&logo=ansible)
+![Jenkins](https://img.shields.io/badge/Jenkins-1E65A6?style=for-the-badge&logoColor=E6F1FF&logo=jenkins)
+
+**Security & investigation**
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-12355B?style=for-the-badge&logoColor=E6F1FF)
+![Log Analysis](https://img.shields.io/badge/Log_Analysis-164578?style=for-the-badge&logoColor=E6F1FF)
+![Incident Investigation](https://img.shields.io/badge/Incident_Investigation-1557B0?style=for-the-badge&logoColor=E6F1FF)
+![Security Automation](https://img.shields.io/badge/Security_Automation-1E65A6?style=for-the-badge&logoColor=E6F1FF&logo=python)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-12355B?style=for-the-badge&logoColor=E6F1FF&logo=elasticsearch)
+![SHA256](https://img.shields.io/badge/SHA256-164578?style=for-the-badge&logoColor=E6F1FF)
+![Backup & Recovery](https://img.shields.io/badge/Backup_%26_Recovery-1557B0?style=for-the-badge&logoColor=E6F1FF)
+
+**Code quality & secure development**
+
+![Bandit](https://img.shields.io/badge/Bandit-12355B?style=for-the-badge&logoColor=E6F1FF)
+![Pylint](https://img.shields.io/badge/Pylint-164578?style=for-the-badge&logoColor=E6F1FF)
+![Radon](https://img.shields.io/badge/Radon-1557B0?style=for-the-badge&logoColor=E6F1FF)
+![Black](https://img.shields.io/badge/Black-1E65A6?style=for-the-badge&logoColor=E6F1FF)
+![Syntax Validation](https://img.shields.io/badge/Syntax_Validation-12355B?style=for-the-badge&logoColor=E6F1FF&logo=python)
+![Secure Development](https://img.shields.io/badge/Secure_Development-164578?style=for-the-badge&logoColor=E6F1FF)
+
+**AI, data & ongoing studies**
+
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-12355B?style=for-the-badge&logoColor=E6F1FF)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-164578?style=for-the-badge&logoColor=E6F1FF&logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1557B0?style=for-the-badge&logoColor=E6F1FF&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-1E65A6?style=for-the-badge&logoColor=E6F1FF&logo=pytorch)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-12355B?style=for-the-badge&logoColor=E6F1FF)
+![NLP](https://img.shields.io/badge/NLP-164578?style=for-the-badge&logoColor=E6F1FF)
+
+Tools used across our products, collaborative projects and labs, alongside areas of ongoing study. Usage and experience vary by project. [Technical foundation & learning context](company-background.md#technical-foundation).
 
 <img src="./section-divider.svg" width="100%" alt="" />
 
