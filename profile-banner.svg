@@ -8,9 +8,9 @@
 <text x="40" y="135" fill="#071727" font-size="72" font-weight="800" letter-spacing="-3">HR-Presents</text>
 <text x="44" y="200" fill="#071727" font-size="42" font-weight="700">Build. Teach. Solve.</text>
 <text x="46" y="247" fill="#42617A" font-size="19">Software with purpose. Skills you can put to work.</text>
-<path d="M44 284H758" stroke="#C6D5DF"/>
-<g class="mono" font-size="12" letter-spacing="1"><text x="44" y="316" fill="#1677FF">01 / SOFTWARE</text><text x="295" y="316" fill="#1677FF">02 / EDUCATION</text><text x="548" y="316" fill="#1677FF">03 / SERVICES</text></g>
-<text x="44" y="373" fill="#42617A" font-size="14">Haziq Afzal + Ruveeha Ashfaq</text>
+
+
+<text x="44" y="340" fill="#42617A" font-size="14">Haziq Afzal + Ruveeha Ashfaq</text>
 <g fill="none" stroke="#2C8CFF" stroke-width="3"><path d="M866 104H918V164H1002V104H1054V278H1002V216H918V278H866Z"/><path d="M1082 278V104H1150L1190 140V186L1150 216H1082M1146 216L1194 278"/></g>
 <g fill="#81BAFF"><circle cx="866" cy="104" r="5"/><circle cx="1054" cy="278" r="5"/><circle cx="1194" cy="278" r="5"/></g>
 <path d="M850 332H1238" stroke="#23415F"/><text x="854" y="361" class="mono" fill="#A6BDD0" font-size="12" letter-spacing="2">ENGINEERING × LEARNING</text>
