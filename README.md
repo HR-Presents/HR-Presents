@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile-banner.svg" width="100%" alt="HR-Presents — software, cybersecurity and technical education, built by Haziq Afzal and Ruveeha Ashfaq" />
+<img src="./profile-banner.svg" width="100%" alt="HR-Presents — Build. Teach. Solve. Independent technology studio founded by Haziq Afzal and Ruveeha Ashfaq" />
 
 # HR-Presents
 
@@ -8,13 +8,13 @@
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0A66C2?style=for-the-badge&logoColor=white)
 ![Udemy Instructors](https://img.shields.io/badge/Udemy_Instructors-1557B0?style=for-the-badge&logo=udemy&logoColor=white)
 
-**Practical software. Clear technical learning. Better developer experiences.**
+**Build. Teach. Solve.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Company_Updates-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/hr-presents/)
 [![Udemy](https://img.shields.io/badge/Udemy-Learn_With_Us-1557B0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/user/haziq-x-ruveeha/)
-[![Work with us](https://img.shields.io/badge/Work_With_Us-2585FF?style=for-the-badge&logoColor=white)](#work-with-us)
+[![Work with us](https://img.shields.io/badge/Work_With_Us-2585FF?style=for-the-badge&logoColor=white)](#03--problems-we-help-solve)
 
-[Products](#featured-products) · [Courses](#our-udemy-courses) · [Services](#work-with-us) · [Tech stack](#tech-stack) · [Founders](#founders) · [Background](company-background.md)
+[Products](#01--software-we-build) · [Courses](#02--skills-we-teach) · [Services](#03--problems-we-help-solve) · [Tech stack](#tech-stack) · [Founders](#founders) · [Background](company-background.md)
 
 </div>
 
@@ -24,7 +24,7 @@ We build defensive security and developer tools, create practical technology cou
 
 <img src="./section-divider.svg" width="100%" alt="" />
 
-## Featured products
+## 01 / Software we build
 
 <table>
 <tr>
@@ -49,7 +49,7 @@ AegisLog preserves source logs; its findings support human investigation. Sentri
 
 <img src="./section-divider.svg" width="100%" alt="" />
 
-## Our Udemy courses
+## 02 / Skills we teach
 
 Co-created and co-presented by **Haziq Afzal and Ruveeha Ashfaq** under HR-Presents.
 
@@ -76,7 +76,7 @@ Our shared work includes lesson preparation, demonstrations, recording, quizzes,
 
 <img src="./section-divider.svg" width="100%" alt="" />
 
-## Work with us
+## 03 / Problems we help solve
 
 We work together on agreed technical projects, from understanding your requirement to implementation, documentation and handover.
 
@@ -127,7 +127,7 @@ Tools across our products, engineering work and labs. Usage varies by project. [
 
 ## Founders
 
-<img src="./founders-panel.svg" width="100%" alt="Ruveeha Ashfaq — Co-Founder and CEO; Haziq Afzal — Co-Founder and CTO; HR-Presents and Udemy instructors" />
+<img src="./founders-panel.svg" width="100%" alt="Haziq Afzal — Co-Founder and CTO; Ruveeha Ashfaq — Co-Founder and CEO" />
 
 | Haziq Afzal | Ruveeha Ashfaq |
 | --- | --- |
@@ -165,4 +165,4 @@ The detailed page retains the existing product information, learning context, re
 
 [Company updates & demonstrations](https://www.linkedin.com/company/hr-presents/) · [GitHub projects](https://github.com/HR-Presents) · [Udemy courses](https://www.udemy.com/user/haziq-x-ruveeha/)
 
-<img src="./profile-footer.svg" width="100%" alt="Build thoughtfully. Explain clearly. Keep learning. Haziq Afzal and Ruveeha Ashfaq — HR-Presents" />
+<img src="./profile-footer.svg" width="100%" alt="Useful tools. Practical skills. Shared progress. HR-Presents" />
