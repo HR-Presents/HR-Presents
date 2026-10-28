@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile-banner.svg" width="100%" alt="HR-Presents — software, security and practical learning" />
+<img src="./profile-banner.svg?rev=showcase-20261028" width="100%" alt="HR-Presents — software, security and practical learning" />
 
 # HR-Presents
 
@@ -19,7 +19,7 @@
 </div>
 
 
-<img src="./section-divider.svg" width="100%" alt="" />
+<img src="./section-divider.svg?rev=showcase-20261028" width="100%" alt="" />
 
 **HR-Presents** is founded and built together by **Haziq Afzal** and **Ruveeha Ashfaq**. We develop defensive security and developer tools, create hands-on technology courses, and help people present and document their engineering work.
 
@@ -31,7 +31,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/HR-Presents/AegisLog"><img src="./card-aegislog.svg" width="100%" alt="AegisLog — defensive log investigation, free and open source" /></a>
+<a href="https://github.com/HR-Presents/AegisLog"><img src="./card-aegislog.svg?rev=showcase-20261028" width="100%" alt="AegisLog — defensive log investigation, free and open source" /></a>
 <p align="center"><a href="product-gallery.md#aegislog"><img src="./assets/media/aegislog-terminal.jpg" width="360" alt="Actual AegisLog terminal findings — open the gallery for the full-size view" /></a></p>
 <p>Investigate supported logs and accessible Windows, Linux and Docker telemetry. Review retained evidence, incident context and local HTML reports.</p>
 <p><strong>Local · Read-only source access · MIT</strong></p>
@@ -41,7 +41,7 @@
 </td>
 <td width="50%" valign="top">
 
-<a href="https://lnkd.in/p/dJM76MA4"><img src="./card-sentrix.svg" width="100%" alt="Sentrix V1 — Python security and code quality, commercial software" /></a>
+<a href="https://lnkd.in/p/dJM76MA4"><img src="./card-sentrix.svg?rev=showcase-20261028" width="100%" alt="Sentrix V1 — Python security and code quality, commercial software" /></a>
 <p align="center"><a href="https://lnkd.in/p/dJM76MA4"><img src="./assets/media/sentrix-post.jpg" width="192" alt="The original Sentrix V1 product image from the selected LinkedIn introduction post" /></a></p>
 <p>Review Python security, quality, complexity, formatting and syntax with Bandit, Pylint, Radon and Black, plus structured findings and reports.</p>
 <p><strong>Local browser workspace · Commercial</strong></p>
@@ -54,9 +54,8 @@
 
 **[Explore the product gallery →](product-gallery.md)** Original media, full-size previews, demonstrations and product context.
 
-<sub>Compact previews above retain the original image proportions. AegisLog findings support human investigation; Sentrix standards mappings provide engineering context.</sub>
 
-<img src="./section-divider.svg" width="100%" alt="" />
+<img src="./section-divider.svg?rev=showcase-20261028" width="100%" alt="" />
 
 <a id="courses"></a>
 
@@ -89,7 +88,7 @@
 
 [Visit our Udemy instructor page](https://www.udemy.com/user/haziq-x-ruveeha/). Our shared teaching work includes preparation, demonstrations, recording, quizzes and downloadable learning materials.
 
-<img src="./section-divider.svg" width="100%" alt="" />
+<img src="./section-divider.svg?rev=showcase-20261028" width="100%" alt="" />
 
 <a id="services"></a>
 
@@ -126,7 +125,7 @@ Bring your requirement. We agree on the scope, develop the solution, review the 
 
 **[Start a project conversation →](https://www.linkedin.com/company/hr-presents/)** · [Haziq on Fiverr](https://www.fiverr.com/haziq_afzal) · [Ruveeha on Fiverr](https://www.fiverr.com/ruveehaashfaq)
 
-<img src="./section-divider.svg" width="100%" alt="" />
+<img src="./section-divider.svg?rev=showcase-20261028" width="100%" alt="" />
 
 ## Tech stack
 
@@ -185,13 +184,13 @@ Cloud computing · Linux administration · CI/CD · cybersecurity · log analysi
 
 Tools and topics span products, collaborative projects, labs and ongoing study; experience varies by project. [Technical foundation and learning context](company-background.md#technical-foundation).
 
-<img src="./section-divider.svg" width="100%" alt="" />
+<img src="./section-divider.svg?rev=showcase-20261028" width="100%" alt="" />
 
 <a id="founders"></a>
 
 ## The founders
 
-<img src="./founders-panel.svg" width="100%" alt="Haziq Afzal — Co-Founder and CTO; Ruveeha Ashfaq — Co-Founder and CEO" />
+<img src="./founders-panel.svg?rev=showcase-20261028" width="100%" alt="Haziq Afzal — Co-Founder and CTO; Ruveeha Ashfaq — Co-Founder and CEO" />
 
 **Haziq Afzal — Co-Founder & CTO · Udemy Instructor**  
 Technical strategy, software engineering, cybersecurity and product development.  
@@ -203,7 +202,7 @@ Company direction, operations, product delivery and customer experience.
 
 Both founders collaborate across product development, testing, documentation and technical education.
 
-<img src="./section-divider.svg" width="100%" alt="" />
+<img src="./section-divider.svg?rev=showcase-20261028" width="100%" alt="" />
 
 ## Engineering background
 
@@ -214,6 +213,6 @@ Both founders collaborate across product development, testing, documentation and
 
 </details>
 
-<img src="./profile-footer.svg" width="100%" alt="Build thoughtfully. Make technology useful." />
+<img src="./profile-footer.svg?rev=showcase-20261028" width="100%" alt="Build thoughtfully. Make technology useful." />
 
 <p align="center"><strong><a href="https://www.linkedin.com/company/hr-presents/">Discuss a project</a></strong> · <a href="https://www.udemy.com/user/haziq-x-ruveeha/">Learn with us</a> · <a href="#products">Explore our products</a></p>
