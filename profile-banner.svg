@@ -1,18 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-label="HR-Presents — Build. Teach. Solve."><style>text{font-family:Arial,Helvetica,sans-serif}.mono{font-family:DejaVu Sans Mono,monospace}</style>
-<defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#23415F" stroke-width=".6"/></pattern></defs>
-<path d="M0 0H1252L1280 28V420H28L0 392Z" fill="#071727"/>
-<path d="M0 0H810V420H28L0 392Z" fill="#EDF4F8"/>
-<path d="M810 0H1252L1280 28V420H810Z" fill="url(#grid)"/>
-<rect x="42" y="38" width="30" height="6" fill="#1677FF"/>
-<text x="84" y="47" class="mono" fill="#42617A" font-size="12" letter-spacing="2">HR / INDEPENDENT TECHNOLOGY STUDIO</text>
-<text x="40" y="135" fill="#071727" font-size="72" font-weight="800" letter-spacing="-3">HR-Presents</text>
-<text x="44" y="200" fill="#071727" font-size="42" font-weight="700">Build. Teach. Solve.</text>
-<text x="46" y="247" fill="#42617A" font-size="19">Software with purpose. Skills you can put to work.</text>
-
-
-<text x="44" y="340" fill="#42617A" font-size="14">Haziq Afzal + Ruveeha Ashfaq</text>
-<g fill="none" stroke="#2C8CFF" stroke-width="3"><path d="M866 104H918V164H1002V104H1054V278H1002V216H918V278H866Z"/><path d="M1082 278V104H1150L1190 140V186L1150 216H1082M1146 216L1194 278"/></g>
-<g fill="#81BAFF"><circle cx="866" cy="104" r="5"/><circle cx="1054" cy="278" r="5"/><circle cx="1194" cy="278" r="5"/></g>
-<path d="M850 332H1238" stroke="#23415F"/><text x="854" y="361" class="mono" fill="#A6BDD0" font-size="12" letter-spacing="2">ENGINEERING × LEARNING</text>
-<path d="M810 0V420" stroke="#1677FF" stroke-width="3"/><rect x="1244" y="388" width="12" height="12" fill="#FFB454"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="250" viewBox="0 0 1120 250" role="img" aria-label="HR-Presents company banner"><style>text{font-family:Arial,Helvetica,sans-serif}</style><defs><pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#24415C" stroke-width=".7"/></pattern></defs><path d="M0 0H1096L1120 24V250H0Z" fill="#071727"/><rect width="1120" height="250" fill="url(#g)"/><rect x="40" y="57" width="58" height="7" fill="#1677FF"/><text x="38" y="160" fill="#FFFFFF" font-size="88" font-weight="800" letter-spacing="-3">HR-Presents</text><g transform="translate(790 66)" fill="none" stroke="#81BAFF" stroke-width="5"><path d="M0 0V120M0 58H65M65 0V120M100 120V0H146L174 26V53L146 77H100M145 77L179 120"/></g><rect x="1048" y="194" width="15" height="15" fill="#FFB454"/><path d="M40 218H1080" stroke="#1677FF" stroke-width="3"/></svg>

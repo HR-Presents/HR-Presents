@@ -36,7 +36,7 @@ Users can review findings and recommended next steps, search saved cases, compar
 
 **Latest release**
 
-Version **2.1.17** adds JSON limits enforced during reading, bounded custom rule packs and restricted custom regex syntax. It preserves the approved terminal navigation and report appearance.
+Version **2.1.17** adds JSON limits enforced during reading, bounded custom rule packs and restricted custom regex syntax. It includes terminal navigation and local report workflows.
 
 **Availability**
 
@@ -84,7 +84,7 @@ Commercial product · portable Windows distribution · local browser workspace �
 > [!NOTE]
 > Standards mappings provide engineering context. They do not establish certification, legal compliance or the absence of security issues.
 
-**[Contact Haziq](https://www.linkedin.com/in/haziq-afzal-010b6636a) · [Contact Ruveeha](https://www.linkedin.com/in/ruveeha-ashfaq-632b15378)**
+**[Contact Haziq](https://www.linkedin.com/in/haziq-afzal/) · [Contact Ruveeha](https://www.linkedin.com/in/ruveeha-ashfaq/)**
 
 ## What We Build
 
@@ -132,7 +132,7 @@ Leads technical strategy, software engineering, cybersecurity development and th
 
 Cybersecurity · Python · Linux · cloud · DevOps · automation · AI/ML · product engineering
 
-[GitHub](https://github.com/HaziqBinAfzal) · [LinkedIn](https://www.linkedin.com/in/haziq-afzal-010b6636a)
+[GitHub](https://github.com/HaziqBinAfzal) · [LinkedIn](https://www.linkedin.com/in/haziq-afzal/)
 
 </td>
 <td width="50%" valign="top">
@@ -147,7 +147,7 @@ Leads company direction, operations and product delivery, with a focus on qualit
 
 Cybersecurity · cloud security · DevOps · Python · AI/ML · security architecture · critical infrastructure security
 
-[GitHub](https://github.com/ruveeha33) · [LinkedIn](https://www.linkedin.com/in/ruveeha-ashfaq-632b15378)
+[GitHub](https://github.com/ruveeha33) · [LinkedIn](https://www.linkedin.com/in/ruveeha-ashfaq/)
 
 </td>
 </tr>
@@ -157,20 +157,20 @@ Cybersecurity · cloud security · DevOps · Python · AI/ML · security archite
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-Engineering-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Systems-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Engineering-1557B0?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Systems-1557B0?style=for-the-badge&logo=linux&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-1557B0?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containers-1557B0?style=for-the-badge&logo=docker&logoColor=white)
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Cloud_Native-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4?style=for-the-badge)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Cloud_Native-1557B0?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Cloud-1557B0?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-Cloud-1557B0?style=for-the-badge)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-1557B0?style=for-the-badge&logo=terraform&logoColor=white)
 
-![Ansible](https://img.shields.io/badge/Ansible-Automation-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-Analytics-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-Python_Web-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Security](https://img.shields.io/badge/Security-NIST_%7C_MITRE_%7C_ISO-526D82?style=for-the-badge)
+![Ansible](https://img.shields.io/badge/Ansible-Automation-1557B0?style=for-the-badge&logo=ansible&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-Analytics-1557B0?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-Python_Web-1557B0?style=for-the-badge&logo=flask&logoColor=white)
+![Security](https://img.shields.io/badge/Security-NIST_%7C_MITRE_%7C_ISO-1557B0?style=for-the-badge)
 
 </div>
 

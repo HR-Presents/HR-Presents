@@ -10,3 +10,5 @@ Original images downloaded 28 October 2026 for the HR-Presents profile.
 Product images are published media, not new software runs. Files retain their original downloaded image bytes.
 
 - sentrix-post.jpg: Exact introduction post image requested by the owner: https://lnkd.in/p/dJM76MA4 (resolves to https://www.linkedin.com/posts/haziq-afzal_proud-to-introduce-hr-presents-and-our-first-share-7494137303724875776-nCU7/). Replaces the report cover in the profile.
+
+- aegislog-terminal.jpg: Unaltered video frame extracted at 00:01:08 from the AegisLog LinkedIn demo above. Replaces the repository thumbnail in the main profile. It shows the recorded demo findings, not an independent software test.
