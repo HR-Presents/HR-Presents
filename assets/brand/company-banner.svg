@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-label="HR-Presents — software, security and practical learning"><style>text{font-family:Arial,Helvetica,sans-serif}</style>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080F1C"/><stop offset="1" stop-color="#12345B"/></linearGradient><radialGradient id="glow"><stop stop-color="#2D8CFF" stop-opacity=".24"/><stop offset="1" stop-color="#2D8CFF" stop-opacity="0"/></radialGradient><linearGradient id="edge"><stop stop-color="#72C4FF"/><stop offset="1" stop-color="#246CFF"/></linearGradient></defs>
+<rect x="1" y="1" width="1278" height="338" rx="22" fill="url(#bg)" stroke="#294461"/><ellipse cx="1035" cy="155" rx="310" ry="260" fill="url(#glow)"/>
+<path d="M1000 24L875 316M1125 24L1000 316M1250 24L1125 316" stroke="#75BBFF" stroke-opacity=".12"/>
+<rect x="48" y="44" width="7" height="246" rx="3.5" fill="url(#edge)"/>
+<text x="80" y="96" fill="#83C7FF" font-size="18" letter-spacing="4">SOFTWARE / SECURITY / EDUCATION</text>
+<text x="75" y="183" fill="#FFFFFF" font-size="82" font-weight="700" letter-spacing="-3">HR-Presents</text>
+<text x="80" y="239" fill="#D6E6F8" font-size="30">Build thoughtfully. Make technology useful.</text>
+<g transform="translate(1016 102)" fill="none" stroke="#83C7FF" stroke-width="4" stroke-linejoin="round"><path d="M0 0V120M0 58H48M48 0V120M81 120V0H120L148 24V52L120 75H81M120 75L153 120"/><circle cx="0" cy="0" r="5" fill="#83C7FF"/><circle cx="153" cy="120" r="5" fill="#83C7FF"/></g>
+<path d="M80 282H760" stroke="#35536F"/><circle cx="1203" cy="288" r="5" fill="#83C7FF"/>
+</svg>
