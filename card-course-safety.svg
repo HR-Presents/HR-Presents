@@ -1,14 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="560" height="226" viewBox="0 0 560 226" role="img" aria-labelledby="title desc">
-<title id="title">Think Before You Click</title><desc id="desc">The Online Safety Course · Phishing · Privacy · Account protection</desc>
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0B1B30"/><stop offset="1" stop-color="#071426"/></linearGradient><linearGradient id="accent"><stop stop-color="#60A5FA"/><stop offset="1" stop-color="#38BDF8"/></linearGradient></defs>
-<rect x="1" y="1" width="558" height="224" rx="20" fill="url(#bg)" stroke="#25415F"/>
-<path d="M21 1h518" stroke="url(#accent)" stroke-width="3"/>
-<circle cx="515" cy="45" r="96" fill="#60A5FA" opacity=".07"/>
-<g transform="translate(461 37) scale(.85)" fill="none" stroke="#60A5FA" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M15 6h31v52H15zM23 14h15M29 49h4m9-21 12 9-8 2-3 8Z"/></g>
-<text x="28" y="35" fill="#60A5FA" font-family="DejaVu Sans,Arial,sans-serif" font-size="11" letter-spacing="2" font-weight="700">02 / UDEMY COURSE</text>
-<text x="28" y="86" fill="#F5F9FF" font-family="DejaVu Sans,Arial,sans-serif" font-size="27" font-weight="700">Think Before You Click</text>
-<text x="28" y="119" fill="#C4D5E8" font-family="DejaVu Sans,Arial,sans-serif" font-size="15">The Online Safety Course</text>
-<line x1="28" y1="145" x2="532" y2="145" stroke="#25415F"/>
-<text x="28" y="174" fill="#60A5FA" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="600">Phishing · Privacy · Account protection</text>
-<text x="28" y="204" fill="#92ABC7" font-family="DejaVu Sans,Arial,sans-serif" font-size="10" letter-spacing="1.4">HR-PRESENTS · COLLABORATIVE ENGINEERING</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="244" viewBox="0 0 560 244" role="img" aria-label="Think Before You Click — The Online Safety Course"><style>text{font-family:Arial,Helvetica,sans-serif}.mono{font-family:DejaVu Sans Mono,monospace}</style>
+<path d="M0 0H540L560 20V244H0Z" fill="#EDF4F8"/>
+<path d="M0 0H560V5H0Z" fill="#1677FF"/>
+<rect x="398" y="5" width="162" height="239" fill="#0B2238"/>
+<g fill="none" stroke="#1C3C59"><path d="M398 44H560M398 84H560M398 124H560M398 164H560M398 204H560M438 5V244M478 5V244M518 5V244"/></g>
+<text x="24" y="37" class="mono" fill="#42617A" font-size="10" letter-spacing="1.5">02 / UDEMY COURSE</text>
+<text x="24" y="93" fill="#071727" font-size="31" font-weight="800" letter-spacing="-.7">Think Before You Click</text>
+<text x="24" y="126" fill="#42617A" font-size="13">The Online Safety Course</text>
+<path d="M24 155H374" stroke="#C6D5DF"/>
+<text x="24" y="184" class="mono" fill="#155BAA" font-size="10">PAUSE / VERIFY / PROTECT</text>
+<text x="24" y="222" class="mono" fill="#42617A" font-size="9" letter-spacing="1.5">HR-PRESENTS / PRACTICAL LEARNING</text>
+<g transform="translate(438 77) scale(.85)" fill="none" stroke="#81BAFF" stroke-width="3" stroke-linejoin="round"><path d="M42 0L84 16V52Q84 83 42 105Q0 83 0 52V16Z M20 49L36 65L65 32"/></g>
+<text x="423" y="225" class="mono" fill="#81BAFF" font-size="10">02</text><path d="M512 215H535L529 209M535 215L529 221" stroke="#FFB454" stroke-width="2" fill="none"/>
 </svg>
