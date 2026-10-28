@@ -12,9 +12,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Company_Updates-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/hr-presents/)
 [![Udemy](https://img.shields.io/badge/Udemy-Learn_With_Us-1557B0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/user/haziq-x-ruveeha/)
-[![Work with us](https://img.shields.io/badge/Work_With_Us-2585FF?style=for-the-badge&logoColor=white)](#03--problems-we-help-solve)
+[![Work with us](https://img.shields.io/badge/Work_With_Us-2585FF?style=for-the-badge&logoColor=white)](#services)
 
-[Products](#01--software-we-build) · [Courses](#02--skills-we-teach) · [Services](#03--problems-we-help-solve) · [Tech stack](#tech-stack) · [Founders](#founders) · [Background](company-background.md)
+[Products](#products) · [Courses](#courses) · [Services](#services) · [Tech stack](#tech-stack) · [Founders](#founders) · [Background](company-background.md)
 
 </div>
 
@@ -24,11 +24,13 @@ We build defensive security and developer tools, create practical technology cou
 
 <img src="./section-divider.svg" width="100%" alt="" />
 
+<a id="products"></a>
+
 ## 01 / Software we build
 
 ### AegisLog
 
-<a href="https://www.linkedin.com/posts/hr-presents_cybersecurity-opensource-cybersecuritytools-activity-7512948828828770305-A2MA"><img src="./assets/media/aegislog.jpg" width="100%" alt="AegisLog introduction video thumbnail from HR-Presents on LinkedIn" /></a>
+<p align="center"><a href="https://www.linkedin.com/posts/hr-presents_cybersecurity-opensource-cybersecuritytools-activity-7512948828828770305-A2MA"><img src="./assets/media/aegislog.jpg" width="676" alt="AegisLog introduction video thumbnail from HR-Presents on LinkedIn" /></a></p>
 
 Investigate supported files and accessible Windows, Linux and Docker telemetry locally. Review evidence, incident context and HTML reports.
 
@@ -36,7 +38,7 @@ Investigate supported files and accessible Windows, Linux and Docker telemetry l
 
 ### Sentrix V1
 
-<p align="center"><a href="https://lnkd.in/p/dJM76MA4"><img src="./assets/media/sentrix-post.jpg" width="800" alt="Sentrix V1 product image from Haziq Afzal’s LinkedIn introduction post" /></a></p>
+<p align="center"><a href="https://lnkd.in/p/dJM76MA4"><img src="./assets/media/sentrix-post.jpg" width="640" alt="Sentrix V1 product image from Haziq Afzal’s LinkedIn introduction post" /></a></p>
 
 Review Python security, quality, complexity, formatting and syntax in a local browser workspace with structured findings and downloadable reports.
 
@@ -51,6 +53,8 @@ AegisLog preserves source logs; its findings support human investigation. Sentri
 
 <img src="./section-divider.svg" width="100%" alt="" />
 
+<a id="courses"></a>
+
 ## 02 / Skills we teach
 
 Co-created and co-presented by **Haziq Afzal and Ruveeha Ashfaq** under HR-Presents.
@@ -58,12 +62,16 @@ Co-created and co-presented by **Haziq Afzal and Ruveeha Ashfaq** under HR-Prese
 <table>
 <tr>
 <td width="50%" valign="top">
+<h3>Docker Pro Skills</h3>
+<p><strong>Build, Secure &amp; Deploy Applications</strong></p>
 <a href="https://www.udemy.com/course/docker-mastery-from-beginner-to-job-ready/"><img src="./assets/media/course-docker.jpg" width="100%" alt="Docker Pro Skills: Build, Secure & Deploy Applications" /></a>
 <p>From your first container to application delivery: Dockerfiles, Compose, volumes, networking, security, troubleshooting and CI/CD.</p>
 <p>Practical labs, quizzes and an e-commerce capstone, with NGINX, Swarm and Kubernetes fundamentals.</p>
 <p><a href="https://www.udemy.com/course/docker-mastery-from-beginner-to-job-ready/">Explore the Docker course →</a></p>
 </td>
 <td width="50%" valign="top">
+<h3>Think Before You Click</h3>
+<p><strong>The Online Safety Course</strong></p>
 <a href="https://www.udemy.com/course/think-before-you-click-the-online-safety-course/"><img src="./assets/media/course-safety.jpg" width="100%" alt="Think Before You Click: The Online Safety Course" /></a>
 <p>Recognize scams, phishing, suspicious websites and impersonation. Build better habits around accounts, privacy, AI deepfakes and everyday online decisions.</p>
 <p>Fictional scenarios, missions, quizzes and downloadable safety resources. <strong>Pause. Verify. Protect.</strong></p>
@@ -77,6 +85,8 @@ Our shared work includes lesson preparation, demonstrations, recording, quizzes,
 **[Visit our Udemy instructor page →](https://www.udemy.com/user/haziq-x-ruveeha/)**
 
 <img src="./section-divider.svg" width="100%" alt="" />
+
+<a id="services"></a>
 
 ## 03 / Problems we help solve
 
@@ -111,10 +121,9 @@ Tools across our products, engineering work and labs. Usage varies by project. [
 | --- | --- |
 | **Co-Founder & CTO** | **Co-Founder & CEO** |
 | Technical strategy, software engineering, cybersecurity and product development. | Company direction, operations, product delivery and customer experience. |
-| [GitHub](https://github.com/HaziqBinAfzal) · [LinkedIn](https://www.linkedin.com/in/haziq-afzal-010b6636a) | [GitHub](https://github.com/ruveeha33) · [LinkedIn](https://www.linkedin.com/in/ruveeha-ashfaq-632b15378) |
+| [GitHub](https://github.com/HaziqBinAfzal) · [LinkedIn](https://www.linkedin.com/in/haziq-afzal/) | [GitHub](https://github.com/ruveeha33) · [LinkedIn](https://www.linkedin.com/in/ruveeha-ashfaq/) |
 
 Both founders collaborate across products, course creation, technical work and documentation.
-
 
 
 <img src="./section-divider.svg" width="100%" alt="" />
