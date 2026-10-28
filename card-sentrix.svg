@@ -1,14 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="560" height="244" viewBox="0 0 560 244" role="img" aria-label="Sentrix V1 — Python security &amp; code quality"><style>text{font-family:Arial,Helvetica,sans-serif}.mono{font-family:DejaVu Sans Mono,monospace}</style>
-<path d="M0 0H540L560 20V244H0Z" fill="#EDF4F8"/>
-<path d="M0 0H560V5H0Z" fill="#1677FF"/>
-<rect x="398" y="5" width="162" height="239" fill="#0B2238"/>
-<g fill="none" stroke="#1C3C59"><path d="M398 44H560M398 84H560M398 124H560M398 164H560M398 204H560M438 5V244M478 5V244M518 5V244"/></g>
-<text x="24" y="37" class="mono" fill="#42617A" font-size="10" letter-spacing="1.5">02 / SOFTWARE</text>
-<text x="24" y="93" fill="#071727" font-size="31" font-weight="800" letter-spacing="-.7">Sentrix V1</text>
-<text x="24" y="126" fill="#42617A" font-size="13">Python security &amp; code quality</text>
-<path d="M24 155H374" stroke="#C6D5DF"/>
-<text x="24" y="184" class="mono" fill="#155BAA" font-size="10">BANDIT / PYLINT / RADON / BLACK</text>
-<text x="24" y="222" class="mono" fill="#42617A" font-size="9" letter-spacing="1.5">HR-PRESENTS / PRODUCT ENGINEERING</text>
-<g transform="translate(438 77) scale(.85)" fill="none" stroke="#81BAFF" stroke-width="3" stroke-linejoin="round"><path d="M25 10L0 40L25 70 M65 10L90 40L65 70 M53 0L37 80"/></g>
-<text x="423" y="225" class="mono" fill="#81BAFF" font-size="10">02</text><path d="M512 215H535L529 209M535 215L529 221" stroke="#FFB454" stroke-width="2" fill="none"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="330" viewBox="0 0 1120 330" role="img" aria-label="Sentrix V1 — code review workflow illustration"><style>text{font-family:Arial,Helvetica,sans-serif}.mono{font-family:DejaVu Sans Mono,monospace}</style>
+<path d="M0 0H1096L1120 24V330H0Z" fill="#EDF4F8"/>
+<rect width="6" height="330" fill="#1677FF"/>
+<text x="32" y="39" fill="#155BAA" font-size="13" font-weight="700">02 / PYTHON CODE REVIEW</text>
+<text x="32" y="104" fill="#071727" font-size="46" font-weight="800">Sentrix V1</text>
+<text x="34" y="151" fill="#42617A" font-size="24" font-weight="400">Understand your code.</text>
+<text x="34" y="188" fill="#42617A" font-size="24" font-weight="400">Prioritize your next fix.</text>
+<text x="34" y="253" fill="#155BAA" font-size="14" font-weight="700">SECURITY · QUALITY · COMPLEXITY</text>
+<text x="34" y="296" fill="#42617A" font-size="12" font-weight="400">COMMERCIAL / LOCAL BROWSER WORKSPACE</text>
+<rect x="580" y="30" width="508" height="270" rx="8" fill="#0B2238" stroke="#294560"/>
+<path d="M580 68H1088" stroke="#294560"/>
+<circle cx="600" cy="49" r="4" fill="#1677FF"/><circle cx="616" cy="49" r="4" fill="#81BAFF"/><circle cx="632" cy="49" r="4" fill="#FFB454"/>
+<text x="654" y="54" fill="#A6BDD0" font-size="12" font-weight="400">ANALYSIS WORKFLOW</text>
+
+<text x="602" y="110" fill="#FFFFFF" font-size="20" font-weight="700">Python file / project</text>
+<path d="M602 132H1066" stroke="#294560"/>
+<text x="602" y="168" fill="#81BAFF" font-size="18" font-weight="400">Bandit</text><text x="830" y="168" fill="#C4D5E8" font-size="17" font-weight="400">Security review</text>
+<text x="602" y="207" fill="#81BAFF" font-size="18" font-weight="400">Pylint + Radon</text><text x="830" y="207" fill="#C4D5E8" font-size="17" font-weight="400">Quality &amp; complexity</text>
+<text x="602" y="246" fill="#81BAFF" font-size="18" font-weight="400">Black + syntax</text><text x="830" y="246" fill="#C4D5E8" font-size="17" font-weight="400">Format &amp; validation</text>
+
+<text x="602" y="283" fill="#92ABC7" font-size="10" font-weight="400">WORKFLOW ILLUSTRATION / NOT A PRODUCT CAPTURE</text>
 </svg>
