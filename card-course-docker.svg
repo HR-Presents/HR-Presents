@@ -3,12 +3,12 @@
 <path d="M0 0H560V5H0Z" fill="#1677FF"/>
 <rect x="398" y="5" width="162" height="239" fill="#0B2238"/>
 <g fill="none" stroke="#1C3C59"><path d="M398 44H560M398 84H560M398 124H560M398 164H560M398 204H560M438 5V244M478 5V244M518 5V244"/></g>
-<text x="24" y="37" class="mono" fill="#42617A" font-size="10" letter-spacing="1.5">01 / UDEMY COURSE</text>
+<text x="24" y="37" class="mono" fill="#42617A" font-size="12" letter-spacing="1.5">01 / UDEMY COURSE</text>
 <text x="24" y="93" fill="#071727" font-size="31" font-weight="800" letter-spacing="-.7">Docker Pro Skills</text>
 <text x="24" y="126" fill="#42617A" font-size="13">Build, Secure &amp; Deploy Applications</text>
 <path d="M24 155H374" stroke="#C6D5DF"/>
-<text x="24" y="184" class="mono" fill="#155BAA" font-size="10">CONTAINERS / COMPOSE / CI-CD</text>
-<text x="24" y="222" class="mono" fill="#42617A" font-size="9" letter-spacing="1.5">HR-PRESENTS / PRACTICAL LEARNING</text>
+<text x="24" y="184" class="mono" fill="#155BAA" font-size="12">CONTAINERS / COMPOSE / CI-CD</text>
+<text x="24" y="222" class="mono" fill="#42617A" font-size="11" letter-spacing="1.5">HR-PRESENTS / PRACTICAL LEARNING</text>
 <g transform="translate(438 77) scale(.85)" fill="none" stroke="#81BAFF" stroke-width="3" stroke-linejoin="round"><rect x="0" y="0" width="30" height="26"/><rect x="38" y="0" width="30" height="26"/><rect x="0" y="34" width="30" height="26"/><rect x="38" y="34" width="30" height="26"/><path d="M-8 76H90L72 100H12Z"/></g>
-<text x="423" y="225" class="mono" fill="#81BAFF" font-size="10">01</text><path d="M512 215H535L529 209M535 215L529 221" stroke="#FFB454" stroke-width="2" fill="none"/>
+<text x="423" y="225" class="mono" fill="#81BAFF" font-size="12">01</text><path d="M512 215H535L529 209M535 215L529 221" stroke="#FFB454" stroke-width="2" fill="none"/>
 </svg>
