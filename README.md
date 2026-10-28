@@ -26,22 +26,20 @@ We build defensive security and developer tools, create practical technology cou
 
 ## 01 / Software we build
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/HR-Presents/AegisLog"><img src="./card-aegislog.svg" width="100%" alt="AegisLog — defensive log investigation" /></a>
-<p>Investigate supported logs and accessible Windows, Linux and Docker telemetry locally. Review retained evidence, investigation timelines and readable HTML reports.</p>
-<p><strong>Free · MIT licensed · Terminal-first</strong></p>
-<p><a href="https://github.com/HR-Presents/AegisLog">Source &amp; documentation</a> · <a href="https://github.com/HR-Presents/AegisLog/releases/latest">Downloads</a> · <a href="https://github.com/HR-Presents/AegisLog/blob/main/docs/QUICKSTART.md">Beginner guide</a></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://www.linkedin.com/posts/hr-presents_sentrix-hrpresents-python-activity-7495086599194558465-6ZIc"><img src="./card-sentrix.svg" width="100%" alt="Sentrix V1 — Python security and code quality" /></a>
-<p>Review Python security, code quality, complexity, formatting and syntax through a local browser workspace. Combines Bandit, Pylint, Radon and Black with structured reporting.</p>
-<p><strong>Commercial product · Local browser workspace</strong></p>
-<p><a href="https://www.linkedin.com/posts/hr-presents_sentrix-hrpresents-python-activity-7495086599194558465-6ZIc">Public demonstration</a> · <a href="https://www.linkedin.com/company/hr-presents/">Discuss editions &amp; licensing</a></p>
-</td>
-</tr>
-</table>
+<a href="https://github.com/HR-Presents/AegisLog"><img src="./card-aegislog.svg" width="100%" alt="AegisLog — source-preserving terminal investigation workflow illustration" /></a>
+
+Investigate supported files and accessible Windows, Linux and Docker telemetry locally. Review evidence, incident context and HTML reports.
+
+**[Explore AegisLog](https://github.com/HR-Presents/AegisLog) · [Download](https://github.com/HR-Presents/AegisLog/releases/latest) · [Try the synthetic demo](https://github.com/HR-Presents/AegisLog/tree/main/docs/demo)**
+
+<a href="https://www.linkedin.com/posts/hr-presents_sentrix-hrpresents-python-activity-7495086599194558465-6ZIc"><img src="./card-sentrix.svg" width="100%" alt="Sentrix V1 — Python analysis workflow illustration" /></a>
+
+Review Python security, quality, complexity, formatting and syntax in a local browser workspace with structured findings and downloadable reports.
+
+**[Watch the public demonstration](https://www.linkedin.com/posts/hr-presents_sentrix-hrpresents-python-activity-7495086599194558465-6ZIc) · [Discuss editions & licensing](https://www.linkedin.com/company/hr-presents/)**
+
+<sub>Product panels illustrate documented workflows. For actual software demonstrations and evidence, follow the links above.</sub>
+
 
 **[Product details & engineering practices →](company-background.md#released-products)**
 
@@ -78,6 +76,8 @@ Our shared work includes lesson preparation, demonstrations, recording, quizzes,
 
 ## 03 / Problems we help solve
 
+<a href="https://www.linkedin.com/company/hr-presents/"><img src="./services-panel.svg" width="100%" alt="Work with HR-Presents — GitHub presentation, documentation and technical support" /></a>
+
 We work together on agreed technical projects, from understanding your requirement to implementation, documentation and handover.
 
 | Service | What we help with |
@@ -87,39 +87,13 @@ We work together on agreed technical projects, from understanding your requireme
 | **Linux, Docker & DevOps support** | Setup guidance, container and Compose troubleshooting, automation and existing CI/CD workflow investigation |
 | **Custom software** | Defensive tools, Python automation and software workflows scoped around your requirements |
 
-[Discuss a project on LinkedIn](https://www.linkedin.com/company/hr-presents/) · [Haziq's services](https://www.fiverr.com/haziq_afzal) · [Ruveeha's services](https://www.fiverr.com/ruveehaashfaq)
+**[Discuss your project on LinkedIn →](https://www.linkedin.com/company/hr-presents/)** · [Haziq's services](https://www.fiverr.com/haziq_afzal) · [Ruveeha's services](https://www.fiverr.com/ruveehaashfaq)
 
 <img src="./section-divider.svg" width="100%" alt="" />
 
 ## Tech stack
 
-**Programming & automation**
-
-![Python](https://img.shields.io/badge/Python-12355B?style=for-the-badge&logoColor=E6F1FF&logo=python)
-![Flask](https://img.shields.io/badge/Flask-164578?style=for-the-badge&logoColor=E6F1FF&logo=flask)
-![Bash](https://img.shields.io/badge/Bash-1557B0?style=for-the-badge&logoColor=E6F1FF&logo=gnubash)
-![Git](https://img.shields.io/badge/Git-1E65A6?style=for-the-badge&logoColor=E6F1FF&logo=git)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-12355B?style=for-the-badge&logoColor=E6F1FF)
-
-**Linux, cloud & DevOps**
-
-![Linux](https://img.shields.io/badge/Linux-12355B?style=for-the-badge&logoColor=E6F1FF&logo=linux)
-![Docker](https://img.shields.io/badge/Docker-164578?style=for-the-badge&logoColor=E6F1FF&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1557B0?style=for-the-badge&logoColor=E6F1FF&logo=githubactions)
-![AWS](https://img.shields.io/badge/AWS-1E65A6?style=for-the-badge&logoColor=E6F1FF&logo=amazonwebservices)
-![Azure](https://img.shields.io/badge/Azure-12355B?style=for-the-badge&logoColor=E6F1FF)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-164578?style=for-the-badge&logoColor=E6F1FF&logo=kubernetes)
-![Terraform](https://img.shields.io/badge/Terraform-1557B0?style=for-the-badge&logoColor=E6F1FF&logo=terraform)
-![Ansible](https://img.shields.io/badge/Ansible-1E65A6?style=for-the-badge&logoColor=E6F1FF&logo=ansible)
-
-**Security & analysis**
-
-![Bandit](https://img.shields.io/badge/Bandit-12355B?style=for-the-badge&logoColor=E6F1FF)
-![Pylint](https://img.shields.io/badge/Pylint-164578?style=for-the-badge&logoColor=E6F1FF)
-![Radon](https://img.shields.io/badge/Radon-1557B0?style=for-the-badge&logoColor=E6F1FF)
-![Black](https://img.shields.io/badge/Black-1E65A6?style=for-the-badge&logoColor=E6F1FF)
-![Log Analysis](https://img.shields.io/badge/Log%20Analysis-12355B?style=for-the-badge&logoColor=E6F1FF)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-164578?style=for-the-badge&logoColor=E6F1FF&logo=elasticsearch)
+<img src="./technology-panel.svg" width="100%" alt="Engineering: Python, Flask, Bash, Git and APIs. Infrastructure: Linux, Docker, CI/CD and cloud tools. Security: code analysis and log investigation tools." />
 
 Tools across our products, engineering work and labs. Usage varies by project. [Broader technical foundation](company-background.md#technical-foundation).
 
