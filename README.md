@@ -1,130 +1,122 @@
 <div align="center">
 
-<img src="./profile-banner.svg" width="100%" alt="HR-Presents" />
+# HR-Presents
 
-# Build. Teach. Solve.
+**Software engineering · Cybersecurity · Practical technology education**
 
-Practical software, technical learning and developer services.
+<img src="./profile-banner.svg" width="100%" alt="Practical by design — HR-Presents" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Company_Updates-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/hr-presents/)
-[![Udemy](https://img.shields.io/badge/Udemy-Our_Courses-1557B0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/user/haziq-x-ruveeha/)
-[![Work with us](https://img.shields.io/badge/Work_With_Us-2585FF?style=for-the-badge&logoColor=white)](#services)
+We build tools that make technical work clearer—and teach the skills behind them.
 
-[Products](#products) · [Courses](#courses) · [Services](#services) · [Tech stack](#tech-stack) · [Founders](#founders)
+**[Explore our products](#products) &nbsp; · &nbsp; [Learn with us](#courses) &nbsp; · &nbsp; [Discuss your project ↗](https://www.linkedin.com/company/hr-presents/)**
 
 </div>
 
-Founded and built together by **Haziq Afzal, Co-Founder & CTO**, and **Ruveeha Ashfaq, Co-Founder & CEO**. We develop defensive security and developer tools, create practical technology courses, and help people present and document their engineering work.
 
-<img src="./section-divider.svg" width="100%" alt="" />
+---
 
 <a id="products"></a>
 
-## 01 / Software we build
+## Software built for practical work
 
-Two tools for clearer investigation and code review.
+### AegisLog
+**Defensive log investigation, with the evidence in view.**
 
-<table width="100%">
-<tr><td>
-
-<h3>AegisLog</h3>
-<p><strong>DEFENSIVE LOG INVESTIGATION</strong> · Free &amp; open source · MIT</p>
-<p>Investigate supported local logs and accessible Windows, Linux and Docker telemetry. Review findings, incident context and retained evidence without changing source logs.</p>
+Move from supported logs and accessible Windows, Linux and Docker telemetry to findings, incident context and local HTML reports. Investigate without changing the source logs.
 
 <p align="center">
-<a href="https://www.linkedin.com/posts/hr-presents_cybersecurity-opensource-cybersecuritytools-activity-7512948828828770305-A2MA">
-<img src="./assets/media/aegislog-terminal.jpg" width="720" alt="AegisLog terminal showing findings, investigation actions and the local report workflow from HR-Presents’ recorded demonstration" />
-</a>
-<br />
-<sub>Terminal findings and investigation actions · Recorded demo</sub>
+<a href="https://www.linkedin.com/posts/hr-presents_cybersecurity-opensource-cybersecuritytools-activity-7512948828828770305-A2MA"><img src="./assets/media/aegislog-terminal.jpg" width="760" alt="AegisLog terminal showing evidence-supported findings and investigation actions in the published demonstration" /></a>
 </p>
 
-<p><strong>Local analysis</strong> &nbsp; / &nbsp; <strong>Read-only source access</strong> &nbsp; / &nbsp; <strong>HTML reports</strong></p>
-<p><strong><a href="https://github.com/HR-Presents/AegisLog/releases/latest">Download AegisLog →</a></strong> &nbsp; · &nbsp; <a href="https://github.com/HR-Presents/AegisLog">Source &amp; documentation</a> &nbsp; · &nbsp; <a href="https://www.linkedin.com/posts/hr-presents_cybersecurity-opensource-cybersecuritytools-activity-7512948828828770305-A2MA">Watch demo</a></p>
-<p><sub><a href="https://github.com/HR-Presents/AegisLog/tree/main/docs/demo">Try the synthetic demo</a> · <a href="./assets/media/aegislog-terminal.jpg">Open full-size image</a></sub></p>
+**Local processing &nbsp; · &nbsp; Read-only source access &nbsp; · &nbsp; Free and MIT licensed**
 
-</td></tr>
-</table>
-
-<table width="100%">
-<tr><td>
-
-<h3>Sentrix V1</h3>
-<p><strong>PYTHON SECURITY &amp; CODE QUALITY</strong> · Commercial product</p>
-<p>Review Python security, quality, complexity, formatting and syntax in one local browser workspace, with structured findings and downloadable reports.</p>
-
-<p align="center">
-<a href="https://lnkd.in/p/dJM76MA4">
-<img src="./assets/media/sentrix-post.jpg" width="420" alt="Original Sentrix V1 introduction image showing its Python analysis workspace and Developer Edition details" />
-</a>
-<br />
-<sub>Product workspace and edition overview · Original introduction image</sub>
-</p>
-
-<p><strong>Bandit + Pylint</strong> &nbsp; / &nbsp; <strong>Radon + Black</strong> &nbsp; / &nbsp; <strong>Structured reports</strong></p>
-<p><strong><a href="https://www.linkedin.com/posts/hr-presents_sentrix-hrpresents-python-activity-7495086599194558465-6ZIc">Watch Sentrix in action →</a></strong> &nbsp; · &nbsp; <a href="https://www.linkedin.com/company/hr-presents/">Discuss editions &amp; licensing</a></p>
-<p><sub><a href="https://lnkd.in/p/dJM76MA4">View introduction post</a> · <a href="./assets/media/sentrix-post.jpg">Open full-size image</a></sub></p>
-
-</td></tr>
-</table>
+**[Download AegisLog →](https://github.com/HR-Presents/AegisLog/releases/latest)** &nbsp; [Watch the demo ↗](https://www.linkedin.com/posts/hr-presents_cybersecurity-opensource-cybersecuritytools-activity-7512948828828770305-A2MA) &nbsp; [Source & documentation](https://github.com/HR-Presents/AegisLog)
 
 <details>
-<summary><strong>Image sources &amp; product scope</strong></summary>
+<summary>Try an investigation & view image details</summary>
 
-The AegisLog image is an unaltered frame at 68 seconds from our published LinkedIn demo. The Sentrix image is from the introduction post selected for this profile. Images link to their original posts; full-size copies are also available above.
+[Start with the synthetic demo](https://github.com/HR-Presents/AegisLog/tree/main/docs/demo) · [Open the full-size terminal image](assets/media/aegislog-terminal.jpg)
 
-Recorded demo output illustrates that example, rather than general detection effectiveness. AegisLog findings support human investigation; Sentrix standards mappings provide engineering context.
-
-[Detailed product information](company-background.md#released-products) · [Media sources](assets/media/SOURCES.md)
+The image is an unaltered frame at 68 seconds from our published LinkedIn demonstration. Findings support human investigation; the recorded example does not establish general detection effectiveness.
 
 </details>
 
-<img src="./section-divider.svg" width="100%" alt="" />
+
+---
+
+### Sentrix V1
+**Clearer Python reviews. Structured findings. Reports you can share.**
+
+Bring security, code quality, complexity, formatting and syntax checks into one local browser workspace. Sentrix combines Bandit, Pylint, Radon and Black so developers can review findings and decide what to improve.
+
+<p align="center">
+<a href="https://lnkd.in/p/dJM76MA4"><img src="./assets/media/sentrix-post.jpg" width="440" alt="Sentrix V1: the original product introduction image selected from Haziq Afzal’s LinkedIn post" /></a>
+</p>
+
+**Python project analysis &nbsp; · &nbsp; Downloadable reports &nbsp; · &nbsp; Commercial product**
+
+**[See Sentrix in action →](https://www.linkedin.com/posts/hr-presents_sentrix-hrpresents-python-activity-7495086599194558465-6ZIc)** &nbsp; [Discuss editions & licensing ↗](https://www.linkedin.com/company/hr-presents/)
+
+<details>
+<summary>Product image & technical context</summary>
+
+[View the original introduction post](https://lnkd.in/p/dJM76MA4) · [Open the full-size product image](assets/media/sentrix-post.jpg)
+
+The original introduction image is retained intact. Availability and licensing depend on the edition; contact us for details. Standards mappings provide engineering context rather than compliance certification.
+
+</details>
+
+[Full product information](company-background.md#released-products) · [Published media sources](assets/media/SOURCES.md)
+
+
+---
 
 <a id="courses"></a>
 
-## 02 / Skills we teach
+## Learn the skills. Put them to work.
 
-Courses co-created and co-presented by **Haziq Afzal and Ruveeha Ashfaq** under HR-Presents.
+Technology courses co-created and co-presented by **Haziq Afzal and Ruveeha Ashfaq**.
 
-### Docker Pro Skills: Build, Secure & Deploy Applications
+### Docker Pro Skills
+**Build, Secure & Deploy Applications**
 
-<a href="https://www.udemy.com/course/docker-mastery-from-beginner-to-job-ready/"><img src="./assets/media/course-docker.jpg" width="480" alt="Original Udemy cover for Docker Pro Skills" /></a>
+<a href="https://www.udemy.com/course/docker-mastery-from-beginner-to-job-ready/"><img src="./assets/media/course-docker.jpg" width="480" alt="Docker Pro Skills — original Udemy course cover" /></a>
 
-From your first container to application delivery: Dockerfiles, Compose, storage, networking, security, troubleshooting and CI/CD. Includes practical labs, quizzes and an e-commerce capstone, with NGINX, Swarm and Kubernetes fundamentals.
+From your first container to application delivery: Dockerfiles, Compose, networking, storage, security and CI/CD. Learn through practical labs, quizzes and an e-commerce capstone.
 
-**[Explore the Docker course →](https://www.udemy.com/course/docker-mastery-from-beginner-to-job-ready/)**
+**[View the Docker course on Udemy ↗](https://www.udemy.com/course/docker-mastery-from-beginner-to-job-ready/)**
 
-### Think Before You Click: The Online Safety Course
+### Think Before You Click
+**The Online Safety Course**
 
-<a href="https://www.udemy.com/course/think-before-you-click-the-online-safety-course/"><img src="./assets/media/course-safety.jpg" width="480" alt="Original Udemy cover for Think Before You Click" /></a>
+<a href="https://www.udemy.com/course/think-before-you-click-the-online-safety-course/"><img src="./assets/media/course-safety.jpg" width="480" alt="Think Before You Click — original Udemy course cover" /></a>
 
-Recognize scams, phishing, suspicious websites and impersonation. Practice account protection, privacy and safer decisions through fictional missions, quizzes and downloadable resources. **Pause. Verify. Protect.**
+Recognize scams and phishing, strengthen account protection, and question AI-generated deception. Practice through fictional missions, quizzes and downloadable resources. **Pause. Verify. Protect.**
 
-**[Explore the online safety course →](https://www.udemy.com/course/think-before-you-click-the-online-safety-course/)**
+**[View the online safety course on Udemy ↗](https://www.udemy.com/course/think-before-you-click-the-online-safety-course/)**
 
-Our shared teaching work includes lesson preparation, demonstrations, recording, quizzes, presentations and downloadable practice materials. [All courses on Udemy](https://www.udemy.com/user/haziq-x-ruveeha/).
+[Meet HR-Presents on Udemy](https://www.udemy.com/user/haziq-x-ruveeha/)
 
-<img src="./section-divider.svg" width="100%" alt="" />
+
+---
 
 <a id="services"></a>
 
-## 03 / Problems we help solve
+## Bring us the problem.
 
-<img src="./services-panel.svg" width="100%" alt="Present. Document. Solve." />
+We work together on scoped technical projects—from understanding your requirement to implementation, review and handover.
 
-- **GitHub profiles & developer presentation:** profile READMEs, project layouts, selected banners and clear descriptions.
-- **Repository documentation:** installation and usage guides, project navigation and handover notes.
-- **Linux, Docker & DevOps support:** setup guidance, container and Compose troubleshooting, automation and investigation of existing CI/CD workflows.
-- **Custom software:** defensive tools, Python automation and software workflows scoped around your requirements.
+- **Present your work:** GitHub profiles, developer portfolios, featured projects and selected banners.
+- **Explain your software:** repository READMEs, installation and usage guides, navigation and handover notes.
+- **Improve your workflow:** Linux setup, Docker and Compose troubleshooting, Python automation and existing CI/CD investigation.
+- **Build a custom solution:** discuss defensive tools and software workflows tailored to your requirements.
 
-**See an example:** [How we redesigned our own GitHub profile](profile-redesign-case-study.md)—the original layout, changes, source images and verification approach.
+**[Discuss your project ↗](https://www.linkedin.com/company/hr-presents/)** &nbsp; [Haziq on Fiverr](https://www.fiverr.com/haziq_afzal) &nbsp; [Ruveeha on Fiverr](https://www.fiverr.com/ruveehaashfaq)
 
-We agree on the scope, review the work and provide handover guidance.
+See our approach: **[the HR-Presents profile redesign case study](profile-redesign-case-study.md)**, with the earlier layout, source media and change history.
 
-**[Discuss your project on LinkedIn →](https://www.linkedin.com/company/hr-presents/)** · [Haziq's services](https://www.fiverr.com/haziq_afzal) · [Ruveeha's services](https://www.fiverr.com/ruveehaashfaq)
 
-<img src="./section-divider.svg" width="100%" alt="" />
+---
 
 ## Tech stack
 
@@ -184,42 +176,39 @@ Cloud computing · Linux administration · CI/CD · cybersecurity · log analysi
 Tools and topics span products, collaborative projects, labs and ongoing study; experience varies by project. [Technical foundation and learning context](company-background.md#technical-foundation).
 
 
-<img src="./section-divider.svg" width="100%" alt="" />
 
-## Founders
 
-<img src="./founders-panel.svg" width="100%" alt="Haziq Afzal and Ruveeha Ashfaq" />
 
-### Haziq Afzal — Co-Founder & CTO
+---
 
-Technical strategy, software engineering, cybersecurity and product development.
+<a id="founders"></a>
 
+## Built together.
+
+**Haziq Afzal — Co-Founder & CTO**  
+Technical strategy, software engineering, cybersecurity and product development.  
 [GitHub](https://github.com/HaziqBinAfzal) · [LinkedIn](https://www.linkedin.com/in/haziq-afzal/)
 
-### Ruveeha Ashfaq — Co-Founder & CEO
-
-Company direction, operations, product delivery and customer experience.
-
+**Ruveeha Ashfaq — Co-Founder & CEO**  
+Company direction, operations, product delivery and customer experience.  
 [GitHub](https://github.com/ruveeha33) · [LinkedIn](https://www.linkedin.com/in/ruveeha-ashfaq/)
 
-Both founders collaborate across products, course creation, technical work and documentation.
-
-<img src="./section-divider.svg" width="100%" alt="" />
-
-## Engineering background
+Both founders collaborate across products, technical education and documentation.
 
 <details>
-<summary><strong>Product details, engineering practices & technical learning</strong></summary>
+<summary><strong>Engineering background & learning</strong></summary>
 
-- [Product capabilities and availability](company-background.md#released-products)
-- [What we build](company-background.md#what-we-build)
-- [Tools and broader exposure](company-background.md#technology-stack)
-- [Engineering and release practices](company-background.md#engineering--release-practice)
-- [Technical foundation and continuing study](company-background.md#technical-foundation)
-- [Engineering principles](company-background.md#engineering-principles)
+[Product capabilities](company-background.md#released-products) · [Engineering practices](company-background.md#engineering--release-practice) · [Technical foundation](company-background.md#technical-foundation) · [Principles](company-background.md#engineering-principles)
 
 </details>
 
-[Company updates](https://www.linkedin.com/company/hr-presents/) · [GitHub projects](https://github.com/HR-Presents) · [Udemy courses](https://www.udemy.com/user/haziq-x-ruveeha/)
 
-<img src="./profile-footer.svg" width="100%" alt="Built together. Made useful." />
+---
+
+<div align="center">
+
+**Have a project in mind? [Let’s discuss it ↗](https://www.linkedin.com/company/hr-presents/)**
+
+[GitHub](https://github.com/HR-Presents) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/company/hr-presents/) &nbsp; · &nbsp; [Udemy](https://www.udemy.com/user/haziq-x-ruveeha/)
+
+</div>
