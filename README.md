@@ -4,15 +4,15 @@
 
 # HR-Presents
 
-![Software Engineering](https://img.shields.io/badge/Software_Engineering-7C3AED?style=for-the-badge&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0891B2?style=for-the-badge&logoColor=white)
-![Udemy Instructors](https://img.shields.io/badge/Udemy_Instructors-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
+![Software Engineering](https://img.shields.io/badge/Software_Engineering-1557B0?style=for-the-badge&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0A66C2?style=for-the-badge&logoColor=white)
+![Udemy Instructors](https://img.shields.io/badge/Udemy_Instructors-1557B0?style=for-the-badge&logo=udemy&logoColor=white)
 
 **Practical software. Clear technical learning. Better developer experiences.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Company_Updates-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/hr-presents/)
-[![Udemy](https://img.shields.io/badge/Udemy-Learn_With_Us-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/user/haziq-x-ruveeha/)
-[![Work with us](https://img.shields.io/badge/Work_With_Us-DB2777?style=for-the-badge&logoColor=white)](#work-with-us)
+[![Udemy](https://img.shields.io/badge/Udemy-Learn_With_Us-1557B0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/user/haziq-x-ruveeha/)
+[![Work with us](https://img.shields.io/badge/Work_With_Us-2585FF?style=for-the-badge&logoColor=white)](#work-with-us)
 
 [Products](#featured-products) · [Courses](#our-udemy-courses) · [Services](#work-with-us) · [Tech stack](#tech-stack) · [Founders](#founders) · [Background](company-background.md)
 
@@ -95,31 +95,31 @@ We work together on agreed technical projects, from understanding your requireme
 
 **Programming & automation**
 
-![Python](https://img.shields.io/badge/Python-4C3275?style=for-the-badge&logoColor=E9D5FF&logo=python)
-![Flask](https://img.shields.io/badge/Flask-654493?style=for-the-badge&logoColor=E9D5FF&logo=flask)
-![Bash](https://img.shields.io/badge/Bash-593D88?style=for-the-badge&logoColor=E9D5FF&logo=gnubash)
-![Git](https://img.shields.io/badge/Git-7650A0?style=for-the-badge&logoColor=E9D5FF&logo=git)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-4C3275?style=for-the-badge&logoColor=E9D5FF)
+![Python](https://img.shields.io/badge/Python-12355B?style=for-the-badge&logoColor=E6F1FF&logo=python)
+![Flask](https://img.shields.io/badge/Flask-164578?style=for-the-badge&logoColor=E6F1FF&logo=flask)
+![Bash](https://img.shields.io/badge/Bash-1557B0?style=for-the-badge&logoColor=E6F1FF&logo=gnubash)
+![Git](https://img.shields.io/badge/Git-1E65A6?style=for-the-badge&logoColor=E6F1FF&logo=git)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-12355B?style=for-the-badge&logoColor=E6F1FF)
 
 **Linux, cloud & DevOps**
 
-![Linux](https://img.shields.io/badge/Linux-4C3275?style=for-the-badge&logoColor=E9D5FF&logo=linux)
-![Docker](https://img.shields.io/badge/Docker-654493?style=for-the-badge&logoColor=E9D5FF&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-593D88?style=for-the-badge&logoColor=E9D5FF&logo=githubactions)
-![AWS](https://img.shields.io/badge/AWS-7650A0?style=for-the-badge&logoColor=E9D5FF&logo=amazonwebservices)
-![Azure](https://img.shields.io/badge/Azure-4C3275?style=for-the-badge&logoColor=E9D5FF)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-654493?style=for-the-badge&logoColor=E9D5FF&logo=kubernetes)
-![Terraform](https://img.shields.io/badge/Terraform-593D88?style=for-the-badge&logoColor=E9D5FF&logo=terraform)
-![Ansible](https://img.shields.io/badge/Ansible-7650A0?style=for-the-badge&logoColor=E9D5FF&logo=ansible)
+![Linux](https://img.shields.io/badge/Linux-12355B?style=for-the-badge&logoColor=E6F1FF&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-164578?style=for-the-badge&logoColor=E6F1FF&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1557B0?style=for-the-badge&logoColor=E6F1FF&logo=githubactions)
+![AWS](https://img.shields.io/badge/AWS-1E65A6?style=for-the-badge&logoColor=E6F1FF&logo=amazonwebservices)
+![Azure](https://img.shields.io/badge/Azure-12355B?style=for-the-badge&logoColor=E6F1FF)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-164578?style=for-the-badge&logoColor=E6F1FF&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/Terraform-1557B0?style=for-the-badge&logoColor=E6F1FF&logo=terraform)
+![Ansible](https://img.shields.io/badge/Ansible-1E65A6?style=for-the-badge&logoColor=E6F1FF&logo=ansible)
 
 **Security & analysis**
 
-![Bandit](https://img.shields.io/badge/Bandit-4C3275?style=for-the-badge&logoColor=E9D5FF)
-![Pylint](https://img.shields.io/badge/Pylint-654493?style=for-the-badge&logoColor=E9D5FF)
-![Radon](https://img.shields.io/badge/Radon-593D88?style=for-the-badge&logoColor=E9D5FF)
-![Black](https://img.shields.io/badge/Black-7650A0?style=for-the-badge&logoColor=E9D5FF)
-![Log Analysis](https://img.shields.io/badge/Log%20Analysis-4C3275?style=for-the-badge&logoColor=E9D5FF)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-654493?style=for-the-badge&logoColor=E9D5FF&logo=elasticsearch)
+![Bandit](https://img.shields.io/badge/Bandit-12355B?style=for-the-badge&logoColor=E6F1FF)
+![Pylint](https://img.shields.io/badge/Pylint-164578?style=for-the-badge&logoColor=E6F1FF)
+![Radon](https://img.shields.io/badge/Radon-1557B0?style=for-the-badge&logoColor=E6F1FF)
+![Black](https://img.shields.io/badge/Black-1E65A6?style=for-the-badge&logoColor=E6F1FF)
+![Log Analysis](https://img.shields.io/badge/Log%20Analysis-12355B?style=for-the-badge&logoColor=E6F1FF)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-164578?style=for-the-badge&logoColor=E6F1FF&logo=elasticsearch)
 
 Tools across our products, engineering work and labs. Usage varies by project. [Broader technical foundation](company-background.md#technical-foundation).
 
