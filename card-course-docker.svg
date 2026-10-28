@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="226" viewBox="0 0 560 226" role="img" aria-labelledby="title desc">
+<title id="title">Docker Pro Skills</title><desc id="desc">Build, Secure &amp; Deploy Applications · Containers · Compose · Security</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#171329"/><stop offset="1" stop-color="#0C1426"/></linearGradient><linearGradient id="accent"><stop stop-color="#38BDF8"/><stop offset="1" stop-color="#22D3EE"/></linearGradient></defs>
+<rect x="1" y="1" width="558" height="224" rx="20" fill="url(#bg)" stroke="#38314F"/>
+<path d="M21 1h518" stroke="url(#accent)" stroke-width="3"/>
+<circle cx="515" cy="45" r="96" fill="#38BDF8" opacity=".07"/>
+<g transform="translate(461 37) scale(.85)" fill="none" stroke="#38BDF8" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M7 31h45c5 0 8-4 9-8-5-1-8 1-10 5M7 31c0 18 10 25 24 25 13 0 21-10 24-25"/><path d="M16 20h9v10h-9zm12 0h9v10h-9zm12 0h9v10h-9zM28 8h9v10h-9z"/></g>
+<text x="28" y="35" fill="#38BDF8" font-family="DejaVu Sans,Arial,sans-serif" font-size="11" letter-spacing="2" font-weight="700">01 / UDEMY COURSE</text>
+<text x="28" y="86" fill="#F8F5FF" font-family="DejaVu Sans,Arial,sans-serif" font-size="27" font-weight="700">Docker Pro Skills</text>
+<text x="28" y="119" fill="#C7C2D8" font-family="DejaVu Sans,Arial,sans-serif" font-size="15">Build, Secure &amp; Deploy Applications</text>
+<line x1="28" y1="145" x2="532" y2="145" stroke="#34304A"/>
+<text x="28" y="174" fill="#38BDF8" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="600">Containers · Compose · Security</text>
+<text x="28" y="204" fill="#ABA4C0" font-family="DejaVu Sans,Arial,sans-serif" font-size="10" letter-spacing="1.4">HR-PRESENTS · COLLABORATIVE ENGINEERING</text>
+</svg>
