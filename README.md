@@ -26,19 +26,23 @@ We build defensive security and developer tools, create practical technology cou
 
 ## 01 / Software we build
 
-<a href="https://github.com/HR-Presents/AegisLog"><img src="./card-aegislog.svg" width="100%" alt="AegisLog — source-preserving terminal investigation workflow illustration" /></a>
+### AegisLog
+
+<a href="https://www.linkedin.com/posts/hr-presents_cybersecurity-opensource-cybersecuritytools-activity-7512948828828770305-A2MA"><img src="./assets/media/aegislog.jpg" width="100%" alt="AegisLog introduction video thumbnail from HR-Presents on LinkedIn" /></a>
 
 Investigate supported files and accessible Windows, Linux and Docker telemetry locally. Review evidence, incident context and HTML reports.
 
 **[Explore AegisLog](https://github.com/HR-Presents/AegisLog) · [Download](https://github.com/HR-Presents/AegisLog/releases/latest) · [Try the synthetic demo](https://github.com/HR-Presents/AegisLog/tree/main/docs/demo)**
 
-<a href="https://www.linkedin.com/posts/hr-presents_sentrix-hrpresents-python-activity-7495086599194558465-6ZIc"><img src="./card-sentrix.svg" width="100%" alt="Sentrix V1 — Python analysis workflow illustration" /></a>
+### Sentrix V1
+
+<p align="center"><a href="https://www.linkedin.com/posts/hr-presents_project-analysis-report-activity-7497243324148256769-qFgi"><img src="./assets/media/sentrix-report.jpg" width="420" alt="Actual Sentrix Project Analysis Report cover attached to the HR-Presents LinkedIn post" /></a></p>
 
 Review Python security, quality, complexity, formatting and syntax in a local browser workspace with structured findings and downloadable reports.
 
 **[Watch the public demonstration](https://www.linkedin.com/posts/hr-presents_sentrix-hrpresents-python-activity-7495086599194558465-6ZIc) · [Discuss editions & licensing](https://www.linkedin.com/company/hr-presents/)**
 
-<sub>Product panels illustrate documented workflows. For actual software demonstrations and evidence, follow the links above.</sub>
+<sub>Product images are taken from our LinkedIn posts: the AegisLog introduction video thumbnail and the Sentrix generated report cover. Click each image to view its source.</sub>
 
 
 **[Product details & engineering practices →](company-background.md#released-products)**
@@ -54,13 +58,13 @@ Co-created and co-presented by **Haziq Afzal and Ruveeha Ashfaq** under HR-Prese
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://www.udemy.com/course/docker-mastery-from-beginner-to-job-ready/"><img src="./card-course-docker.svg" width="100%" alt="Docker Pro Skills: Build, Secure & Deploy Applications" /></a>
+<a href="https://www.udemy.com/course/docker-mastery-from-beginner-to-job-ready/"><img src="./assets/media/course-docker.jpg" width="100%" alt="Docker Pro Skills: Build, Secure & Deploy Applications" /></a>
 <p>From your first container to application delivery: Dockerfiles, Compose, volumes, networking, security, troubleshooting and CI/CD.</p>
 <p>Practical labs, quizzes and an e-commerce capstone, with NGINX, Swarm and Kubernetes fundamentals.</p>
 <p><a href="https://www.udemy.com/course/docker-mastery-from-beginner-to-job-ready/">Explore the Docker course →</a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://www.udemy.com/course/think-before-you-click-the-online-safety-course/"><img src="./card-course-safety.svg" width="100%" alt="Think Before You Click: The Online Safety Course" /></a>
+<a href="https://www.udemy.com/course/think-before-you-click-the-online-safety-course/"><img src="./assets/media/course-safety.jpg" width="100%" alt="Think Before You Click: The Online Safety Course" /></a>
 <p>Recognize scams, phishing, suspicious websites and impersonation. Build better habits around accounts, privacy, AI deepfakes and everyday online decisions.</p>
 <p>Fictional scenarios, missions, quizzes and downloadable safety resources. <strong>Pause. Verify. Protect.</strong></p>
 <p><a href="https://www.udemy.com/course/think-before-you-click-the-online-safety-course/">Explore the online safety course →</a></p>
