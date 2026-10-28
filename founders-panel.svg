@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="172" viewBox="0 0 1120 172" role="img" aria-labelledby="t"><title id="t">HR-Presents — Ruveeha Ashfaq, Co-Founder and CEO; Haziq Afzal, Co-Founder and CTO</title><defs><linearGradient id="g"><stop stop-color="#2585FF"/><stop offset="1" stop-color="#0A66C2"/></linearGradient></defs><rect x="1" y="1" width="1118" height="170" rx="20" fill="#091A2E" stroke="#25415F"/><rect x="32" y="32" width="4" height="108" rx="2" fill="#2585FF"/><rect x="592" y="32" width="4" height="108" rx="2" fill="#38BDF8"/><g font-family="DejaVu Sans,Arial,sans-serif"><text x="56" y="49" fill="#2585FF" font-size="11" letter-spacing="2">CO-FOUNDER &amp; CEO</text><text x="56" y="89" fill="#F5F9FF" font-size="27" font-weight="700">Ruveeha Ashfaq</text><text x="56" y="124" fill="#C4D5E8" font-size="15">HR-Presents · Udemy Instructor</text><text x="616" y="49" fill="#38BDF8" font-size="11" letter-spacing="2">CO-FOUNDER &amp; CTO</text><text x="616" y="89" fill="#F5F9FF" font-size="27" font-weight="700">Haziq Afzal</text><text x="616" y="124" fill="#C4D5E8" font-size="15">HR-Presents · Udemy Instructor</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="200" viewBox="0 0 1120 200" role="img" aria-label="HR-Presents — Haziq Afzal, Co-Founder and CTO; Ruveeha Ashfaq, Co-Founder and CEO"><style>text{font-family:Arial,Helvetica,sans-serif}.mono{font-family:DejaVu Sans Mono,monospace}</style>
+<path d="M0 0H1100L1120 20V200H0Z" fill="#071727"/>
+<rect x="0" y="0" width="7" height="200" fill="#1677FF"/>
+<text x="32" y="32" class="mono" fill="#81BAFF" font-size="11" letter-spacing="2">SHARED VISION / BUILT TOGETHER</text>
+<path d="M560 60V170" stroke="#294560"/>
+<text x="32" y="89" fill="#FFFFFF" font-size="31" font-weight="700">Haziq Afzal</text>
+<text x="32" y="120" class="mono" fill="#81BAFF" font-size="12">CO-FOUNDER &amp; CTO</text>
+<text x="32" y="163" fill="#A6BDD0" font-size="14">Engineering · Product development · Teaching</text>
+<text x="594" y="89" fill="#FFFFFF" font-size="31" font-weight="700">Ruveeha Ashfaq</text>
+<text x="594" y="120" class="mono" fill="#81BAFF" font-size="12">CO-FOUNDER &amp; CEO</text>
+<text x="594" y="163" fill="#A6BDD0" font-size="14">Company direction · Product delivery · Teaching</text>
+<rect x="1076" y="28" width="12" height="12" fill="#FFB454"/>
+</svg>
