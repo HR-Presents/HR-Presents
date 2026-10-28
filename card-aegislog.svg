@@ -1,18 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="330" viewBox="0 0 1120 330" role="img" aria-label="AegisLog — terminal investigation workflow illustration"><style>text{font-family:Arial,Helvetica,sans-serif}.mono{font-family:DejaVu Sans Mono,monospace}</style>
-<path d="M0 0H1096L1120 24V330H0Z" fill="#071727"/>
-<rect width="6" height="330" fill="#1677FF"/>
-<text x="32" y="39" fill="#81BAFF" font-size="13" font-weight="700">01 / DEFENSIVE INVESTIGATION</text>
-<text x="32" y="104" fill="#FFFFFF" font-size="46" font-weight="800">AegisLog</text>
-<text x="34" y="151" fill="#C4D5E8" font-size="24" font-weight="400">Follow the evidence.</text>
-<text x="34" y="188" fill="#C4D5E8" font-size="24" font-weight="400">Preserve the source.</text>
-<text x="34" y="253" fill="#81BAFF" font-size="14" font-weight="700">LOCAL · READ-ONLY · DETERMINISTIC</text>
-<text x="34" y="296" fill="#92ABC7" font-size="12" font-weight="400">FREE / OPEN SOURCE / MIT</text>
-<rect x="580" y="30" width="508" height="270" rx="8" fill="#0B2238" stroke="#294560"/>
-<path d="M580 68H1088" stroke="#294560"/>
-<circle cx="600" cy="49" r="4" fill="#1677FF"/><circle cx="616" cy="49" r="4" fill="#81BAFF"/><circle cx="632" cy="49" r="4" fill="#FFB454"/>
-<text x="654" y="54" fill="#A6BDD0" font-size="12" font-weight="400">INVESTIGATION WORKFLOW</text>
-
-<g class="mono"><text x="602" y="110" fill="#81BAFF" font-size="18" font-weight="400">> Select supported logs</text><text x="602" y="152" fill="#C4D5E8" font-size="18" font-weight="400">> Review findings &amp; evidence</text><text x="602" y="194" fill="#C4D5E8" font-size="18" font-weight="400">> Group incidents &amp; context</text><text x="602" y="236" fill="#C4D5E8" font-size="18" font-weight="400">> Export local HTML reports</text></g>
-
-<text x="602" y="283" fill="#92ABC7" font-size="10" font-weight="400">WORKFLOW ILLUSTRATION / NOT A PRODUCT CAPTURE</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="192" viewBox="0 0 560 192" role="img" aria-label="AegisLog — Defensive log investigation"><style>text{font-family:Arial,Helvetica,sans-serif}</style><defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0B1525"/><stop offset="1" stop-color="#102A47"/></linearGradient></defs>
+<rect x="1" y="1" width="558" height="190" rx="16" fill="url(#bg)" stroke="#2C4864"/>
+<rect x="24" y="24" width="4" height="142" rx="2" fill="#60B6FF"/>
+<circle cx="490" cy="49" r="100" fill="#338DFF" opacity=".08"/>
+<text x="44" y="46" fill="#83C7FF" font-size="12" font-weight="700" letter-spacing="2">OPEN SOURCE SOFTWARE</text>
+<text x="42" y="99" fill="#FFFFFF" font-size="37" font-weight="700" letter-spacing="-1">AegisLog</text>
+<text x="44" y="134" fill="#CDDEEF" font-size="19">Defensive log investigation</text>
+<path d="M44 158H516" stroke="#2C4864"/>
+<g transform="translate(462 68)" fill="none" stroke="#83C7FF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><rect x="0" y="0" width="55" height="42" rx="5"/><path d="M10 12L20 21L10 30M28 30H43"/></g></svg>
