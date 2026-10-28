@@ -1,22 +1,90 @@
 <div align="center">
 
 # HR-Presents
+### Practical software. Clear technical learning. Better developer experiences.
 
-### Cybersecurity · Software Engineering · Cloud · DevOps · AI
+Founded and built together by **Haziq Afzal · Co-Founder & CTO** and **Ruveeha Ashfaq · Co-Founder & CEO**.
 
-**Building practical security and software products from engineering fundamentals to customer ready releases.**
+[![Software](https://img.shields.io/badge/BUILD-Practical_Software-2585FF?style=for-the-badge)](#software-products)
+[![Education](https://img.shields.io/badge/TEACH-Technology_Skills-2585FF?style=for-the-badge)](#learn-with-us)
+[![Services](https://img.shields.io/badge/CREATE-Developer_Experiences-2585FF?style=for-the-badge)](#work-with-us)
 
-[![AegisLog](https://img.shields.io/badge/AegisLog-v2.1.17-1f6feb?style=for-the-badge)](https://github.com/HR-Presents/AegisLog-AI/releases/tag/v2.1.17)
-![Sentrix](https://img.shields.io/badge/Sentrix-v1.0.0_FINAL-0A66C2?style=for-the-badge)
-[![GitHub](https://img.shields.io/badge/GitHub-HR--Presents-181717?style=for-the-badge&logo=github)](https://github.com/HR-Presents)
-
-**[Explore AegisLog](https://github.com/HR-Presents/AegisLog-AI) · [Download AegisLog](https://github.com/HR-Presents/AegisLog-AI/releases/tag/v2.1.17) · [Meet the Founders](#founders)**
+[Explore AegisLog](https://github.com/HR-Presents/AegisLog) · [Learn on Udemy](https://www.udemy.com/user/haziq-x-ruveeha/) · [Company LinkedIn](https://www.linkedin.com/company/hr-presents/) · [Meet the founders](#founders)
 
 </div>
 
-> [!NOTE]
-> **Practical software with a clear purpose.**
-> HR-Presents builds tools for defensive investigation, secure development and everyday engineering workflows.
+---
+
+We build defensive security and developer tools, create practical technology courses, and help people present and document their engineering work. Our work connects **software development, cybersecurity, cloud, DevOps and technical education**.
+
+## Software products
+
+| Product | What it helps you do | Explore |
+| --- | --- | --- |
+| **AegisLog** | Investigate supported logs and accessible native telemetry locally, review evidence and produce readable reports. Terminal-first, read-only source access and deterministic analysis. | [Source & documentation](https://github.com/HR-Presents/AegisLog) · [Downloads](https://github.com/HR-Presents/AegisLog/releases/latest) · [Beginner guide](https://github.com/HR-Presents/AegisLog/blob/main/docs/QUICKSTART.md) |
+| **Sentrix V1** | Review Python security, code quality, complexity, formatting and syntax through a local browser workspace with structured findings and downloadable reports. | [See the public demonstration](https://www.linkedin.com/posts/hr-presents_sentrix-hrpresents-python-activity-7495086599194558465-6ZIc) · [Discuss availability](https://www.linkedin.com/company/hr-presents/) |
+
+AegisLog is free and MIT licensed. Sentrix is a commercial product; contact us about available editions and licensing. Investigation findings and standards mappings support human review.
+
+## Learn with us
+
+**Courses created and presented together by Haziq Afzal and Ruveeha Ashfaq under HR-Presents.**
+
+### Docker Pro Skills: Build, Secure & Deploy Applications
+
+Build from container fundamentals toward multi-container applications, deployment workflows and a practical capstone.
+
+- Docker architecture, images, Dockerfiles, volumes and networking.
+- Docker Compose, debugging, security practices and CI/CD.
+- NGINX, Swarm, Kubernetes fundamentals and an e-commerce capstone.
+- Practical labs, quizzes and review materials.
+
+**[Explore the Docker course →](https://www.udemy.com/course/docker-mastery-from-beginner-to-job-ready/)**
+
+### Think Before You Click: The Online Safety Course
+
+Build safer everyday digital habits using **Pause. Verify. Protect.**
+
+- Recognize phishing, suspicious websites, online scams and impersonation.
+- Understand account protection, privacy, AI deepfakes and cloned voices.
+- Practice decisions through fictional scenarios, missions and quizzes.
+- Use downloadable learning materials and printable safety resources.
+
+**[Explore the online safety course →](https://www.udemy.com/course/think-before-you-click-the-online-safety-course/)**
+
+[Visit our Udemy instructor page](https://www.udemy.com/user/haziq-x-ruveeha/)
+
+## Work with us
+
+We work together on agreed technical projects, from understanding the requirement to implementation, documentation and handover.
+
+| Service | Typical work |
+| --- | --- |
+| **GitHub profiles & developer presentation** | Profile READMEs, featured project layouts, selected banners and clear project descriptions. |
+| **Repository documentation** | Installation and usage guides, organized READMEs, project navigation and handover notes. |
+| **Linux, Docker & DevOps support** | Setup guidance, container and Compose troubleshooting, automation and existing CI/CD workflow investigation. |
+| **Custom software** | Discuss defensive tools, Python automation and software workflows tailored to your requirements. |
+
+**[Discuss a project on LinkedIn](https://www.linkedin.com/company/hr-presents/)** · [Haziq's services](https://www.fiverr.com/haziq_afzal) · [Ruveeha's services](https://www.fiverr.com/ruveehaashfaq)
+
+## Founders
+
+| Haziq Afzal | Ruveeha Ashfaq |
+| --- | --- |
+| **Co-Founder & CTO** | **Co-Founder & CEO** |
+| Technical strategy, software engineering, cybersecurity and product development. | Company direction, operations, product delivery and customer experience. |
+| [GitHub](https://github.com/HaziqBinAfzal) · [LinkedIn](https://www.linkedin.com/in/haziq-afzal-010b6636a) | [GitHub](https://github.com/ruveeha33) · [LinkedIn](https://www.linkedin.com/in/ruveeha-ashfaq-632b15378) |
+
+Both founders collaborate across products, course creation, technical work and documentation.
+
+## Follow our work
+
+[Company updates & demonstrations](https://www.linkedin.com/company/hr-presents/) · [GitHub projects](https://github.com/HR-Presents) · [Udemy courses](https://www.udemy.com/user/haziq-x-ruveeha/)
+
+---
+
+<details>
+<summary><strong>Product details, technical foundation & engineering practices</strong></summary>
 
 ## About HR-Presents
 
@@ -31,7 +99,7 @@ We also develop custom solutions around customer requirements, with the scope, f
 ## Released Products
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HR-Presents/AegisLog-AI/main/docs/assets/aegislog-readme-dark.png" alt="AegisLog logo" width="320">
+  <img src="https://raw.githubusercontent.com/HR-Presents/AegisLog/main/docs/assets/aegislog-readme-dark.png" alt="AegisLog logo" width="320">
 </p>
 
 ### AegisLog v2.1.17
@@ -67,7 +135,7 @@ Windows executable users do not need Python. Python users can install through pi
 > [!NOTE]
 > Findings are investigation leads, not proof of compromise. Rarity scores describe the retained sample, not attack probability. Source permissions, supported formats and evidence limits affect coverage.
 
-**[Explore AegisLog](https://github.com/HR-Presents/AegisLog-AI) · [Download v2.1.17](https://github.com/HR-Presents/AegisLog-AI/releases/tag/v2.1.17) · [User Guide](https://github.com/HR-Presents/AegisLog-AI/blob/main/docs/USER_GUIDE.md)**
+**[Explore AegisLog](https://github.com/HR-Presents/AegisLog) · [Download v2.1.17](https://github.com/HR-Presents/AegisLog/releases/tag/v2.1.17) · [User Guide](https://github.com/HR-Presents/AegisLog/blob/main/docs/USER_GUIDE.md)**
 
 <p align="center">
   <img src="assets/sentrix-logo.svg" alt="Sentrix logo" width="160">
@@ -132,7 +200,7 @@ SCADA and ICS concepts, industrial security and study informed by NIST and ISO g
 > **Custom solutions on request**
 > We can build software, defensive security tools, automation, cloud and DevOps solutions, and AI or data workflows tailored to customer requirements. Share your idea or existing workflow with our founders to discuss feasibility, scope, features and delivery.
 
-## Founders
+## Founder backgrounds
 
 <table>
 <tr>
@@ -303,3 +371,6 @@ Technical study is applied through builds, experiments, reviews and improvements
 **Built by Haziq Afzal & Ruveeha Ashfaq**
 
 </div>
+
+
+</details>
