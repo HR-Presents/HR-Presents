@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile-banner.svg?rev=showcase-20261028" width="100%" alt="HR-Presents — software, security and practical learning" />
+<img src="./assets/brand/company-banner.svg" width="100%" alt="HR-Presents — software, security and practical learning" />
 
 # HR-Presents
 
