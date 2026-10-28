@@ -36,13 +36,13 @@ Investigate supported files and accessible Windows, Linux and Docker telemetry l
 
 ### Sentrix V1
 
-<p align="center"><a href="https://www.linkedin.com/posts/hr-presents_project-analysis-report-activity-7497243324148256769-qFgi"><img src="./assets/media/sentrix-report.jpg" width="420" alt="Actual Sentrix Project Analysis Report cover attached to the HR-Presents LinkedIn post" /></a></p>
+<p align="center"><a href="https://lnkd.in/p/dJM76MA4"><img src="./assets/media/sentrix-post.jpg" width="800" alt="Sentrix V1 product image from Haziq Afzal’s LinkedIn introduction post" /></a></p>
 
 Review Python security, quality, complexity, formatting and syntax in a local browser workspace with structured findings and downloadable reports.
 
 **[Watch the public demonstration](https://www.linkedin.com/posts/hr-presents_sentrix-hrpresents-python-activity-7495086599194558465-6ZIc) · [Discuss editions & licensing](https://www.linkedin.com/company/hr-presents/)**
 
-<sub>Product images are taken from our LinkedIn posts: the AegisLog introduction video thumbnail and the Sentrix generated report cover. Click each image to view its source.</sub>
+<sub>Product images are taken from our LinkedIn posts: the AegisLog introduction video thumbnail and the Sentrix introduction post image. Click each image to view its source.</sub>
 
 
 **[Product details & engineering practices →](company-background.md#released-products)**

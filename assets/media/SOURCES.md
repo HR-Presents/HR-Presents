@@ -8,3 +8,5 @@ Original images downloaded 28 October 2026 for the HR-Presents profile.
 - aegislog.jpg: Video poster thumbnail from https://www.linkedin.com/posts/hr-presents_cybersecurity-opensource-cybersecuritytools-activity-7512948828828770305-A2MA
 
 Product images are published media, not new software runs. Files retain their original downloaded image bytes.
+
+- sentrix-post.jpg: Exact introduction post image requested by the owner: https://lnkd.in/p/dJM76MA4 (resolves to https://www.linkedin.com/posts/haziq-afzal_proud-to-introduce-hr-presents-and-our-first-share-7494137303724875776-nCU7/). Replaces the report cover in the profile.
