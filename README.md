@@ -22,29 +22,62 @@ Founded and built together by **Haziq Afzal, Co-Founder & CTO**, and **Ruveeha A
 
 ## 01 / Software we build
 
-### AegisLog
+Two tools for clearer investigation and code review.
 
-**Investigate local logs. Follow the evidence. Preserve the source.**
+<table width="100%">
+<tr><td>
 
-<p align="center"><a href="https://www.linkedin.com/posts/hr-presents_cybersecurity-opensource-cybersecuritytools-activity-7512948828828770305-A2MA"><img src="./assets/media/aegislog-terminal.jpg" width="752" alt="Actual AegisLog terminal findings and investigation actions, extracted at 68 seconds from HR-Presents’ published LinkedIn demo" /></a></p>
+<h3>AegisLog</h3>
+<p><strong>DEFENSIVE LOG INVESTIGATION</strong> · Free &amp; open source · MIT</p>
+<p>Investigate supported local logs and accessible Windows, Linux and Docker telemetry. Review findings, incident context and retained evidence without changing source logs.</p>
 
-Analyze supported files and accessible Windows, Linux and Docker telemetry. Review evidence, incident context and local HTML reports. **Free · MIT licensed · Terminal-first.**
+<p align="center">
+<a href="https://www.linkedin.com/posts/hr-presents_cybersecurity-opensource-cybersecuritytools-activity-7512948828828770305-A2MA">
+<img src="./assets/media/aegislog-terminal.jpg" width="720" alt="AegisLog terminal showing findings, investigation actions and the local report workflow from HR-Presents’ recorded demonstration" />
+</a>
+<br />
+<sub>Terminal findings and investigation actions · Recorded demo</sub>
+</p>
 
-[Explore AegisLog](https://github.com/HR-Presents/AegisLog) · [Download](https://github.com/HR-Presents/AegisLog/releases/latest) · [Try the synthetic demo](https://github.com/HR-Presents/AegisLog/tree/main/docs/demo) · [Watch the demonstration](https://www.linkedin.com/posts/hr-presents_cybersecurity-opensource-cybersecuritytools-activity-7512948828828770305-A2MA)
+<p><strong>Local analysis</strong> &nbsp; / &nbsp; <strong>Read-only source access</strong> &nbsp; / &nbsp; <strong>HTML reports</strong></p>
+<p><strong><a href="https://github.com/HR-Presents/AegisLog/releases/latest">Download AegisLog →</a></strong> &nbsp; · &nbsp; <a href="https://github.com/HR-Presents/AegisLog">Source &amp; documentation</a> &nbsp; · &nbsp; <a href="https://www.linkedin.com/posts/hr-presents_cybersecurity-opensource-cybersecuritytools-activity-7512948828828770305-A2MA">Watch demo</a></p>
+<p><sub><a href="https://github.com/HR-Presents/AegisLog/tree/main/docs/demo">Try the synthetic demo</a> · <a href="./assets/media/aegislog-terminal.jpg">Open full-size image</a></sub></p>
 
-### Sentrix V1
+</td></tr>
+</table>
 
-**Understand Python findings and prioritize your next fix.**
+<table width="100%">
+<tr><td>
 
-<p align="center"><a href="https://lnkd.in/p/dJM76MA4"><img src="./assets/media/sentrix-post.jpg" width="400" alt="Sentrix V1 product image from Haziq Afzal’s LinkedIn introduction post" /></a></p>
+<h3>Sentrix V1</h3>
+<p><strong>PYTHON SECURITY &amp; CODE QUALITY</strong> · Commercial product</p>
+<p>Review Python security, quality, complexity, formatting and syntax in one local browser workspace, with structured findings and downloadable reports.</p>
 
-Review Python security, quality, complexity, formatting and syntax in a local browser workspace. Combines **Bandit, Pylint, Radon and Black** with structured findings and downloadable reports. **Commercial product.**
+<p align="center">
+<a href="https://lnkd.in/p/dJM76MA4">
+<img src="./assets/media/sentrix-post.jpg" width="420" alt="Original Sentrix V1 introduction image showing its Python analysis workspace and Developer Edition details" />
+</a>
+<br />
+<sub>Product workspace and edition overview · Original introduction image</sub>
+</p>
 
-[Watch the demonstration](https://www.linkedin.com/posts/hr-presents_sentrix-hrpresents-python-activity-7495086599194558465-6ZIc) · [View the introduction post](https://lnkd.in/p/dJM76MA4) · [Discuss editions & licensing](https://www.linkedin.com/company/hr-presents/)
+<p><strong>Bandit + Pylint</strong> &nbsp; / &nbsp; <strong>Radon + Black</strong> &nbsp; / &nbsp; <strong>Structured reports</strong></p>
+<p><strong><a href="https://www.linkedin.com/posts/hr-presents_sentrix-hrpresents-python-activity-7495086599194558465-6ZIc">Watch Sentrix in action →</a></strong> &nbsp; · &nbsp; <a href="https://www.linkedin.com/company/hr-presents/">Discuss editions &amp; licensing</a></p>
+<p><sub><a href="https://lnkd.in/p/dJM76MA4">View introduction post</a> · <a href="./assets/media/sentrix-post.jpg">Open full-size image</a></sub></p>
 
-<sub>The AegisLog image is a frame from our published demo; the Sentrix image is from the introduction post. Click either image for its source. Demo output illustrates the recorded example rather than general detection effectiveness.</sub>
+</td></tr>
+</table>
 
-AegisLog preserves source logs; findings support human investigation. Sentrix standards mappings provide engineering context. [Detailed product information](company-background.md#released-products).
+<details>
+<summary><strong>Image sources &amp; product scope</strong></summary>
+
+The AegisLog image is an unaltered frame at 68 seconds from our published LinkedIn demo. The Sentrix image is from the introduction post selected for this profile. Images link to their original posts; full-size copies are also available above.
+
+Recorded demo output illustrates that example, rather than general detection effectiveness. AegisLog findings support human investigation; Sentrix standards mappings provide engineering context.
+
+[Detailed product information](company-background.md#released-products) · [Media sources](assets/media/SOURCES.md)
+
+</details>
 
 <img src="./section-divider.svg" width="100%" alt="" />
 
