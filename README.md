@@ -2,8 +2,6 @@
 
 <img src="./assets/editorial/masthead.svg" width="100%" alt="HR-Presents — Engineering with purpose. Software products, practical education and technical services." />
 
-<img src="./assets/brand/company-logo.png" width="64" height="64" alt="HR-Presents company logo" />
-
 # HR-Presents
 
 **Software engineering, cybersecurity and technical education.**
@@ -23,11 +21,33 @@ Founded by **Haziq Afzal and Ruveeha Ashfaq**, HR-Presents brings together softw
 
 ---
 
+<a id="portfolio"></a>
+
+## GitHub presentation — see the work
+
+
+Our company and personal profiles are working examples of how we organize technical identity, project evidence, documentation and navigation.
+
+| Earlier company presentation | Subsequent company presentation |
+| --- | --- |
+| [![Earlier HR-Presents profile](assets/case-study/profile-before.jpg)](profile-redesign-case-study.md) | [![Subsequent HR-Presents profile](assets/case-study/profile-after.jpg)](profile-redesign-case-study.md) |
+
+**What changed:** clearer product navigation, direct service links, and original course and product media. These retained screenshots document earlier revisions, rather than the current page. [Read the redesign case study and view the exact revisions](profile-redesign-case-study.md).
+
+| Example | What to explore |
+| --- | --- |
+| [Haziq’s engineering profile](https://github.com/HaziqBinAfzal) | Blue identity, project case studies, technical background and verification records |
+| [Ruveeha’s engineering profile](https://github.com/ruveeha33) | Distinct personal identity, project demonstrations, contributor roles and training evidence |
+| [HR-Presents product gallery](product-gallery.md) | Original product media, course covers and demonstration links |
+
+These are our own profiles and team projects. They show the work we can discuss with a buyer; they are not client testimonials.
+
+---
+
 <a id="services"></a>
 
 ## Services
 
-<img src="./assets/editorial/services.svg" width="100%" alt="Services" />
 
 Work delivered jointly by Haziq Afzal and Ruveeha Ashfaq. Share your requirement before ordering; we agree on deliverables, a fixed price and a delivery date.
 
@@ -42,6 +62,16 @@ Investigation of a defined issue, agreed changes or commands, checks and written
 **Automation and CI/CD**  
 Scoped Python or Bash scripts with usage guidance, or investigation of an existing GitHub Actions or Jenkins workflow.  
 [Python and Bash automation](https://www.fiverr.com/haziq_afzal/write-python-and-bash-scripts-to-automate-repetitive-tasks) · [CI/CD troubleshooting](https://www.fiverr.com/haziq_afzal/troubleshoot-github-actions-and-jenkins-ci-cd-pipelines)
+
+### What you receive
+
+| Deliverable | What it means |
+| --- | --- |
+| **Editable source** | Agreed Markdown, scripts, configuration or other working files |
+| **Documentation** | Relevant setup, usage, troubleshooting or project guidance |
+| **Selected visuals** | Graphics and project presentation where included in the agreed package |
+| **Verification** | Checks relevant to the task, with findings and remaining limitations |
+| **Handover** | A clear record of the changes and how to use the delivered work |
 
 **Custom software**  
 Discuss defensive tools or software workflows tailored to your requirements.  
@@ -64,88 +94,77 @@ Exact package limits on the selected listing apply.
 ---
 
 
-<a id="portfolio"></a>
-
-## Our presentation work
-
-<img src="./assets/editorial/portfolio.svg" width="100%" alt="Our presentation work" />
-
-Our company and personal profiles are working examples of how we organize technical identity, project evidence, documentation and navigation.
-
-| Earlier company presentation | Subsequent company presentation |
-| --- | --- |
-| [![Earlier HR-Presents profile](assets/case-study/profile-before.jpg)](profile-redesign-case-study.md) | [![Subsequent HR-Presents profile](assets/case-study/profile-after.jpg)](profile-redesign-case-study.md) |
-
-These retained screenshots document earlier revisions, rather than the current expanded page. [Read the redesign case study and view the exact revisions](profile-redesign-case-study.md).
-
-| Example | What to explore |
-| --- | --- |
-| [Haziq’s engineering profile](https://github.com/HaziqBinAfzal) | Blue identity, project case studies, technical background and verification records |
-| [Ruveeha’s engineering profile](https://github.com/ruveeha33) | Distinct personal identity, project demonstrations, contributor roles and training evidence |
-| [HR-Presents product gallery](product-gallery.md) | Original product media, course covers and demonstration links |
-
-These are our own profiles and team projects. They show the work we can discuss with a buyer; they are not client testimonials.
-
----
-
 <a id="products"></a>
 
-## Products
+## Products — built by both founders
 
-<img src="./assets/editorial/products.svg" width="100%" alt="Products" />
+### AegisLog
+**Defensive log investigation · Free and open source**
 
-<a href="https://github.com/HR-Presents/AegisLog"><img src="./assets/editorial/aegislog.svg" width="100%" alt="AegisLog — defensive log investigation" /></a>
+<a href="https://github.com/HR-Presents/AegisLog"><img src="./assets/media/aegislog-terminal.jpg" width="100%" alt="Original AegisLog terminal investigation screenshot; open the repository for documentation" /></a>
 
+Investigate supported log files and accessible Windows, Linux and Docker telemetry locally. Review explained findings, incident context and retained evidence in local HTML reports.
 
+| Investigate | Review | Keep control |
+| --- | --- | --- |
+| Files, folders and supported native telemetry | Findings, evidence references and investigation reports | Read-only source access; human-directed decisions |
 
-
-<p>Defensive log investigation.</p>
-<p align="center"><a href="product-gallery.md#aegislog"><img src="./assets/media/aegislog-terminal.jpg" width="560" alt="AegisLog terminal findings from the published demonstration" /></a></p>
-<p>Investigate supported files and accessible Windows, Linux and Docker telemetry. Review findings, incident context and retained evidence in local HTML reports.</p>
-<p><strong>Free and open source.</strong> Local processing, read-only source access, MIT licensed.</p>
-<p><a href="https://github.com/HR-Presents/AegisLog/releases/latest"><strong>Download AegisLog</strong></a> &nbsp; · &nbsp; <a href="https://github.com/HR-Presents/AegisLog">Documentation</a></p>
-
-
+**[Explore AegisLog and download →](https://github.com/HR-Presents/AegisLog)** · [Release history](https://github.com/HR-Presents/AegisLog/releases) · [Full-size media](product-gallery.md#aegislog)
 
 ---
 
-<a href="product-gallery.md#sentrix-v1"><img src="./assets/editorial/sentrix.svg" width="100%" alt="Sentrix V1 — Python code review" /></a>
+### Sentrix V1
+**Python security and code-quality review · Commercial software**
 
+<a href="product-gallery.md"><img src="./assets/media/sentrix-report.jpg" width="100%" alt="Original Sentrix report screenshot; open the product gallery for full-size media" /></a>
 
+Review Python security, quality, complexity, formatting and syntax in a local browser workspace. Sentrix combines Bandit, Pylint, Radon, Black and syntax validation with structured findings, project history and downloadable reports.
 
+| Analyze | Understand | Share |
+| --- | --- | --- |
+| Python security and code-quality checks | Separate findings, metrics and review context | Downloadable reports for human review |
 
-<p>Python security and code-quality review.</p>
-<p align="center"><a href="https://lnkd.in/p/dJM76MA4"><img src="./assets/media/sentrix-post.jpg" width="560" alt="Original Sentrix product image from the selected LinkedIn introduction post" /></a></p>
-<p>Review security, quality, complexity, formatting and syntax in a local browser workspace, with Bandit, Pylint, Radon, Black and downloadable reports.</p>
-<p><strong>Commercial software.</strong> Contact us about the edition and license that fits your requirements.</p>
-<p><a href="https://www.linkedin.com/posts/hr-presents_sentrix-hrpresents-python-activity-7495086599194558465-6ZIc"><strong>Watch the Sentrix demo</strong></a> &nbsp; · &nbsp; <a href="https://www.linkedin.com/company/hr-presents/">Enquire</a></p>
+**[Watch the Sentrix demonstration →](https://www.linkedin.com/posts/hr-presents_sentrix-hrpresents-python-activity-7495086599194558465-6ZIc)** · [Original launch image](assets/media/sentrix-post.jpg) · [Discuss an edition or license](https://www.linkedin.com/company/hr-presents/)
 
-
-
-
-[View full-size product images and demonstrations](product-gallery.md)
+Sentrix source is private. Product findings and standards references support review; they do not establish certification or guarantee secure code.
 
 ---
-
 
 <a id="projects"></a>
 
 ## Engineering projects & collaborative work
 
-<img src="./assets/editorial/projects.svg" width="100%" alt="Engineering projects &amp; collaborative work" />
 
 Our wider portfolio spans educational security demonstrations, Linux administration, backup workflows and Python automation. The repositories and case studies explain the implementation, evidence and contributor roles.
 
+
+### AquaVigil · water & OT evidence
+Read-only educational water and desalination analysis, with evidence validation, SHA-256 provenance, cyber/process context, reports and Prometheus/Grafana observability.
+
+**Haziq:** project author · **Ruveeha:** contributor.  
+[Repository](https://github.com/HaziqBinAfzal/AquaVigil) · [Case study and screenshots](https://github.com/HaziqBinAfzal/HaziqBinAfzal/blob/main/docs/case-studies/aquavigil.md)
+
+### NuclearShield · nuclear cybersecurity evidence
+Ruveeha’s educational project connects evidence provenance, analysis rules, statistical screening, reporting and application observability.
+
+[Repository](https://github.com/ruveeha33/NuclearShield) · [Demonstration and screenshots](https://github.com/ruveeha33/ruveeha33/blob/main/demo-gallery.md#nuclearshield)
+
+### Enterprise Linux Backup & Recovery
+A documented workflow covering rsync, tar, GPG, SHA-256 verification, SSH transfer, cron scheduling and restoration evidence.
+
+**Team:** Haziq Afzal, Ruveeha Ashfaq, Ambreen Imtiaz and Muhammad Buddha.  
+[Repository and restoration evidence](https://github.com/HaziqBinAfzal/linux-backup-recovery-system)
+
+### More engineering work
+
 | Project | Purpose and implementation | People and evidence |
 | --- | --- | --- |
-| **[AquaVigil](https://github.com/HaziqBinAfzal/AquaVigil)** | Read-only educational water and desalination evidence analysis; Python, Flask, Docker Compose, SHA-256 provenance, findings and reports, with Prometheus/Grafana observability | Haziq is identified as project author and Ruveeha as contributor. [Case study](https://github.com/HaziqBinAfzal/HaziqBinAfzal/blob/main/docs/case-studies/aquavigil.md) |
-| **[NuclearShield](https://github.com/ruveeha33/NuclearShield)** | Educational nuclear cybersecurity evidence analysis, provenance, rules, statistical screening, reporting and application observability | Ruveeha’s project. [Demonstration and context](https://github.com/ruveeha33/ruveeha33/blob/main/demo-gallery.md#nuclearshield) |
 | **[LinuxOps Enterprise Lab](https://github.com/HaziqBinAfzal/linuxops-enterprise-lab)** | Collaborative Linux administration and documented system baselines | Haziq: Ubuntu. Ruveeha: Rocky Linux. Phase 01 is documented; later phases are planned |
-| **[Enterprise Linux Backup & Recovery](https://github.com/HaziqBinAfzal/linux-backup-recovery-system)** | rsync backups, tar compression, GPG encryption, SHA-256 verification, SSH transfers, cron scheduling and restoration evidence | Haziq Afzal, Ruveeha Ashfaq, Ambreen Imtiaz and Muhammad Buddha |
 | **[AI Log Analyzer](https://github.com/ruveeha33/AI-Log-Analyzer)** | Collaborative log-analysis application with a Flask backend, frontend/API integration and classification logic | Ruveeha: backend/API. Haziq: frontend/API integration. Ambreen Imtiaz: classification and AI logic |
 | **[SFVDS](https://github.com/HaziqBinAfzal/sfvds)** | Bash/Linux file versioning and change monitoring with SHA-256, inotifywait, backups, rollback and logging | Haziq Afzal, Ruveeha Ashfaq and Ambreen Imtiaz |
 | **[Jira Python Automation Bot](https://github.com/HaziqBinAfzal/jira-python-automation-bot)** | Python REST API work for Jira issue creation and workflow tasks | Haziq Afzal and Ruveeha Ashfaq |
 | **[Smart Mount Manager](https://github.com/HaziqBinAfzal/Smart_Mount_Manager)** | Additional Linux tooling in our personal project portfolio | See the repository for implementation and authorship |
+
 
 AquaVigil and NuclearShield are educational evidence-analysis demonstrations. They do not operate water infrastructure or nuclear facilities.
 
@@ -168,7 +187,6 @@ We link test records to their dates and environments so visitors can inspect wha
 
 ## Courses
 
-<img src="./assets/editorial/courses.svg" width="100%" alt="Courses" />
 
 Co-created and co-presented by **Haziq Afzal and Ruveeha Ashfaq** under HR-Presents.
 
@@ -211,7 +229,6 @@ We share curriculum planning, lesson preparation, demonstrations, recording, qui
 
 ## Technology
 
-<img src="./assets/editorial/technology.svg" width="100%" alt="Technology" />
 
 **Programming & automation**
 
@@ -230,6 +247,15 @@ We share curriculum planning, lesson preparation, demonstrations, recording, qui
 ![Docker](https://img.shields.io/badge/Docker-103B29?style=for-the-badge&logoColor=E1FBEF&logo=docker)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-135239?style=for-the-badge&logoColor=E1FBEF&logo=docker)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-147D51?style=for-the-badge&logoColor=E1FBEF&logo=githubactions)
+
+**Systems, APIs & observability**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-135239?style=for-the-badge&logoColor=E1FBEF&logo=fastapi)
+![Prometheus](https://img.shields.io/badge/Prometheus-135239?style=for-the-badge&logoColor=E1FBEF&logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-135239?style=for-the-badge&logoColor=E1FBEF&logo=grafana)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-135239?style=for-the-badge&logoColor=E1FBEF&logo=ubuntu)
+![Rocky Linux](https://img.shields.io/badge/Rocky_Linux-135239?style=for-the-badge&logoColor=E1FBEF&logo=rockylinux)
+![GPG](https://img.shields.io/badge/GPG-135239?style=for-the-badge&logoColor=E1FBEF&logo=gnuprivacyguard)
 
 **Code analysis & investigation**
 
@@ -272,33 +298,31 @@ Tools and topics span products, collaborative projects, labs and ongoing study; 
 
 <a id="founders"></a>
 
-## Founders
+## Meet the founders
 
-<img src="./assets/editorial/founders.svg" width="100%" alt="Founders" />
 
-| Haziq Afzal | Ruveeha Ashfaq |
-| --- | --- |
-| **Co-Founder & CTO · Udemy Instructor** | **Co-Founder & CEO · Udemy Instructor** |
-| Technical strategy, software engineering, cybersecurity and product development | Company direction, operations, product delivery and customer experience |
-| [GitHub](https://github.com/HaziqBinAfzal) · [LinkedIn](https://www.linkedin.com/in/haziq-afzal/) | [GitHub](https://github.com/ruveeha33) · [LinkedIn](https://www.linkedin.com/in/ruveeha-ashfaq/) |
+### Haziq Afzal
+**Co-Founder & CTO · Udemy Instructor · Abu Dhabi, UAE**
 
-Both founders collaborate across products, services, documentation and technical education.
+Haziq works across Python applications, defensive security, Linux systems, cloud/DevOps, automation and observability. His founder responsibilities include technical strategy and product development, alongside hands-on implementation, testing, troubleshooting and documentation.
 
-<details>
-<summary>Engineering background and continued learning</summary>
+[GitHub](https://github.com/HaziqBinAfzal) · [LinkedIn](https://www.linkedin.com/in/haziq-afzal/) · [Fiverr](https://www.fiverr.com/haziq_afzal) · [Full professional background](https://github.com/HaziqBinAfzal/HaziqBinAfzal/blob/main/docs/professional-background.md)
 
-[Product details](company-background.md#released-products) · [Engineering practices](company-background.md#engineering--release-practice) · [Technical foundation](company-background.md#technical-foundation) · [Principles](company-background.md#engineering-principles)
+### Ruveeha Ashfaq
+**Co-Founder & CEO · Udemy Instructor · Mandi Bahauddin, Pakistan**
 
-</details>
+Ruveeha works across cybersecurity, Python, Linux, Docker, cloud/DevOps, AI and automation. Her founder responsibilities include company direction, coordination and product delivery, alongside hands-on development, testing, troubleshooting and documentation.
+
+[GitHub](https://github.com/ruveeha33) · [LinkedIn](https://www.linkedin.com/in/ruveeha-ashfaq/) · [Fiverr](https://www.fiverr.com/ruveehaashfaq) · [Full professional background](https://github.com/ruveeha33/ruveeha33/blob/main/professional-background.md)
+
+Both founders share ownership and credit across products, services and technical education.
 
 ---
-
 
 <a id="about"></a>
 
 ## About HR-Presents
 
-<img src="./assets/editorial/background.svg" width="100%" alt="About HR-Presents" />
 
 HR-Presents is an independent technology collaboration founded in 2026. Our shared work connects defensive cybersecurity, software development, Linux systems, cloud/DevOps, automation and technical education.
 
@@ -321,7 +345,6 @@ Our principles are practical: preserve source evidence, explain findings, credit
 
 ## Education & technical development
 
-<img src="./assets/editorial/education.svg" width="100%" alt="Education &amp; technical development" />
 
 | Founder | Education | Status |
 | --- | --- | --- |
@@ -331,6 +354,9 @@ Our principles are practical: preserve source evidence, explain findings, credit
 | **Ruveeha Ashfaq** | Matric, Biology — Army Public School (APSACS) | Completed; Grade A+ |
 
 Our practical experience develops through coursework, labs, collaborative projects and product development.
+
+<details>
+<summary><strong>Explore our study and practical exposure</strong></summary>
 
 ### Areas of study and practical exposure
 
@@ -346,11 +372,15 @@ Our practical experience develops through coursework, labs, collaborative projec
 
 Study areas describe our learning foundation. Project repositories show where a topic has been implemented. Training in a framework does not imply professional certification or regulatory approval.
 
+</details>
+
 <a id="training"></a>
 
 ## Training records & credentials
 
-<img src="./assets/editorial/training.svg" width="100%" alt="Training records &amp; credentials" />
+
+<details>
+<summary><strong>View both founders’ training records</strong></summary>
 
 ### Haziq Afzal
 
@@ -371,31 +401,25 @@ Study areas describe our learning foundation. Project repositories show where a 
 
 These are training badges and course completions. They are distinct from AWS certification exams and the ISC2 Certified in Cybersecurity credential.
 
+</details>
+
+<details>
+<summary><strong>View recognition and community participation</strong></summary>
+
 ### Recognition & community participation
 
 **Haziq:** school recognition includes first-place Science & Math Project awards in Category 3 at the February 2023 Science & Arts Exhibition, a Book Tasting presenter appreciation certificate, drawing competition recognition and participation in spelling and community learning activities. [Full recognition record](https://github.com/HaziqBinAfzal/HaziqBinAfzal/blob/main/docs/professional-background.md#honors-and-participation).
 
 **Ruveeha:** preliminary-round participation in the 9th International English Language Olympiad, plus Kaggle community participation and a Python Coder platform achievement. [Recognition details](https://github.com/ruveeha33/ruveeha33/blob/main/professional-background.md#recognition).
 
-## Full founder profiles
+</details>
 
-| | Haziq Afzal | Ruveeha Ashfaq |
-| --- | --- | --- |
-| **Role** | Co-Founder & CTO · Udemy Instructor | Co-Founder & CEO · Udemy Instructor |
-| **Focus** | Python engineering, defensive security, Linux, cloud/DevOps, automation and observability | Cybersecurity, Python, Linux, cloud/DevOps, security analysis, AI and automation |
-| **Based in** | Abu Dhabi, UAE | Mandi Bahauddin, Punjab, Pakistan |
-| **GitHub** | [HaziqBinAfzal](https://github.com/HaziqBinAfzal) | [ruveeha33](https://github.com/ruveeha33) |
-| **LinkedIn** | [Haziq Afzal](https://www.linkedin.com/in/haziq-afzal/) | [Ruveeha Ashfaq](https://www.linkedin.com/in/ruveeha-ashfaq/) |
-| **Fiverr** | [haziq_afzal](https://www.fiverr.com/haziq_afzal) | [ruveehaashfaq](https://www.fiverr.com/ruveehaashfaq) |
-| **Detailed background** | [Experience, education, project credits and recognition](https://github.com/HaziqBinAfzal/HaziqBinAfzal/blob/main/docs/professional-background.md) | [Experience, education, training and contributions](https://github.com/ruveeha33/ruveeha33/blob/main/professional-background.md) |
-
-Haziq’s profile lists English at professional working proficiency and Urdu at native or bilingual proficiency. For individual experience, training evidence and contributor credits, use the detailed background pages above.
+**Languages:** Haziq’s profile lists English at professional working proficiency and Urdu at native or bilingual proficiency. Both detailed founder background pages above include further experience and contributor records.
 
 <a id="contact"></a>
 
 ## Work with HR-Presents
 
-<img src="./assets/editorial/contact.svg" width="100%" alt="Work with HR-Presents" />
 
 For a service request, share the repository or task, desired outcome, relevant environment and target delivery date. We will discuss feasibility and agree on a fixed scope and price.
 
