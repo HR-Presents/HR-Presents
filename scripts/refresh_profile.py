@@ -100,19 +100,35 @@ def stat_card(data):
         body += f'<rect x="{x}" y="{y}" width="369" height="93" rx="9" fill="#ffffff" fill-opacity=".055"/>' + text(x+18, y+42, value, 34, ACCENT, True) + text(x+18, y+73, label, 16)
     return svg('Automatically refreshed public statistics for ' + ACCOUNT, body, 318)
 
+
 def calendar_card(data):
-    days = data['contributions']['daily']; start = dt.date.fromisoformat(days[0]['date'])
-    offset = (start.weekday()+1) % 7
-    body = text(28, 40, ACCOUNT + ' / contribution activity', 26, ACCENT, True) + text(28, 70, str(data['contributions']['total']) + ' contributions / rolling year / ' + STAMP, 16)
-    for i, day in enumerate(days):
-        date = dt.date.fromisoformat(day['date']); count = day['count']; col = (i+offset)//7
-        if date.day == 1:
-            body += text(38+col*21, 101, date.strftime('%b'), 12)
-        level = 0 if not count else 1 if count < 10 else 2 if count < 40 else 3 if count < 100 else 4
-        alpha = [.10, .30, .48, .72, 1][level]
-        body += f'<rect x="{38+col*21}" y="{112+((date.weekday()+1)%7)*20}" width="16" height="16" rx="3" fill="#{ACCENT}" fill-opacity="{alpha}"><title>{day["date"]}: {count} contributions</title></rect>'
-    body += text(28, 278, 'GitHub calendar counts / activity is not a proficiency or quality rating', 14)
-    return svg(ACCOUNT + ' rolling-year contribution calendar', body, 304)
+    import math
+    months = {}
+    for day in data['contributions']['daily']:
+        key = day['date'][:7]
+        months[key] = months.get(key, 0) + day['count']
+    rows = sorted(months.items())
+    maximum = max([v for _,v in rows] or [0])
+    step = max(1, math.ceil(maximum / 4)); ceiling = step * 4
+    body = text(28, 40, ACCOUNT + ' / development graph', 26, ACCENT, True)
+    body += text(28, 70, 'Monthly GitHub contributions / rolling-year window / refreshed '+STAMP, 15)
+    for i in range(5):
+        y = 256-i*39
+        body += f'<path d="M70 {y}H1160" stroke="#{TEXT}" stroke-opacity=".15"/>' + text(20,y+5,i*step,12,TEXT)
+    points=[]
+    for i,(month,count) in enumerate(rows):
+        x = 88+i*1052/max(1,len(rows)-1); y = 256-count/ceiling*156
+        points.append((x,y))
+        label=dt.datetime.strptime(month,'%Y-%m').strftime('%b %y')
+        body += text(x-18,279,label,11,TEXT)
+    if points:
+        path=' '.join(f'{x},{y}' for x,y in points)
+        area=f'{points[0][0]},256 '+path+f' {points[-1][0]},256'
+        body += f'<polygon points="{area}" fill="#{ACCENT}" fill-opacity=".10"/><polyline points="{path}" fill="none" stroke="#{ACCENT}" stroke-width="3"/>'
+        for (x,y),(month,count) in zip(points,rows):
+            body += f'<circle cx="{x}" cy="{y}" r="4" fill="#{SECOND}"><title>{month}: {count} contributions</title></circle>'
+    body += text(28,315,'First and current months may be partial. GitHub activity counts are not a quality or proficiency score.',13,TEXT)
+    return svg(ACCOUNT+' automatically refreshed monthly development graph',body,340)
 
 def languages_card(data):
     languages = data['languages']; total = sum(languages.values())
@@ -140,6 +156,8 @@ def render(data, shared):
     save('stats.svg', stat_card(data)); save('activity.svg', calendar_card(data)); save('languages.svg', languages_card(data))
     save('data.json', json.dumps(data, indent=2) + '\n')
     readme = Path('README.md').read_text()
+    readme = readme.replace('## Development activity', '## Development graph').replace('## GitHub activity & languages', '## GitHub graphs & languages')
+    readme = readme.replace('Contribution_calendar-', 'Development_graph-').replace('Automatically refreshed rolling-year GitHub contribution activity', 'Automatically refreshed monthly GitHub development graph').replace('Automatically refreshed rolling-year GitHub activity', 'Automatically refreshed monthly GitHub development graph')
     previous_path = OUT / 'shared-state.json'
     previous = json.loads(previous_path.read_text()) if previous_path.exists() else shared
     for key, item in shared['items'].items():
