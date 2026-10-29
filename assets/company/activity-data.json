@@ -1,0 +1,47 @@
+{
+  "sources": [
+    {
+      "source": "https://github.com/HaziqBinAfzal",
+      "captured_on": "2026-10-24",
+      "range": "2026-01-01 through 2026-10-24"
+    },
+    {
+      "source": "https://github.com/ruveeha33",
+      "captured_on": "2026-10-24",
+      "range": "2026-01-01 through 2026-10-24"
+    }
+  ],
+  "monthly": [
+    {
+      "founder": "Haziq Afzal",
+      "values": [
+        0,
+        0,
+        0,
+        27,
+        11,
+        14,
+        53,
+        318,
+        22,
+        79
+      ]
+    },
+    {
+      "founder": "Ruveeha Ashfaq",
+      "values": [
+        11,
+        9,
+        0,
+        5,
+        15,
+        5,
+        41,
+        4,
+        185,
+        20
+      ]
+    }
+  ],
+  "note": "Monthly sums of each founder's personal GitHub calendar. October partial. Not company-only activity or engineering quality."
+}
