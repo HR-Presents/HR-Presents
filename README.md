@@ -59,7 +59,7 @@ These are dated tests of specific source commits using synthetic inputs. Counts 
 Public HR-Presents account statistics refresh automatically every six hours and on profile-source edits. The cards show their last successful refresh time. Language shares aggregate bytes across public, non-fork repositories; private source is excluded.
 
 <!-- LIVE-WORKFLOW:START -->
-**Latest release workflow:** failure · checked 2026-10-29 15:26 UTC. Published-release availability is separate from a newer workflow result.
+**Latest release workflow:** failure · checked 2026-10-29 16:30 UTC. Published-release availability is separate from a newer workflow result.
 
 [![Latest publishing run](https://img.shields.io/badge/Publishing_run-failure-405D70?style=flat-square)](https://github.com/HR-Presents/AegisLog/actions/runs/37354988514)
 
@@ -243,7 +243,7 @@ Both founders share product ownership and credit across engineering, services an
 
 <a href="./assets/dynamic/data.json"><img src="./assets/dynamic/activity.svg" width="100%" alt="Automatically refreshed HR-Presents rolling-year contribution activity" /></a>
 
-[![Source counts](https://img.shields.io/badge/Contribution_calendar-Source_counts-426253?style=flat-square)](assets/dynamic/data.json)
+[![Source counts](https://img.shields.io/badge/Development_graph-Source_counts-426253?style=flat-square)](assets/dynamic/data.json)
 [![Current activity](https://img.shields.io/badge/HR--Presents-Current_activity-405D70?style=flat-square)](https://github.com/HR-Presents)
 
 <a href="https://github.com/HR-Presents/AegisLog"><img src="./assets/dynamic/languages.svg" width="100%" alt="Automatically refreshed HR-Presents public repository language distribution" /></a>
