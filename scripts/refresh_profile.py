@@ -190,7 +190,7 @@ def render(data, shared):
 
 def status_badge(label, value, color):
     left = max(55, len(label)*7+18); right = max(65, len(str(value))*7+18)
-    return f'<svg xmlns="http://www.w3.org/2000/svg" width="{left+right}" height="22" role="img"><title>{esc(label)}: {esc(value)}</title><rect width="{left+right}" height="22" rx="3" fill="#35444B"/><path d="M{left} 0H{left+right}V22H{left}Z" fill="#{color}"/><text x="{left/2}" y="15" text-anchor="middle" fill="#F4F1E9" font-family="Arial" font-size="12">{esc(label)}</text><text x="{left+right/2}" y="15" text-anchor="middle" fill="#F4F1E9" font-family="Arial" font-size="12">{esc(value)}</text></svg>\\n'
+    return f'<svg xmlns="http://www.w3.org/2000/svg" width="{left+right}" height="22" role="img"><title>{esc(label)}: {esc(value)}</title><rect width="{left+right}" height="22" rx="3" fill="#35444B"/><path d="M{left} 0H{left+right}V22H{left}Z" fill="#{color}"/><text x="{left/2}" y="15" text-anchor="middle" fill="#F4F1E9" font-family="Arial" font-size="12">{esc(label)}</text><text x="{left+right/2}" y="15" text-anchor="middle" fill="#F4F1E9" font-family="Arial" font-size="12">{esc(value)}</text></svg>\n'
 
 def main():
     parser = argparse.ArgumentParser(); parser.add_argument('--fixture'); args = parser.parse_args()
