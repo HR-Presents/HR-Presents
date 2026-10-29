@@ -40,7 +40,7 @@ HR-Presents is our independent technology collaboration, founded in 2026. We bui
 
 These are dated tests of specific source commits using synthetic inputs. Counts reflect different test suites; they are not comparable product scores or detection-accuracy ratings.
 
-<img src="./assets/company/repository-stats.svg" width="100%" alt="AegisLog snapshot: one star, zero forks, zero open issues, release v2.1.17" />
+<img src="./assets/company/repository-stats.svg" width="100%" alt="Automatically refreshed AegisLog public repository metadata and latest release" />
 
 [![Live repository](https://img.shields.io/badge/Repository-Current_counts-405D70?style=flat-square)](https://github.com/HR-Presents/AegisLog)
 [![Release](https://img.shields.io/badge/Release-v2.1.17-426253?style=flat-square)](https://github.com/HR-Presents/AegisLog/releases/tag/v2.1.17)
@@ -50,18 +50,17 @@ These are dated tests of specific source commits using synthetic inputs. Counts 
 
 ### ![GitHub statistics](https://img.shields.io/badge/GitHub_Statistics-405D70?style=flat-square)
 
-<a href="https://github.com/HR-Presents"><img src="./assets/company/account-stats.svg" width="100%" alt="HR-Presents account snapshot: 990 yearly contributions, 207 October commits, 83 October pull requests, two public repositories, three followers and two following" /></a>
+<a href="https://github.com/HR-Presents"><img src="./assets/dynamic/stats.svg" width="100%" alt="Automatically refreshed HR-Presents public GitHub statistics" /></a>
 
 [![Open GitHub profile](https://img.shields.io/badge/HR--Presents-Current_GitHub_stats-426253?style=flat-square)](https://github.com/HR-Presents)
 [![Open repositories](https://img.shields.io/badge/Public_repositories-Browse-405D70?style=flat-square)](https://github.com/HR-Presents?tab=repositories)
-[![Statistics source](https://img.shields.io/badge/Verified_snapshot-29_Oct_2026-625C7C?style=flat-square)](assets/company/account-stats-data.json)
+[![Statistics source](https://img.shields.io/badge/Refresh_source-Generated_data-625C7C?style=flat-square)](assets/dynamic/data.json)
 
-Verified from the **HR-Presents account**, not either founder’s profile. This repository-hosted card is a dated snapshot; the profile button opens current counts. October is partial. Public repository language statistics exclude private source; the unavailable language widget has been removed.
+Public HR-Presents account statistics refresh automatically every six hours and on profile-source edits. The cards show their last successful refresh time. Language shares aggregate bytes across public, non-fork repositories; private source is excluded.
 
-**Release workflow snapshot:** the latest “Publish reviewed release” run returned **failure** when checked on 29 October 2026. Published-release availability is separate from the result of a newer workflow run.
-
-[![Review publishing run](https://img.shields.io/badge/Publishing_run-Failed-B06A65?style=flat-square)](https://github.com/HR-Presents/AegisLog/actions/runs/37354988514)
-[![All workflow runs](https://img.shields.io/badge/Build_history-Open_Actions-405D70?style=flat-square)](https://github.com/HR-Presents/AegisLog/actions)
+<!-- LIVE-WORKFLOW:START -->
+Release workflow status will be refreshed by the profile workflow.
+<!-- LIVE-WORKFLOW:END -->
 
 ---
 
@@ -239,18 +238,18 @@ Both founders share product ownership and credit across engineering, services an
 
 ## <img src="./assets/company/section-activity-languages.svg" width="100%" alt="GitHub activity & languages" />
 
-<a href="./assets/company/contribution-data.json"><img src="./assets/company/contribution-activity.svg" width="100%" alt="HR-Presents contribution calendar: 990 contributions through 29 October 2026" /></a>
+<a href="./assets/dynamic/data.json"><img src="./assets/dynamic/activity.svg" width="100%" alt="Automatically refreshed HR-Presents rolling-year contribution activity" /></a>
 
-[![Source counts](https://img.shields.io/badge/Contribution_calendar-Source_counts-426253?style=flat-square)](assets/company/contribution-data.json)
+[![Source counts](https://img.shields.io/badge/Contribution_calendar-Source_counts-426253?style=flat-square)](assets/dynamic/data.json)
 [![Current activity](https://img.shields.io/badge/HR--Presents-Current_activity-405D70?style=flat-square)](https://github.com/HR-Presents)
 
-<a href="https://github.com/HR-Presents/AegisLog"><img src="./assets/company/public-languages.svg" width="100%" alt="AegisLog public-code languages: Python 97.3 percent, JavaScript 1.2 percent, Other 1.5 percent" /></a>
+<a href="https://github.com/HR-Presents/AegisLog"><img src="./assets/dynamic/languages.svg" width="100%" alt="Automatically refreshed HR-Presents public repository language distribution" /></a>
 
 [![Company stats](https://img.shields.io/badge/HR--Presents-Account_scoreboard-426253?style=flat-square)](#dashboard)
 [![Language source](https://img.shields.io/badge/AegisLog-Language_source-405D70?style=flat-square)](https://github.com/HR-Presents/AegisLog)
 [![Public repositories](https://img.shields.io/badge/Public_repositories-Browse-625C7C?style=flat-square)](https://github.com/HR-Presents?tab=repositories)
 
-Both visuals are repository-hosted snapshots verified on **29 October 2026**. October is partial. The calendar belongs to HR-Presents; the language breakdown covers AegisLog only. Private source is excluded, and neither metric measures proficiency.
+Repository-hosted graphics refresh automatically every six hours. Cards show the last successful refresh; contributions cover the rolling year, while languages cover public non-fork repositories. Historical test evidence above remains dated and does not claim a new test run.
 
 ---
 
@@ -284,3 +283,12 @@ For products, engineering services or technical education, tell us what you want
 **[![Company LinkedIn](https://img.shields.io/badge/Company_LinkedIn-405D70?style=flat-square&logoColor=F4F1E9)](https://www.linkedin.com/company/hr-presents/) &nbsp; [![Haziq on Fiverr](https://img.shields.io/badge/Haziq_on_Fiverr-426253?style=flat-square&logoColor=F4F1E9)](https://www.fiverr.com/haziq_afzal) &nbsp; [![Ruveeha on Fiverr](https://img.shields.io/badge/Ruveeha_on_Fiverr-426253?style=flat-square&logoColor=F4F1E9)](https://www.fiverr.com/ruveehaashfaq) &nbsp; [![Udemy](https://img.shields.io/badge/Udemy-80683E?style=flat-square&logoColor=F4F1E9)](https://www.udemy.com/user/haziq-x-ruveeha/)**
 
 <p align="center"><strong>HR-Presents · Built together. Explained clearly.</strong></p>
+
+
+### Shared products & courses
+
+<!-- SHARED-CONTENT:START -->
+<!-- Generated from HR-Presents/profile-data.json on the next refresh. -->
+<!-- SHARED-CONTENT:END -->
+
+[![Profile refresh](https://github.com/HR-Presents/HR-Presents/actions/workflows/refresh-profile.yml/badge.svg)](https://github.com/HR-Presents/HR-Presents/actions/workflows/refresh-profile.yml)
