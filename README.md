@@ -47,6 +47,19 @@ These are dated tests of specific source commits using synthetic inputs. Counts 
 [![CI](https://github.com/HR-Presents/AegisLog/actions/workflows/ci.yml/badge.svg)](https://github.com/HR-Presents/AegisLog/actions/workflows/ci.yml)
 [![Security](https://github.com/HR-Presents/AegisLog/actions/workflows/security.yml/badge.svg)](https://github.com/HR-Presents/AegisLog/actions/workflows/security.yml)
 
+
+### ![GitHub statistics](https://img.shields.io/badge/GitHub_Statistics-405D70?style=flat-square)
+
+<p align="center">
+<a href="https://github.com/HR-Presents"><img src="https://github-readme-stats.vercel.app/api?username=HR-Presents&amp;show_icons=true&amp;hide_border=true&amp;bg_color=172126&amp;title_color=A8CDB9&amp;icon_color=D6BE92&amp;text_color=CDD5D4&amp;rank_icon=github" width="53%" alt="HR-Presents GitHub statistics — contributions, stars, commits, issues and pull requests" /></a>
+<a href="https://github.com/HR-Presents?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HR-Presents&amp;layout=compact&amp;hide_border=true&amp;bg_color=172126&amp;title_color=A3C9DA&amp;text_color=CDD5D4&amp;langs_count=6" width="43%" alt="HR-Presents top languages across public repositories" /></a>
+</p>
+
+[![Open GitHub profile](https://img.shields.io/badge/HR--Presents-GitHub_profile-426253?style=flat-square)](https://github.com/HR-Presents)
+[![Open repositories](https://img.shields.io/badge/Public_repositories-Browse-405D70?style=flat-square)](https://github.com/HR-Presents?tab=repositories)
+
+These are the same external statistics widgets used on our co-founder profiles, configured for the company account. Service caching and availability affect updates. Private repositories are excluded from the public language summary; language share does not measure proficiency.
+
 **Release workflow snapshot:** the latest “Publish reviewed release” run returned **failure** when checked on 29 October 2026. Published-release availability is separate from the result of a newer workflow run.
 
 [![Review publishing run](https://img.shields.io/badge/Publishing_run-Failed-B06A65?style=flat-square)](https://github.com/HR-Presents/AegisLog/actions/runs/37354988514)
