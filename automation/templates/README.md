@@ -1,7 +1,10 @@
-# Founder profile refresh — pending approval
+# Founder profile refresh
 
-This template is inactive. Intended destinations: HaziqBinAfzal/HaziqBinAfzal and ruveeha33/ruveeha33, at .github/workflows/refresh-profile.yml.
+Installation was explicitly approved and completed directly in both original repositories using their respective signed-in accounts. No fork was created.
 
-It uses the built-in GITHUB_TOKEN with contents: write to commit generated public statistics and shared card changes to the same repository. No new account token or secret is required. The Python updater is embedded, rather than fetched as executable code. The company profile-data.json is fetched only as data.
+- Haziq: https://github.com/HaziqBinAfzal/HaziqBinAfzal/actions/runs/40902020024 — success
+- Ruveeha: https://github.com/ruveeha33/ruveeha33/actions/runs/40902757192 — success
 
-Runs every six hours and after README/SVG edits, with manual Run workflow support. Installing this workflow grants scheduled code the ability to update repository content. Approval is required before installation. The workflow is not active in either founder profile.
+The retained founder-refresh.yml.txt is a reviewable source template; active copies are under .github/workflows/refresh-profile.yml in each founder repository. The updater is embedded in the workflow. The company manifest is fetched only as data.
+
+Each workflow uses its built-in repository-scoped GITHUB_TOKEN to commit generated updates to its own repository. Runs every six hours, after README/SVG edits, and via manual Run workflow. Shared products and course records come from the company profile-data.json. Historical verification and manually written bios remain separate.

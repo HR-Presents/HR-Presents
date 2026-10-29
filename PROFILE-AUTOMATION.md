@@ -1,6 +1,11 @@
 # Automatic profile refresh
 
-The company profile is active and its first live refresh passed. Founder installation is prepared but pending explicit approval of repository write automation. The inactive, reviewable template is automation/templates/founder-refresh.yml.txt. It embeds the reviewed updater and does not download executable code. It is not installed under .github/workflows and cannot run from this location.
+All three profile refreshes are active and their first live runs passed. The personal workflows embed the reviewed updater; they do not download executable code. The retained installer template is automation/templates/founder-refresh.yml.txt.
+
+Verified runs:
+- Company: https://github.com/HR-Presents/HR-Presents/actions/runs/40901535803
+- Haziq: https://github.com/HaziqBinAfzal/HaziqBinAfzal/actions/runs/40902020024
+- Ruveeha: https://github.com/ruveeha33/ruveeha33/actions/runs/40902757192
 
 The intended deployments use the Refresh profile workflow; the company uses scripts/refresh_profile.py.
 
