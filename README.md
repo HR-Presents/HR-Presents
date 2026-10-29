@@ -2,36 +2,32 @@
 
 <img src="./assets/brand/company-banner-emerald.svg" width="100%" alt="HR-Presents — software, security and practical learning" />
 
-# HR-Presents
+# Software, learning & technical support
 
-![Software Engineering](https://img.shields.io/badge/Software_Engineering-123B2A?style=for-the-badge&logoColor=E1FBEF)
-![Defensive Security](https://img.shields.io/badge/Defensive_Security-147D51?style=for-the-badge&logoColor=E1FBEF)
-![Technology Education](https://img.shields.io/badge/Technology_Education-159B63?style=for-the-badge&logo=udemy&logoColor=E1FBEF)
+Defensive tools and hands-on courses—plus GitHub profile improvements, repository documentation, and Linux/Docker support.
 
-**Tools for technical work. Courses for practical skills. Solutions built together.**
+[![Explore our tools](https://img.shields.io/badge/Explore_Our_Tools-123B2A?style=for-the-badge&logo=github&logoColor=E1FBEF)](#products)
+[![Take a course](https://img.shields.io/badge/Take_A_Course-147D51?style=for-the-badge&logo=udemy&logoColor=E1FBEF)](#courses)
+[![Hire HR-Presents](https://img.shields.io/badge/Hire_HR--Presents-159B63?style=for-the-badge&logoColor=E1FBEF)](#services)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Company-116B45?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/hr-presents/)
-[![Udemy](https://img.shields.io/badge/Udemy-Our_Courses-147D51?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/user/haziq-x-ruveeha/)
-[![Work with us](https://img.shields.io/badge/Work_With_Us-123B2A?style=for-the-badge&logoColor=white)](#services)
-
-[Products](#products) · [Product gallery](product-gallery.md) · [Courses](#courses) · [Services](#services) · [Tech stack](#tech-stack) · [Founders](#founders)
+[Product gallery](product-gallery.md) · [Before & after](profile-redesign-case-study.md) · [Tech stack](#tech-stack) · [Founders](#founders) · [Company LinkedIn](https://www.linkedin.com/company/hr-presents/)
 
 </div>
 
 
 <img src="./section-divider.svg?rev=diamondgreen-20261029" width="100%" alt="" />
 
-**HR-Presents** is founded and built together by **Haziq Afzal** and **Ruveeha Ashfaq**. We develop defensive security and developer tools, create hands-on technology courses, and help people present and document their engineering work.
+**Looking for a GitHub profile or README improvement?** View the service with [Haziq](https://www.fiverr.com/haziq_afzal/enhance-your-github-profile-and-repository-readme) or [Ruveeha](https://www.fiverr.com/ruveehaashfaq/redesign-your-github-profile-and-repository-readme). We deliver together as **HR-Presents**; message the listing you choose with your repository URL and goal.
 
 <a id="products"></a>
 
-<h2><img src="./assets/sections/products-emerald.svg" width="100%" alt="Featured products" /></h2>
+<h2><picture><source media="(max-width: 600px)" srcset="./assets/mobile/products-heading.svg" /><img src="./assets/sections/products-emerald.svg" width="100%" alt="Featured products" /></picture></h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/HR-Presents/AegisLog"><img src="./card-aegislog.svg?rev=emerald-20261029" width="100%" alt="AegisLog — defensive log investigation, free and open source" /></a>
+<a href="https://github.com/HR-Presents/AegisLog"><picture><source media="(max-width: 600px)" srcset="./assets/mobile/aegislog-card.svg" /><img src="./card-aegislog.svg?rev=emerald-20261029" width="100%" alt="AegisLog — defensive log investigation, free and open source" /></picture></a>
 <p align="center"><a href="product-gallery.md#aegislog"><img src="./assets/media/aegislog-terminal.jpg" width="360" alt="Actual AegisLog terminal findings — open the gallery for the full-size view" /></a></p>
 <p>Investigate supported logs and accessible Windows, Linux and Docker telemetry. Review retained evidence, incident context and local HTML reports.</p>
 <p><strong>Local · Read-only source access · MIT</strong></p>
@@ -41,7 +37,7 @@
 </td>
 <td width="50%" valign="top">
 
-<a href="https://lnkd.in/p/dJM76MA4"><img src="./card-sentrix.svg?rev=emerald-20261029" width="100%" alt="Sentrix V1 — Python security and code quality, commercial software" /></a>
+<a href="https://lnkd.in/p/dJM76MA4"><picture><source media="(max-width: 600px)" srcset="./assets/mobile/sentrix-card.svg" /><img src="./card-sentrix.svg?rev=emerald-20261029" width="100%" alt="Sentrix V1 — Python security and code quality, commercial software" /></picture></a>
 <p align="center"><a href="https://lnkd.in/p/dJM76MA4"><img src="./assets/media/sentrix-post.jpg" width="192" alt="The original Sentrix V1 product image from the selected LinkedIn introduction post" /></a></p>
 <p>Review Python security, quality, complexity, formatting and syntax with Bandit, Pylint, Radon and Black, plus structured findings and reports.</p>
 <p><strong>Local browser workspace · Commercial</strong></p>
@@ -59,7 +55,7 @@
 
 <a id="courses"></a>
 
-<h2><img src="./assets/sections/courses-emerald.svg" width="100%" alt="Our Udemy courses" /></h2>
+<h2><picture><source media="(max-width: 600px)" srcset="./assets/mobile/courses-heading.svg" /><img src="./assets/sections/courses-emerald.svg" width="100%" alt="Our Udemy courses" /></picture></h2>
 
 **Co-created and co-presented by Haziq Afzal and Ruveeha Ashfaq.**
 
@@ -68,7 +64,7 @@
 <td width="50%" valign="top">
 
 <a href="https://www.udemy.com/course/docker-mastery-from-beginner-to-job-ready/"><img src="./assets/media/course-docker.jpg" width="100%" alt="Original Udemy cover for Docker Pro Skills" /></a>
-<h3><img src="./assets/sections/course-docker-emerald.svg" width="100%" alt="Docker Pro Skills" /></h3>
+<h3><picture><source media="(max-width: 600px)" srcset="./assets/mobile/course-docker-title.svg" /><img src="./assets/sections/course-docker-emerald.svg" width="100%" alt="Docker Pro Skills" /></picture></h3>
 <p><strong>Build, Secure &amp; Deploy Applications</strong></p>
 <p>Containers, Dockerfiles, Compose, networking, storage, security and CI/CD—with practical labs, quizzes and an e-commerce capstone.</p>
 <p><a href="https://www.udemy.com/course/docker-mastery-from-beginner-to-job-ready/"><strong>Explore the Docker course →</strong></a></p>
@@ -77,7 +73,7 @@
 <td width="50%" valign="top">
 
 <a href="https://www.udemy.com/course/think-before-you-click-the-online-safety-course/"><img src="./assets/media/course-safety.jpg" width="100%" alt="Original Udemy cover for Think Before You Click" /></a>
-<h3><img src="./assets/sections/course-safety-emerald.svg" width="100%" alt="Think Before You Click" /></h3>
+<h3><picture><source media="(max-width: 600px)" srcset="./assets/mobile/course-safety-title.svg" /><img src="./assets/sections/course-safety-emerald.svg" width="100%" alt="Think Before You Click" /></picture></h3>
 <p><strong>The Online Safety Course</strong></p>
 <p>Scams, phishing, account protection, privacy and AI deception—practiced through fictional missions, quizzes and downloadable resources.</p>
 <p><a href="https://www.udemy.com/course/think-before-you-click-the-online-safety-course/"><strong>Explore the online safety course →</strong></a></p>
@@ -86,50 +82,66 @@
 </tr>
 </table>
 
-[Visit our Udemy instructor page](https://www.udemy.com/user/haziq-x-ruveeha/). Our shared teaching work includes preparation, demonstrations, recording, quizzes and downloadable learning materials.
+[Visit our Udemy instructor page](https://www.udemy.com/user/haziq-x-ruveeha/)
 
 <img src="./section-divider.svg?rev=diamondgreen-20261029" width="100%" alt="" />
 
 <a id="services"></a>
 
-<h2><img src="./assets/sections/services-emerald.svg" width="100%" alt="Work with HR-Presents" /></h2>
+<h2><picture><source media="(max-width: 600px)" srcset="./assets/mobile/services-heading.svg" /><img src="./assets/sections/services-emerald.svg" width="100%" alt="Work with HR-Presents" /></picture></h2>
 
-Bring your requirement. We agree on the scope, develop the solution, review the work and provide handover guidance.
+Choose the service that matches your task. **Message us before ordering** so we can confirm the deliverables, fixed price and delivery date. Package limits on the chosen listing apply.
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>GitHub &amp; developer presentation</h3>
-<p>Profile READMEs, featured-project layouts, selected banners and clearer developer portfolios.</p>
-<a href="profile-redesign-case-study.md">View our own profile redesign case study →</a>
+<h3>GitHub profile &amp; README</h3>
+<p><strong>For:</strong> developers who want their work presented clearly.</p>
+<p><strong>Agreed deliverables:</strong> editable profile or repository Markdown, project highlights, selected visuals and handover notes.</p>
+<p><a href="https://www.fiverr.com/haziq_afzal/enhance-your-github-profile-and-repository-readme"><strong>View Haziq’s GitHub service →</strong></a><br /><a href="https://www.fiverr.com/ruveehaashfaq/redesign-your-github-profile-and-repository-readme">View Ruveeha’s GitHub service →</a></p>
 </td>
 <td width="50%" valign="top">
 <h3>Repository documentation</h3>
-<p>Installation and usage guides, organized READMEs, project navigation and handover notes.</p>
-<a href="https://github.com/HR-Presents/AegisLog">Explore our open-source documentation →</a>
+<p><strong>For:</strong> projects that need clearer installation, usage or navigation.</p>
+<p><strong>Agreed deliverables:</strong> setup and usage sections, project structure, relevant links and editable documentation.</p>
+<p>Discuss documentation scope through either GitHub/README listing.</p>
+<p><a href="https://www.fiverr.com/haziq_afzal/enhance-your-github-profile-and-repository-readme"><strong>Discuss with Haziq →</strong></a> · <a href="https://www.fiverr.com/ruveehaashfaq/redesign-your-github-profile-and-repository-readme">Ruveeha →</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>Linux, Docker &amp; automation</h3>
-<p>Setup guidance, container and Compose troubleshooting, Python automation and existing CI/CD investigation.</p>
-<a href="https://www.linkedin.com/company/hr-presents/">Discuss your workflow →</a>
+<h3>Linux &amp; Docker support</h3>
+<p><strong>For:</strong> a defined setup or troubleshooting issue.</p>
+<p><strong>Agreed deliverables:</strong> investigation of the issue, agreed configuration changes or commands, checks and written handover findings.</p>
+<p><a href="https://www.fiverr.com/ruveehaashfaq/troubleshoot-linux-server-issues-ssh-permissions-and-services"><strong>View Linux support →</strong></a><br /><a href="https://www.fiverr.com/ruveehaashfaq/troubleshoot-docker-containers-and-docker-compose-applications">View Docker &amp; Compose support →</a></p>
 </td>
 <td width="50%" valign="top">
-<h3>Custom software</h3>
-<p>Defensive tools and software workflows scoped around your requirements and practical constraints.</p>
-<a href="https://www.linkedin.com/company/hr-presents/">Discuss your project →</a>
+<h3>Automation &amp; CI/CD</h3>
+<p><strong>For:</strong> a repetitive task or an existing pipeline problem.</p>
+<p><strong>Agreed deliverables:</strong> a scoped Python/Bash script with usage guidance, or an agreed workflow fix with checks and findings.</p>
+<p><a href="https://www.fiverr.com/haziq_afzal/write-python-and-bash-scripts-to-automate-repetitive-tasks"><strong>View automation service →</strong></a><br /><a href="https://www.fiverr.com/haziq_afzal/troubleshoot-github-actions-and-jenkins-ci-cd-pipelines">View GitHub Actions &amp; Jenkins support →</a></p>
 </td>
 </tr>
 </table>
 
-**[Start a project conversation →](https://www.linkedin.com/company/hr-presents/)** · [Haziq on Fiverr](https://www.fiverr.com/haziq_afzal) · [Ruveeha on Fiverr](https://www.fiverr.com/ruveehaashfaq)
+**Custom software requirement?** [Discuss feasibility and scope on LinkedIn](https://www.linkedin.com/company/hr-presents/).
+
+### How your project starts
+
+1. **Share the requirement:** your repository or task, desired result, relevant environment and target date.
+2. **Agree on scope and price:** deliverables, access arrangements, package limits and delivery date.
+3. **Development and review:** we complete the agreed work and check it against the requirement.
+4. **Handover:** receive the agreed editable files, usage guidance and review notes.
+
+**See a real example:** [our own GitHub profile—before and after](profile-redesign-case-study.md), with original screenshots, source revisions and the change record.
+
+**[Start with Haziq’s GitHub service →](https://www.fiverr.com/haziq_afzal/enhance-your-github-profile-and-repository-readme)** · [Ruveeha’s GitHub service](https://www.fiverr.com/ruveehaashfaq/redesign-your-github-profile-and-repository-readme) · [Ask about a custom project](https://www.linkedin.com/company/hr-presents/)
 
 <img src="./section-divider.svg?rev=diamondgreen-20261029" width="100%" alt="" />
 
 <a id="tech-stack"></a>
 
-<h2><img src="./assets/sections/technology-emerald.svg" width="100%" alt="Tech stack" /></h2>
+<h2><picture><source media="(max-width: 600px)" srcset="./assets/mobile/technology-heading.svg" /><img src="./assets/sections/technology-emerald.svg" width="100%" alt="Tech stack" /></picture></h2>
 
 **Programming & automation**
 
@@ -190,9 +202,9 @@ Tools and topics span products, collaborative projects, labs and ongoing study; 
 
 <a id="founders"></a>
 
-<h2><img src="./assets/sections/founders-emerald.svg" width="100%" alt="The founders" /></h2>
+<h2><picture><source media="(max-width: 600px)" srcset="./assets/mobile/founders-heading.svg" /><img src="./assets/sections/founders-emerald.svg" width="100%" alt="The founders" /></picture></h2>
 
-<img src="./founders-panel.svg?rev=emerald-20261029" width="100%" alt="Haziq Afzal — Co-Founder and CTO; Ruveeha Ashfaq — Co-Founder and CEO" />
+<picture><source media="(max-width: 600px)" srcset="./assets/mobile/founders-panel.svg" /><img src="./founders-panel.svg?rev=emerald-20261029" width="100%" alt="Haziq Afzal — Co-Founder and CTO; Ruveeha Ashfaq — Co-Founder and CEO" /></picture>
 
 **Haziq Afzal — Co-Founder & CTO · Udemy Instructor**  
 Technical strategy, software engineering, cybersecurity and product development.  
@@ -202,7 +214,7 @@ Technical strategy, software engineering, cybersecurity and product development.
 Company direction, operations, product delivery and customer experience.  
 [GitHub](https://github.com/ruveeha33) · [LinkedIn](https://www.linkedin.com/in/ruveeha-ashfaq/)
 
-Both founders collaborate across product development, testing, documentation and technical education.
+Both founders deliver HR-Presents’ products, services and courses together.
 
 <img src="./section-divider.svg?rev=diamondgreen-20261029" width="100%" alt="" />
 
