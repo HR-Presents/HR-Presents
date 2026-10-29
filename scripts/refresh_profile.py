@@ -120,14 +120,14 @@ def calendar_card(data):
         x = 88+i*1052/max(1,len(rows)-1); y = 256-count/ceiling*156
         points.append((x,y))
         label=dt.datetime.strptime(month,'%Y-%m').strftime('%b %y')
-        body += text(x-18,279,label,11,TEXT)
+        body += text(x-25,282,label,16,TEXT)
     if points:
         path=' '.join(f'{x},{y}' for x,y in points)
         area=f'{points[0][0]},256 '+path+f' {points[-1][0]},256'
         body += f'<polygon points="{area}" fill="#{ACCENT}" fill-opacity=".10"/><polyline points="{path}" fill="none" stroke="#{ACCENT}" stroke-width="3"/>'
         for (x,y),(month,count) in zip(points,rows):
             body += f'<circle cx="{x}" cy="{y}" r="4" fill="#{SECOND}"><title>{month}: {count} contributions</title></circle>'
-    body += text(28,315,'First and current months may be partial. GitHub activity counts are not a quality or proficiency score.',13,TEXT)
+    body += text(28,315,'First and current months may be partial. Activity counts do not measure skill or quality.',17,TEXT)
     return svg(ACCOUNT+' automatically refreshed monthly development graph',body,340)
 
 def languages_card(data):
