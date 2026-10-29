@@ -237,13 +237,20 @@ Both founders share product ownership and credit across engineering, services an
 
 <a id="activity"></a>
 
-## <img src="./assets/company/section-7.svg" width="100%" alt="Development activity" />
+## <img src="./assets/company/section-activity-languages.svg" width="100%" alt="GitHub activity & languages" />
 
-[<img src="./assets/company/activity.svg" width="100%" alt="Founder personal GitHub monthly contributions through 24 October 2026" />](assets/company/activity-data.json)
+<a href="./assets/company/contribution-data.json"><img src="./assets/company/contribution-activity.svg" width="100%" alt="HR-Presents contribution calendar: 990 contributions through 29 October 2026" /></a>
 
-Personal contribution-calendar snapshot, January–24 October 2026; October is partial. This includes activity beyond HR-Presents and does not measure proficiency. [![Source values](https://img.shields.io/badge/Source_values-426253?style=flat-square&logoColor=F4F1E9)](assets/company/activity-data.json)
+[![Source counts](https://img.shields.io/badge/Contribution_calendar-Source_counts-426253?style=flat-square)](assets/company/contribution-data.json)
+[![Current activity](https://img.shields.io/badge/HR--Presents-Current_activity-405D70?style=flat-square)](https://github.com/HR-Presents)
 
-**Dated verification:** [![Haziq’s source-run evidence](https://img.shields.io/badge/Haziq%E2%80%99s_source--run_evidence-426253?style=flat-square&logoColor=F4F1E9)](https://github.com/HaziqBinAfzal/HaziqBinAfzal/blob/main/docs/verification/2026-10-24/README.md) &nbsp; [![Ruveeha’s NuclearShield evidence](https://img.shields.io/badge/Ruveeha%E2%80%99s_NuclearShield_evidence-426253?style=flat-square&logoColor=F4F1E9)](https://github.com/ruveeha33/ruveeha33/blob/main/verification.md)
+<a href="https://github.com/HR-Presents/AegisLog"><img src="./assets/company/public-languages.svg" width="100%" alt="AegisLog public-code languages: Python 97.3 percent, JavaScript 1.2 percent, Other 1.5 percent" /></a>
+
+[![Company stats](https://img.shields.io/badge/HR--Presents-Account_scoreboard-426253?style=flat-square)](#dashboard)
+[![Language source](https://img.shields.io/badge/AegisLog-Language_source-405D70?style=flat-square)](https://github.com/HR-Presents/AegisLog)
+[![Public repositories](https://img.shields.io/badge/Public_repositories-Browse-625C7C?style=flat-square)](https://github.com/HR-Presents?tab=repositories)
+
+Both visuals are repository-hosted snapshots verified on **29 October 2026**. October is partial. The calendar belongs to HR-Presents; the language breakdown covers AegisLog only. Private source is excluded, and neither metric measures proficiency.
 
 ---
 
