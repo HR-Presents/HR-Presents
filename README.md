@@ -50,15 +50,13 @@ These are dated tests of specific source commits using synthetic inputs. Counts 
 
 ### ![GitHub statistics](https://img.shields.io/badge/GitHub_Statistics-405D70?style=flat-square)
 
-<p align="center">
-<a href="https://github.com/HR-Presents"><img src="https://github-readme-stats.vercel.app/api?username=HR-Presents&amp;show_icons=true&amp;hide_border=true&amp;bg_color=172126&amp;title_color=A8CDB9&amp;icon_color=D6BE92&amp;text_color=CDD5D4&amp;rank_icon=github" width="53%" alt="HR-Presents GitHub statistics — contributions, stars, commits, issues and pull requests" /></a>
-<a href="https://github.com/HR-Presents?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HR-Presents&amp;layout=compact&amp;hide_border=true&amp;bg_color=172126&amp;title_color=A3C9DA&amp;text_color=CDD5D4&amp;langs_count=6" width="43%" alt="HR-Presents top languages across public repositories" /></a>
-</p>
+<a href="https://github.com/HR-Presents"><img src="./assets/company/account-stats.svg" width="100%" alt="HR-Presents account snapshot: 990 yearly contributions, 207 October commits, 83 October pull requests, two public repositories, three followers and two following" /></a>
 
-[![Open GitHub profile](https://img.shields.io/badge/HR--Presents-GitHub_profile-426253?style=flat-square)](https://github.com/HR-Presents)
+[![Open GitHub profile](https://img.shields.io/badge/HR--Presents-Current_GitHub_stats-426253?style=flat-square)](https://github.com/HR-Presents)
 [![Open repositories](https://img.shields.io/badge/Public_repositories-Browse-405D70?style=flat-square)](https://github.com/HR-Presents?tab=repositories)
+[![Statistics source](https://img.shields.io/badge/Verified_snapshot-29_Oct_2026-625C7C?style=flat-square)](assets/company/account-stats-data.json)
 
-These are the same external statistics widgets used on our co-founder profiles, configured for the company account. Service caching and availability affect updates. Private repositories are excluded from the public language summary; language share does not measure proficiency.
+Verified from the **HR-Presents account**, not either founder’s profile. This repository-hosted card is a dated snapshot; the profile button opens current counts. October is partial. Public repository language statistics exclude private source; the unavailable language widget has been removed.
 
 **Release workflow snapshot:** the latest “Publish reviewed release” run returned **failure** when checked on 29 October 2026. Published-release availability is separate from the result of a newer workflow run.
 
