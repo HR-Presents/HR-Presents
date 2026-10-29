@@ -1,5 +1,2169 @@
 {
-  "status": "Initial seed; first automated refresh pending",
-  "source": "https://github.com/HR-Presents",
-  "seed_date": "2026-10-29"
+  "account": "HR-Presents",
+  "updated_at": "2026-10-29 15:15 UTC",
+  "profile": {
+    "login": "HR-Presents",
+    "followers": 3,
+    "following": 2,
+    "public_repos": 2
+  },
+  "repos": [
+    {
+      "full_name": "HR-Presents/AegisLog",
+      "html_url": "https://github.com/HR-Presents/AegisLog",
+      "description": "Open-source, terminal-first defensive security for local-first log analysis, monitoring, and incident investigation.",
+      "stargazers_count": 1,
+      "forks_count": 0,
+      "language": "Python",
+      "fork": false
+    },
+    {
+      "full_name": "HR-Presents/HR-Presents",
+      "html_url": "https://github.com/HR-Presents/HR-Presents",
+      "description": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "language": "Python",
+      "fork": false
+    }
+  ],
+  "languages": {
+    "Python": 1042013,
+    "JavaScript": 12332,
+    "PowerShell": 7530,
+    "Shell": 4086,
+    "Batchfile": 4060,
+    "Makefile": 220
+  },
+  "contributions": {
+    "total": 991,
+    "daily": [
+      {
+        "date": "2025-10-26",
+        "count": 0
+      },
+      {
+        "date": "2025-10-27",
+        "count": 0
+      },
+      {
+        "date": "2025-10-28",
+        "count": 0
+      },
+      {
+        "date": "2025-10-29",
+        "count": 0
+      },
+      {
+        "date": "2025-10-30",
+        "count": 0
+      },
+      {
+        "date": "2025-10-31",
+        "count": 0
+      },
+      {
+        "date": "2025-11-01",
+        "count": 0
+      },
+      {
+        "date": "2025-11-02",
+        "count": 0
+      },
+      {
+        "date": "2025-11-03",
+        "count": 0
+      },
+      {
+        "date": "2025-11-04",
+        "count": 0
+      },
+      {
+        "date": "2025-11-05",
+        "count": 0
+      },
+      {
+        "date": "2025-11-06",
+        "count": 0
+      },
+      {
+        "date": "2025-11-07",
+        "count": 0
+      },
+      {
+        "date": "2025-11-08",
+        "count": 0
+      },
+      {
+        "date": "2025-11-09",
+        "count": 0
+      },
+      {
+        "date": "2025-11-10",
+        "count": 0
+      },
+      {
+        "date": "2025-11-11",
+        "count": 0
+      },
+      {
+        "date": "2025-11-12",
+        "count": 0
+      },
+      {
+        "date": "2025-11-13",
+        "count": 0
+      },
+      {
+        "date": "2025-11-14",
+        "count": 0
+      },
+      {
+        "date": "2025-11-15",
+        "count": 0
+      },
+      {
+        "date": "2025-11-16",
+        "count": 0
+      },
+      {
+        "date": "2025-11-17",
+        "count": 0
+      },
+      {
+        "date": "2025-11-18",
+        "count": 0
+      },
+      {
+        "date": "2025-11-19",
+        "count": 0
+      },
+      {
+        "date": "2025-11-20",
+        "count": 0
+      },
+      {
+        "date": "2025-11-21",
+        "count": 0
+      },
+      {
+        "date": "2025-11-22",
+        "count": 0
+      },
+      {
+        "date": "2025-11-23",
+        "count": 0
+      },
+      {
+        "date": "2025-11-24",
+        "count": 0
+      },
+      {
+        "date": "2025-11-25",
+        "count": 0
+      },
+      {
+        "date": "2025-11-26",
+        "count": 0
+      },
+      {
+        "date": "2025-11-27",
+        "count": 0
+      },
+      {
+        "date": "2025-11-28",
+        "count": 0
+      },
+      {
+        "date": "2025-11-29",
+        "count": 0
+      },
+      {
+        "date": "2025-11-30",
+        "count": 0
+      },
+      {
+        "date": "2025-12-01",
+        "count": 0
+      },
+      {
+        "date": "2025-12-02",
+        "count": 0
+      },
+      {
+        "date": "2025-12-03",
+        "count": 0
+      },
+      {
+        "date": "2025-12-04",
+        "count": 0
+      },
+      {
+        "date": "2025-12-05",
+        "count": 0
+      },
+      {
+        "date": "2025-12-06",
+        "count": 0
+      },
+      {
+        "date": "2025-12-07",
+        "count": 0
+      },
+      {
+        "date": "2025-12-08",
+        "count": 0
+      },
+      {
+        "date": "2025-12-09",
+        "count": 0
+      },
+      {
+        "date": "2025-12-10",
+        "count": 0
+      },
+      {
+        "date": "2025-12-11",
+        "count": 0
+      },
+      {
+        "date": "2025-12-12",
+        "count": 0
+      },
+      {
+        "date": "2025-12-13",
+        "count": 0
+      },
+      {
+        "date": "2025-12-14",
+        "count": 0
+      },
+      {
+        "date": "2025-12-15",
+        "count": 0
+      },
+      {
+        "date": "2025-12-16",
+        "count": 0
+      },
+      {
+        "date": "2025-12-17",
+        "count": 0
+      },
+      {
+        "date": "2025-12-18",
+        "count": 0
+      },
+      {
+        "date": "2025-12-19",
+        "count": 0
+      },
+      {
+        "date": "2025-12-20",
+        "count": 0
+      },
+      {
+        "date": "2025-12-21",
+        "count": 0
+      },
+      {
+        "date": "2025-12-22",
+        "count": 0
+      },
+      {
+        "date": "2025-12-23",
+        "count": 0
+      },
+      {
+        "date": "2025-12-24",
+        "count": 0
+      },
+      {
+        "date": "2025-12-25",
+        "count": 0
+      },
+      {
+        "date": "2025-12-26",
+        "count": 0
+      },
+      {
+        "date": "2025-12-27",
+        "count": 0
+      },
+      {
+        "date": "2025-12-28",
+        "count": 0
+      },
+      {
+        "date": "2025-12-29",
+        "count": 0
+      },
+      {
+        "date": "2025-12-30",
+        "count": 0
+      },
+      {
+        "date": "2025-12-31",
+        "count": 0
+      },
+      {
+        "date": "2026-01-01",
+        "count": 0
+      },
+      {
+        "date": "2026-01-02",
+        "count": 0
+      },
+      {
+        "date": "2026-01-03",
+        "count": 0
+      },
+      {
+        "date": "2026-01-04",
+        "count": 0
+      },
+      {
+        "date": "2026-01-05",
+        "count": 0
+      },
+      {
+        "date": "2026-01-06",
+        "count": 0
+      },
+      {
+        "date": "2026-01-07",
+        "count": 0
+      },
+      {
+        "date": "2026-01-08",
+        "count": 0
+      },
+      {
+        "date": "2026-01-09",
+        "count": 0
+      },
+      {
+        "date": "2026-01-10",
+        "count": 0
+      },
+      {
+        "date": "2026-01-11",
+        "count": 0
+      },
+      {
+        "date": "2026-01-12",
+        "count": 0
+      },
+      {
+        "date": "2026-01-13",
+        "count": 0
+      },
+      {
+        "date": "2026-01-14",
+        "count": 0
+      },
+      {
+        "date": "2026-01-15",
+        "count": 0
+      },
+      {
+        "date": "2026-01-16",
+        "count": 0
+      },
+      {
+        "date": "2026-01-17",
+        "count": 0
+      },
+      {
+        "date": "2026-01-18",
+        "count": 0
+      },
+      {
+        "date": "2026-01-19",
+        "count": 0
+      },
+      {
+        "date": "2026-01-20",
+        "count": 0
+      },
+      {
+        "date": "2026-01-21",
+        "count": 0
+      },
+      {
+        "date": "2026-01-22",
+        "count": 0
+      },
+      {
+        "date": "2026-01-23",
+        "count": 0
+      },
+      {
+        "date": "2026-01-24",
+        "count": 0
+      },
+      {
+        "date": "2026-01-25",
+        "count": 0
+      },
+      {
+        "date": "2026-01-26",
+        "count": 0
+      },
+      {
+        "date": "2026-01-27",
+        "count": 0
+      },
+      {
+        "date": "2026-01-28",
+        "count": 0
+      },
+      {
+        "date": "2026-01-29",
+        "count": 0
+      },
+      {
+        "date": "2026-01-30",
+        "count": 0
+      },
+      {
+        "date": "2026-01-31",
+        "count": 0
+      },
+      {
+        "date": "2026-02-01",
+        "count": 0
+      },
+      {
+        "date": "2026-02-02",
+        "count": 0
+      },
+      {
+        "date": "2026-02-03",
+        "count": 0
+      },
+      {
+        "date": "2026-02-04",
+        "count": 0
+      },
+      {
+        "date": "2026-02-05",
+        "count": 0
+      },
+      {
+        "date": "2026-02-06",
+        "count": 0
+      },
+      {
+        "date": "2026-02-07",
+        "count": 0
+      },
+      {
+        "date": "2026-02-08",
+        "count": 0
+      },
+      {
+        "date": "2026-02-09",
+        "count": 0
+      },
+      {
+        "date": "2026-02-10",
+        "count": 0
+      },
+      {
+        "date": "2026-02-11",
+        "count": 0
+      },
+      {
+        "date": "2026-02-12",
+        "count": 0
+      },
+      {
+        "date": "2026-02-13",
+        "count": 0
+      },
+      {
+        "date": "2026-02-14",
+        "count": 0
+      },
+      {
+        "date": "2026-02-15",
+        "count": 0
+      },
+      {
+        "date": "2026-02-16",
+        "count": 0
+      },
+      {
+        "date": "2026-02-17",
+        "count": 0
+      },
+      {
+        "date": "2026-02-18",
+        "count": 0
+      },
+      {
+        "date": "2026-02-19",
+        "count": 0
+      },
+      {
+        "date": "2026-02-20",
+        "count": 0
+      },
+      {
+        "date": "2026-02-21",
+        "count": 0
+      },
+      {
+        "date": "2026-02-22",
+        "count": 0
+      },
+      {
+        "date": "2026-02-23",
+        "count": 0
+      },
+      {
+        "date": "2026-02-24",
+        "count": 0
+      },
+      {
+        "date": "2026-02-25",
+        "count": 0
+      },
+      {
+        "date": "2026-02-26",
+        "count": 0
+      },
+      {
+        "date": "2026-02-27",
+        "count": 0
+      },
+      {
+        "date": "2026-02-28",
+        "count": 0
+      },
+      {
+        "date": "2026-03-01",
+        "count": 0
+      },
+      {
+        "date": "2026-03-02",
+        "count": 0
+      },
+      {
+        "date": "2026-03-03",
+        "count": 0
+      },
+      {
+        "date": "2026-03-04",
+        "count": 0
+      },
+      {
+        "date": "2026-03-05",
+        "count": 0
+      },
+      {
+        "date": "2026-03-06",
+        "count": 0
+      },
+      {
+        "date": "2026-03-07",
+        "count": 0
+      },
+      {
+        "date": "2026-03-08",
+        "count": 0
+      },
+      {
+        "date": "2026-03-09",
+        "count": 0
+      },
+      {
+        "date": "2026-03-10",
+        "count": 0
+      },
+      {
+        "date": "2026-03-11",
+        "count": 0
+      },
+      {
+        "date": "2026-03-12",
+        "count": 0
+      },
+      {
+        "date": "2026-03-13",
+        "count": 0
+      },
+      {
+        "date": "2026-03-14",
+        "count": 0
+      },
+      {
+        "date": "2026-03-15",
+        "count": 0
+      },
+      {
+        "date": "2026-03-16",
+        "count": 0
+      },
+      {
+        "date": "2026-03-17",
+        "count": 0
+      },
+      {
+        "date": "2026-03-18",
+        "count": 0
+      },
+      {
+        "date": "2026-03-19",
+        "count": 0
+      },
+      {
+        "date": "2026-03-20",
+        "count": 0
+      },
+      {
+        "date": "2026-03-21",
+        "count": 0
+      },
+      {
+        "date": "2026-03-22",
+        "count": 0
+      },
+      {
+        "date": "2026-03-23",
+        "count": 0
+      },
+      {
+        "date": "2026-03-24",
+        "count": 0
+      },
+      {
+        "date": "2026-03-25",
+        "count": 0
+      },
+      {
+        "date": "2026-03-26",
+        "count": 0
+      },
+      {
+        "date": "2026-03-27",
+        "count": 0
+      },
+      {
+        "date": "2026-03-28",
+        "count": 0
+      },
+      {
+        "date": "2026-03-29",
+        "count": 0
+      },
+      {
+        "date": "2026-03-30",
+        "count": 0
+      },
+      {
+        "date": "2026-03-31",
+        "count": 0
+      },
+      {
+        "date": "2026-04-01",
+        "count": 0
+      },
+      {
+        "date": "2026-04-02",
+        "count": 0
+      },
+      {
+        "date": "2026-04-03",
+        "count": 0
+      },
+      {
+        "date": "2026-04-04",
+        "count": 0
+      },
+      {
+        "date": "2026-04-05",
+        "count": 0
+      },
+      {
+        "date": "2026-04-06",
+        "count": 0
+      },
+      {
+        "date": "2026-04-07",
+        "count": 0
+      },
+      {
+        "date": "2026-04-08",
+        "count": 0
+      },
+      {
+        "date": "2026-04-09",
+        "count": 0
+      },
+      {
+        "date": "2026-04-10",
+        "count": 0
+      },
+      {
+        "date": "2026-04-11",
+        "count": 0
+      },
+      {
+        "date": "2026-04-12",
+        "count": 0
+      },
+      {
+        "date": "2026-04-13",
+        "count": 0
+      },
+      {
+        "date": "2026-04-14",
+        "count": 0
+      },
+      {
+        "date": "2026-04-15",
+        "count": 0
+      },
+      {
+        "date": "2026-04-16",
+        "count": 0
+      },
+      {
+        "date": "2026-04-17",
+        "count": 0
+      },
+      {
+        "date": "2026-04-18",
+        "count": 0
+      },
+      {
+        "date": "2026-04-19",
+        "count": 0
+      },
+      {
+        "date": "2026-04-20",
+        "count": 0
+      },
+      {
+        "date": "2026-04-21",
+        "count": 0
+      },
+      {
+        "date": "2026-04-22",
+        "count": 0
+      },
+      {
+        "date": "2026-04-23",
+        "count": 0
+      },
+      {
+        "date": "2026-04-24",
+        "count": 0
+      },
+      {
+        "date": "2026-04-25",
+        "count": 0
+      },
+      {
+        "date": "2026-04-26",
+        "count": 0
+      },
+      {
+        "date": "2026-04-27",
+        "count": 0
+      },
+      {
+        "date": "2026-04-28",
+        "count": 0
+      },
+      {
+        "date": "2026-04-29",
+        "count": 0
+      },
+      {
+        "date": "2026-04-30",
+        "count": 0
+      },
+      {
+        "date": "2026-05-01",
+        "count": 0
+      },
+      {
+        "date": "2026-05-02",
+        "count": 0
+      },
+      {
+        "date": "2026-05-03",
+        "count": 0
+      },
+      {
+        "date": "2026-05-04",
+        "count": 0
+      },
+      {
+        "date": "2026-05-05",
+        "count": 0
+      },
+      {
+        "date": "2026-05-06",
+        "count": 0
+      },
+      {
+        "date": "2026-05-07",
+        "count": 0
+      },
+      {
+        "date": "2026-05-08",
+        "count": 0
+      },
+      {
+        "date": "2026-05-09",
+        "count": 0
+      },
+      {
+        "date": "2026-05-10",
+        "count": 0
+      },
+      {
+        "date": "2026-05-11",
+        "count": 0
+      },
+      {
+        "date": "2026-05-12",
+        "count": 0
+      },
+      {
+        "date": "2026-05-13",
+        "count": 0
+      },
+      {
+        "date": "2026-05-14",
+        "count": 0
+      },
+      {
+        "date": "2026-05-15",
+        "count": 0
+      },
+      {
+        "date": "2026-05-16",
+        "count": 0
+      },
+      {
+        "date": "2026-05-17",
+        "count": 0
+      },
+      {
+        "date": "2026-05-18",
+        "count": 0
+      },
+      {
+        "date": "2026-05-19",
+        "count": 0
+      },
+      {
+        "date": "2026-05-20",
+        "count": 0
+      },
+      {
+        "date": "2026-05-21",
+        "count": 0
+      },
+      {
+        "date": "2026-05-22",
+        "count": 0
+      },
+      {
+        "date": "2026-05-23",
+        "count": 0
+      },
+      {
+        "date": "2026-05-24",
+        "count": 0
+      },
+      {
+        "date": "2026-05-25",
+        "count": 0
+      },
+      {
+        "date": "2026-05-26",
+        "count": 0
+      },
+      {
+        "date": "2026-05-27",
+        "count": 0
+      },
+      {
+        "date": "2026-05-28",
+        "count": 0
+      },
+      {
+        "date": "2026-05-29",
+        "count": 0
+      },
+      {
+        "date": "2026-05-30",
+        "count": 0
+      },
+      {
+        "date": "2026-05-31",
+        "count": 0
+      },
+      {
+        "date": "2026-06-01",
+        "count": 0
+      },
+      {
+        "date": "2026-06-02",
+        "count": 0
+      },
+      {
+        "date": "2026-06-03",
+        "count": 0
+      },
+      {
+        "date": "2026-06-04",
+        "count": 0
+      },
+      {
+        "date": "2026-06-05",
+        "count": 0
+      },
+      {
+        "date": "2026-06-06",
+        "count": 0
+      },
+      {
+        "date": "2026-06-07",
+        "count": 0
+      },
+      {
+        "date": "2026-06-08",
+        "count": 0
+      },
+      {
+        "date": "2026-06-09",
+        "count": 0
+      },
+      {
+        "date": "2026-06-10",
+        "count": 0
+      },
+      {
+        "date": "2026-06-11",
+        "count": 0
+      },
+      {
+        "date": "2026-06-12",
+        "count": 0
+      },
+      {
+        "date": "2026-06-13",
+        "count": 0
+      },
+      {
+        "date": "2026-06-14",
+        "count": 0
+      },
+      {
+        "date": "2026-06-15",
+        "count": 0
+      },
+      {
+        "date": "2026-06-16",
+        "count": 0
+      },
+      {
+        "date": "2026-06-17",
+        "count": 0
+      },
+      {
+        "date": "2026-06-18",
+        "count": 0
+      },
+      {
+        "date": "2026-06-19",
+        "count": 0
+      },
+      {
+        "date": "2026-06-20",
+        "count": 0
+      },
+      {
+        "date": "2026-06-21",
+        "count": 0
+      },
+      {
+        "date": "2026-06-22",
+        "count": 0
+      },
+      {
+        "date": "2026-06-23",
+        "count": 0
+      },
+      {
+        "date": "2026-06-24",
+        "count": 0
+      },
+      {
+        "date": "2026-06-25",
+        "count": 0
+      },
+      {
+        "date": "2026-06-26",
+        "count": 0
+      },
+      {
+        "date": "2026-06-27",
+        "count": 0
+      },
+      {
+        "date": "2026-06-28",
+        "count": 0
+      },
+      {
+        "date": "2026-06-29",
+        "count": 0
+      },
+      {
+        "date": "2026-06-30",
+        "count": 0
+      },
+      {
+        "date": "2026-07-01",
+        "count": 0
+      },
+      {
+        "date": "2026-07-02",
+        "count": 0
+      },
+      {
+        "date": "2026-07-03",
+        "count": 0
+      },
+      {
+        "date": "2026-07-04",
+        "count": 0
+      },
+      {
+        "date": "2026-07-05",
+        "count": 0
+      },
+      {
+        "date": "2026-07-06",
+        "count": 0
+      },
+      {
+        "date": "2026-07-07",
+        "count": 0
+      },
+      {
+        "date": "2026-07-08",
+        "count": 0
+      },
+      {
+        "date": "2026-07-09",
+        "count": 0
+      },
+      {
+        "date": "2026-07-10",
+        "count": 0
+      },
+      {
+        "date": "2026-07-11",
+        "count": 0
+      },
+      {
+        "date": "2026-07-12",
+        "count": 0
+      },
+      {
+        "date": "2026-07-13",
+        "count": 0
+      },
+      {
+        "date": "2026-07-14",
+        "count": 0
+      },
+      {
+        "date": "2026-07-15",
+        "count": 0
+      },
+      {
+        "date": "2026-07-16",
+        "count": 0
+      },
+      {
+        "date": "2026-07-17",
+        "count": 0
+      },
+      {
+        "date": "2026-07-18",
+        "count": 0
+      },
+      {
+        "date": "2026-07-19",
+        "count": 0
+      },
+      {
+        "date": "2026-07-20",
+        "count": 0
+      },
+      {
+        "date": "2026-07-21",
+        "count": 0
+      },
+      {
+        "date": "2026-07-22",
+        "count": 0
+      },
+      {
+        "date": "2026-07-23",
+        "count": 0
+      },
+      {
+        "date": "2026-07-24",
+        "count": 0
+      },
+      {
+        "date": "2026-07-25",
+        "count": 0
+      },
+      {
+        "date": "2026-07-26",
+        "count": 0
+      },
+      {
+        "date": "2026-07-27",
+        "count": 0
+      },
+      {
+        "date": "2026-07-28",
+        "count": 1
+      },
+      {
+        "date": "2026-07-29",
+        "count": 0
+      },
+      {
+        "date": "2026-07-30",
+        "count": 0
+      },
+      {
+        "date": "2026-07-31",
+        "count": 0
+      },
+      {
+        "date": "2026-08-01",
+        "count": 0
+      },
+      {
+        "date": "2026-08-02",
+        "count": 0
+      },
+      {
+        "date": "2026-08-03",
+        "count": 1
+      },
+      {
+        "date": "2026-08-04",
+        "count": 0
+      },
+      {
+        "date": "2026-08-05",
+        "count": 0
+      },
+      {
+        "date": "2026-08-06",
+        "count": 0
+      },
+      {
+        "date": "2026-08-07",
+        "count": 0
+      },
+      {
+        "date": "2026-08-08",
+        "count": 10
+      },
+      {
+        "date": "2026-08-09",
+        "count": 7
+      },
+      {
+        "date": "2026-08-10",
+        "count": 7
+      },
+      {
+        "date": "2026-08-11",
+        "count": 15
+      },
+      {
+        "date": "2026-08-12",
+        "count": 0
+      },
+      {
+        "date": "2026-08-13",
+        "count": 0
+      },
+      {
+        "date": "2026-08-14",
+        "count": 0
+      },
+      {
+        "date": "2026-08-15",
+        "count": 0
+      },
+      {
+        "date": "2026-08-16",
+        "count": 0
+      },
+      {
+        "date": "2026-08-17",
+        "count": 0
+      },
+      {
+        "date": "2026-08-18",
+        "count": 0
+      },
+      {
+        "date": "2026-08-19",
+        "count": 0
+      },
+      {
+        "date": "2026-08-20",
+        "count": 0
+      },
+      {
+        "date": "2026-08-21",
+        "count": 0
+      },
+      {
+        "date": "2026-08-22",
+        "count": 0
+      },
+      {
+        "date": "2026-08-23",
+        "count": 0
+      },
+      {
+        "date": "2026-08-24",
+        "count": 0
+      },
+      {
+        "date": "2026-08-25",
+        "count": 0
+      },
+      {
+        "date": "2026-08-26",
+        "count": 0
+      },
+      {
+        "date": "2026-08-27",
+        "count": 0
+      },
+      {
+        "date": "2026-08-28",
+        "count": 0
+      },
+      {
+        "date": "2026-08-29",
+        "count": 74
+      },
+      {
+        "date": "2026-08-30",
+        "count": 9
+      },
+      {
+        "date": "2026-08-31",
+        "count": 23
+      },
+      {
+        "date": "2026-09-01",
+        "count": 0
+      },
+      {
+        "date": "2026-09-02",
+        "count": 110
+      },
+      {
+        "date": "2026-09-03",
+        "count": 0
+      },
+      {
+        "date": "2026-09-04",
+        "count": 0
+      },
+      {
+        "date": "2026-09-05",
+        "count": 0
+      },
+      {
+        "date": "2026-09-06",
+        "count": 0
+      },
+      {
+        "date": "2026-09-07",
+        "count": 168
+      },
+      {
+        "date": "2026-09-08",
+        "count": 135
+      },
+      {
+        "date": "2026-09-09",
+        "count": 64
+      },
+      {
+        "date": "2026-09-10",
+        "count": 59
+      },
+      {
+        "date": "2026-09-11",
+        "count": 17
+      },
+      {
+        "date": "2026-09-12",
+        "count": 0
+      },
+      {
+        "date": "2026-09-13",
+        "count": 0
+      },
+      {
+        "date": "2026-09-14",
+        "count": 0
+      },
+      {
+        "date": "2026-09-15",
+        "count": 0
+      },
+      {
+        "date": "2026-09-16",
+        "count": 0
+      },
+      {
+        "date": "2026-09-17",
+        "count": 0
+      },
+      {
+        "date": "2026-09-18",
+        "count": 0
+      },
+      {
+        "date": "2026-09-19",
+        "count": 0
+      },
+      {
+        "date": "2026-09-20",
+        "count": 0
+      },
+      {
+        "date": "2026-09-21",
+        "count": 0
+      },
+      {
+        "date": "2026-09-22",
+        "count": 0
+      },
+      {
+        "date": "2026-09-23",
+        "count": 0
+      },
+      {
+        "date": "2026-09-24",
+        "count": 0
+      },
+      {
+        "date": "2026-09-25",
+        "count": 0
+      },
+      {
+        "date": "2026-09-26",
+        "count": 0
+      },
+      {
+        "date": "2026-09-27",
+        "count": 0
+      },
+      {
+        "date": "2026-09-28",
+        "count": 0
+      },
+      {
+        "date": "2026-09-29",
+        "count": 0
+      },
+      {
+        "date": "2026-09-30",
+        "count": 0
+      },
+      {
+        "date": "2026-10-01",
+        "count": 0
+      },
+      {
+        "date": "2026-10-02",
+        "count": 28
+      },
+      {
+        "date": "2026-10-03",
+        "count": 88
+      },
+      {
+        "date": "2026-10-04",
+        "count": 50
+      },
+      {
+        "date": "2026-10-05",
+        "count": 74
+      },
+      {
+        "date": "2026-10-06",
+        "count": 0
+      },
+      {
+        "date": "2026-10-07",
+        "count": 0
+      },
+      {
+        "date": "2026-10-08",
+        "count": 0
+      },
+      {
+        "date": "2026-10-09",
+        "count": 0
+      },
+      {
+        "date": "2026-10-10",
+        "count": 0
+      },
+      {
+        "date": "2026-10-11",
+        "count": 0
+      },
+      {
+        "date": "2026-10-12",
+        "count": 0
+      },
+      {
+        "date": "2026-10-13",
+        "count": 0
+      },
+      {
+        "date": "2026-10-14",
+        "count": 0
+      },
+      {
+        "date": "2026-10-15",
+        "count": 0
+      },
+      {
+        "date": "2026-10-16",
+        "count": 0
+      },
+      {
+        "date": "2026-10-17",
+        "count": 0
+      },
+      {
+        "date": "2026-10-18",
+        "count": 0
+      },
+      {
+        "date": "2026-10-19",
+        "count": 0
+      },
+      {
+        "date": "2026-10-20",
+        "count": 0
+      },
+      {
+        "date": "2026-10-21",
+        "count": 0
+      },
+      {
+        "date": "2026-10-22",
+        "count": 0
+      },
+      {
+        "date": "2026-10-23",
+        "count": 0
+      },
+      {
+        "date": "2026-10-24",
+        "count": 0
+      },
+      {
+        "date": "2026-10-25",
+        "count": 0
+      },
+      {
+        "date": "2026-10-26",
+        "count": 0
+      },
+      {
+        "date": "2026-10-27",
+        "count": 0
+      },
+      {
+        "date": "2026-10-28",
+        "count": 29
+      },
+      {
+        "date": "2026-10-29",
+        "count": 22
+      }
+    ],
+    "source": "GitHub GraphQL contributionCalendar"
+  },
+  "product": {
+    "id": 1350398488,
+    "node_id": "R_kgDOUH1yGA",
+    "name": "AegisLog",
+    "full_name": "HR-Presents/AegisLog",
+    "private": false,
+    "owner": {
+      "login": "HR-Presents",
+      "id": 312614578,
+      "node_id": "U_kgDOEqIesg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/312614578?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/HR-Presents",
+      "html_url": "https://github.com/HR-Presents",
+      "followers_url": "https://api.github.com/users/HR-Presents/followers",
+      "following_url": "https://api.github.com/users/HR-Presents/following{/other_user}",
+      "gists_url": "https://api.github.com/users/HR-Presents/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/HR-Presents/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/HR-Presents/subscriptions",
+      "organizations_url": "https://api.github.com/users/HR-Presents/orgs",
+      "repos_url": "https://api.github.com/users/HR-Presents/repos",
+      "events_url": "https://api.github.com/users/HR-Presents/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/HR-Presents/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/HR-Presents/AegisLog",
+    "description": "Open-source, terminal-first defensive security for local-first log analysis, monitoring, and incident investigation.",
+    "fork": false,
+    "url": "https://api.github.com/repos/HR-Presents/AegisLog",
+    "forks_url": "https://api.github.com/repos/HR-Presents/AegisLog/forks",
+    "keys_url": "https://api.github.com/repos/HR-Presents/AegisLog/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/HR-Presents/AegisLog/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/HR-Presents/AegisLog/teams",
+    "hooks_url": "https://api.github.com/repos/HR-Presents/AegisLog/hooks",
+    "issue_events_url": "https://api.github.com/repos/HR-Presents/AegisLog/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/HR-Presents/AegisLog/events",
+    "assignees_url": "https://api.github.com/repos/HR-Presents/AegisLog/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/HR-Presents/AegisLog/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/HR-Presents/AegisLog/tags",
+    "blobs_url": "https://api.github.com/repos/HR-Presents/AegisLog/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/HR-Presents/AegisLog/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/HR-Presents/AegisLog/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/HR-Presents/AegisLog/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/HR-Presents/AegisLog/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/HR-Presents/AegisLog/languages",
+    "stargazers_url": "https://api.github.com/repos/HR-Presents/AegisLog/stargazers",
+    "contributors_url": "https://api.github.com/repos/HR-Presents/AegisLog/contributors",
+    "subscribers_url": "https://api.github.com/repos/HR-Presents/AegisLog/subscribers",
+    "subscription_url": "https://api.github.com/repos/HR-Presents/AegisLog/subscription",
+    "commits_url": "https://api.github.com/repos/HR-Presents/AegisLog/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/HR-Presents/AegisLog/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/HR-Presents/AegisLog/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/HR-Presents/AegisLog/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/HR-Presents/AegisLog/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/HR-Presents/AegisLog/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/HR-Presents/AegisLog/merges",
+    "archive_url": "https://api.github.com/repos/HR-Presents/AegisLog/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/HR-Presents/AegisLog/downloads",
+    "issues_url": "https://api.github.com/repos/HR-Presents/AegisLog/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/HR-Presents/AegisLog/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/HR-Presents/AegisLog/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/HR-Presents/AegisLog/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/HR-Presents/AegisLog/labels{/name}",
+    "releases_url": "https://api.github.com/repos/HR-Presents/AegisLog/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/HR-Presents/AegisLog/deployments",
+    "created_at": "2026-08-29T08:09:56Z",
+    "updated_at": "2026-10-05T18:18:47Z",
+    "pushed_at": "2026-10-05T18:18:42Z",
+    "git_url": "git://github.com/HR-Presents/AegisLog.git",
+    "ssh_url": "git@github.com:HR-Presents/AegisLog.git",
+    "clone_url": "https://github.com/HR-Presents/AegisLog.git",
+    "svn_url": "https://github.com/HR-Presents/AegisLog",
+    "homepage": "https://github.com/HR-Presents/AegisLog-AI/releases/latest",
+    "size": 7894,
+    "stargazers_count": 1,
+    "watchers_count": 1,
+    "language": "Python",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": false,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 0,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 0,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "has_pull_requests": true,
+    "pull_request_creation_policy": "all",
+    "topics": [
+      "defensive-security",
+      "incident-response",
+      "local-first",
+      "log-analysis",
+      "mitre-attack",
+      "open-source",
+      "python",
+      "read-only",
+      "terminal",
+      "windows-security"
+    ],
+    "visibility": "public",
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 1,
+    "default_branch": "main",
+    "permissions": {
+      "admin": false,
+      "maintain": false,
+      "push": false,
+      "triage": false,
+      "pull": false
+    },
+    "temp_clone_token": "",
+    "network_count": 0,
+    "subscribers_count": 1
+  },
+  "release": {
+    "url": "https://api.github.com/repos/HR-Presents/AegisLog/releases/403726754",
+    "assets_url": "https://api.github.com/repos/HR-Presents/AegisLog/releases/403726754/assets",
+    "upload_url": "https://uploads.github.com/repos/HR-Presents/AegisLog/releases/403726754/assets{?name,label}",
+    "html_url": "https://github.com/HR-Presents/AegisLog/releases/tag/v2.1.17",
+    "id": 403726754,
+    "author": {
+      "login": "github-actions[bot]",
+      "id": 41898282,
+      "node_id": "MDM6Qm90NDE4OTgyODI=",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+      "html_url": "https://github.com/apps/github-actions",
+      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+      "type": "Bot",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "node_id": "RE_kwDOUH1yGM4YEGGi",
+    "tag_name": "v2.1.17",
+    "target_commitish": "63448e60ab2c905355d6dda8bab2837a7a106058",
+    "name": "AegisLog v2.1.17",
+    "draft": false,
+    "immutable": false,
+    "prerelease": false,
+    "created_at": "2026-10-05T13:08:01Z",
+    "updated_at": "2026-10-05T15:32:06Z",
+    "published_at": "2026-10-05T15:32:06Z",
+    "assets": [
+      {
+        "url": "https://api.github.com/repos/HR-Presents/AegisLog/releases/assets/612619993",
+        "id": 612619993,
+        "node_id": "RA_kwDOUH1yGM4kg9bZ",
+        "name": "AegisLog-v2.1.17-Windows.zip",
+        "label": "",
+        "uploader": {
+          "login": "github-actions[bot]",
+          "id": 41898282,
+          "node_id": "MDM6Qm90NDE4OTgyODI=",
+          "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+          "html_url": "https://github.com/apps/github-actions",
+          "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+          "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+          "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+          "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+          "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+          "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+          "type": "Bot",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "content_type": "application/zip",
+        "state": "uploaded",
+        "size": 13541370,
+        "digest": "sha256:c990cad35e11c03f550181b1a435d524353116a7afdc113267e5af18e262cf0b",
+        "download_count": 4,
+        "created_at": "2026-10-05T13:10:54Z",
+        "updated_at": "2026-10-05T13:10:55Z",
+        "browser_download_url": "https://github.com/HR-Presents/AegisLog/releases/download/v2.1.17/AegisLog-v2.1.17-Windows.zip"
+      },
+      {
+        "url": "https://api.github.com/repos/HR-Presents/AegisLog/releases/assets/612619989",
+        "id": 612619989,
+        "node_id": "RA_kwDOUH1yGM4kg9bV",
+        "name": "AegisLog-v2.1.17-Windows.zip.sha256",
+        "label": "",
+        "uploader": {
+          "login": "github-actions[bot]",
+          "id": 41898282,
+          "node_id": "MDM6Qm90NDE4OTgyODI=",
+          "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+          "html_url": "https://github.com/apps/github-actions",
+          "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+          "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+          "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+          "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+          "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+          "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+          "type": "Bot",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "content_type": "application/octet-stream",
+        "state": "uploaded",
+        "size": 95,
+        "digest": "sha256:fcf7217d3a18e3baa70c580ff19d9c2dec05e48ef63cc55542f68b57526413a0",
+        "download_count": 2,
+        "created_at": "2026-10-05T13:10:54Z",
+        "updated_at": "2026-10-05T13:10:54Z",
+        "browser_download_url": "https://github.com/HR-Presents/AegisLog/releases/download/v2.1.17/AegisLog-v2.1.17-Windows.zip.sha256"
+      },
+      {
+        "url": "https://api.github.com/repos/HR-Presents/AegisLog/releases/assets/612619985",
+        "id": 612619985,
+        "node_id": "RA_kwDOUH1yGM4kg9bR",
+        "name": "AegisLog.exe",
+        "label": "",
+        "uploader": {
+          "login": "github-actions[bot]",
+          "id": 41898282,
+          "node_id": "MDM6Qm90NDE4OTgyODI=",
+          "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+          "html_url": "https://github.com/apps/github-actions",
+          "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+          "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+          "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+          "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+          "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+          "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+          "type": "Bot",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "content_type": "application/octet-stream",
+        "state": "uploaded",
+        "size": 13762591,
+        "digest": "sha256:4f22fb571cd47935c24e8a8ce7a3089f35caf8f715aefdac3454483a4f21d22f",
+        "download_count": 2,
+        "created_at": "2026-10-05T13:10:54Z",
+        "updated_at": "2026-10-05T13:10:55Z",
+        "browser_download_url": "https://github.com/HR-Presents/AegisLog/releases/download/v2.1.17/AegisLog.exe"
+      },
+      {
+        "url": "https://api.github.com/repos/HR-Presents/AegisLog/releases/assets/612619987",
+        "id": 612619987,
+        "node_id": "RA_kwDOUH1yGM4kg9bT",
+        "name": "AegisLog.exe.sha256",
+        "label": "",
+        "uploader": {
+          "login": "github-actions[bot]",
+          "id": 41898282,
+          "node_id": "MDM6Qm90NDE4OTgyODI=",
+          "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+          "html_url": "https://github.com/apps/github-actions",
+          "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+          "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+          "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+          "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+          "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+          "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+          "type": "Bot",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "content_type": "application/octet-stream",
+        "state": "uploaded",
+        "size": 80,
+        "digest": "sha256:b2db3d300a43c5dfcbbe257a6b2e6fb65ae857c95057160db50f322f9c586472",
+        "download_count": 2,
+        "created_at": "2026-10-05T13:10:54Z",
+        "updated_at": "2026-10-05T13:10:54Z",
+        "browser_download_url": "https://github.com/HR-Presents/AegisLog/releases/download/v2.1.17/AegisLog.exe.sha256"
+      },
+      {
+        "url": "https://api.github.com/repos/HR-Presents/AegisLog/releases/assets/612620018",
+        "id": 612620018,
+        "node_id": "RA_kwDOUH1yGM4kg9by",
+        "name": "aegislog_ai-2.1.17-py3-none-any.whl",
+        "label": "",
+        "uploader": {
+          "login": "github-actions[bot]",
+          "id": 41898282,
+          "node_id": "MDM6Qm90NDE4OTgyODI=",
+          "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+          "html_url": "https://github.com/apps/github-actions",
+          "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+          "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+          "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+          "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+          "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+          "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+          "type": "Bot",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "content_type": "application/octet-stream",
+        "state": "uploaded",
+        "size": 478826,
+        "digest": "sha256:2f725c93898ff73450d3af66b88b0c17b7965ccd6b7707f6668dd607a837c566",
+        "download_count": 8,
+        "created_at": "2026-10-05T13:10:54Z",
+        "updated_at": "2026-10-05T13:10:55Z",
+        "browser_download_url": "https://github.com/HR-Presents/AegisLog/releases/download/v2.1.17/aegislog_ai-2.1.17-py3-none-any.whl"
+      },
+      {
+        "url": "https://api.github.com/repos/HR-Presents/AegisLog/releases/assets/612620019",
+        "id": 612620019,
+        "node_id": "RA_kwDOUH1yGM4kg9bz",
+        "name": "aegislog_ai-2.1.17.tar.gz",
+        "label": "",
+        "uploader": {
+          "login": "github-actions[bot]",
+          "id": 41898282,
+          "node_id": "MDM6Qm90NDE4OTgyODI=",
+          "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+          "html_url": "https://github.com/apps/github-actions",
+          "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+          "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+          "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+          "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+          "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+          "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+          "type": "Bot",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "content_type": "application/x-gtar",
+        "state": "uploaded",
+        "size": 536175,
+        "digest": "sha256:e31cbf8c73e66b76c921f5d62a9d1820fcaa956aeb5b65b0a68c3dd9683649d5",
+        "download_count": 2,
+        "created_at": "2026-10-05T13:10:54Z",
+        "updated_at": "2026-10-05T13:10:55Z",
+        "browser_download_url": "https://github.com/HR-Presents/AegisLog/releases/download/v2.1.17/aegislog_ai-2.1.17.tar.gz"
+      },
+      {
+        "url": "https://api.github.com/repos/HR-Presents/AegisLog/releases/assets/612619988",
+        "id": 612619988,
+        "node_id": "RA_kwDOUH1yGM4kg9bU",
+        "name": "SHA256SUMS",
+        "label": "",
+        "uploader": {
+          "login": "github-actions[bot]",
+          "id": 41898282,
+          "node_id": "MDM6Qm90NDE4OTgyODI=",
+          "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+          "html_url": "https://github.com/apps/github-actions",
+          "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+          "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+          "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+          "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+          "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+          "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+          "type": "Bot",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "content_type": "application/octet-stream",
+        "state": "uploaded",
+        "size": 194,
+        "digest": "sha256:aa92b3e0c76e4cefb08561047a6e439d7d8dce99bb974832dec6469836a9d4d6",
+        "download_count": 2,
+        "created_at": "2026-10-05T13:10:54Z",
+        "updated_at": "2026-10-05T13:10:54Z",
+        "browser_download_url": "https://github.com/HR-Presents/AegisLog/releases/download/v2.1.17/SHA256SUMS"
+      }
+    ],
+    "tarball_url": "https://api.github.com/repos/HR-Presents/AegisLog/tarball/v2.1.17",
+    "zipball_url": "https://api.github.com/repos/HR-Presents/AegisLog/zipball/v2.1.17",
+    "body": "# AegisLog v2.1.17\n\nThis release packages the merged final-audit safeguards. Existing report appearance, built-in detection rules, logo, terminal navigation and free local operation are preserved.\n\n- Enforce the whole-JSON buffer budget during reading, including files that grow after the initial size check. Oversized containers continue through line-oriented parsing without dropping buffered records or breaking the source hash.\n- Bound custom rule-pack reads to 1 MB, 32 files, 100 rules per pack and 200 rules total, with JSON nesting limits and atomic rejection of invalid packs.\n- Reject custom regex groups, repetition, lookarounds and backreferences before execution. Literals, anchors, classes, dot tokens, alternatives and escaped metacharacters remain supported. Existing custom packs using rejected syntax must be rewritten; built-in detectors are unaffected. Use `--no-plugins` to exclude custom packs.\n- Refresh current resource-limit and branch-protection documentation.\n\nValidation includes 689 passing regression tests, including growing-file hashing, custom-rule rejection, supported syntax, nesting, pack limits and atomic loading. Synthetic detection evaluation checks regression consistency; it does not establish real-world accuracy. Hosted Windows and package checks verify supported installation and command flows, not every physical screen or terminal setup.\n\n## Install or upgrade\n\nAfter this release is published:\n\n```powershell\npython -m pipx install --force \"https://github.com/HR-Presents/AegisLog-AI/releases/download/v2.1.17/aegislog_ai-2.1.17-py3-none-any.whl\"\naegislog --version\naegislog doctor\naegislog start\n```\n\nWithout Python, extract `AegisLog-v2.1.17-Windows.zip` and run `dist\\AegisLog.exe start`. Do not combine pipx `--force` with `--pip-args=\"--force-reinstall\"`. Generate fresh reports after updating; previously saved reports remain unchanged.\n\nThe Windows executable remains unsigned. Verify the matching release SHA-256 checksums; checksums identify bytes, not publisher identity. No browser dashboard, paid service, remote AI dependency, automatic remediation or host permission bypass is added. Findings remain investigation leads, not proof of compromise.\n\n**MADE BY HR-PRESENTS**\n\nBuild commit: `63448e60ab2c905355d6dda8bab2837a7a106058`\n\nRelease asset checksums:\n\n```text\n4f22fb571cd47935c24e8a8ce7a3089f35caf8f715aefdac3454483a4f21d22f  AegisLog.exe\r\nc990cad35e11c03f550181b1a435d524353116a7afdc113267e5af18e262cf0b  AegisLog-v2.1.17-Windows.zip\n2f725c93898ff73450d3af66b88b0c17b7965ccd6b7707f6668dd607a837c566  aegislog_ai-2.1.17-py3-none-any.whl\ne31cbf8c73e66b76c921f5d62a9d1820fcaa956aeb5b65b0a68c3dd9683649d5  aegislog_ai-2.1.17.tar.gz\n\n```\n"
+  },
+  "workflow": {
+    "id": 37354988514,
+    "name": "Publish reviewed release",
+    "node_id": "WFR_kwLOUH1yGM8AAAAIsofj4g",
+    "head_branch": "main",
+    "head_sha": "b70abd16e7673b75eabd4cc07fb7ca3a6ccc7a81",
+    "path": ".github/workflows/publish-reviewed-release.yml",
+    "display_title": "Rename product branding and new packages to AegisLog (#221)",
+    "run_number": 16,
+    "event": "push",
+    "status": "completed",
+    "conclusion": "failure",
+    "workflow_id": 375182120,
+    "check_suite_id": 101180600857,
+    "check_suite_node_id": "CS_kwDOUH1yGM8AAAAXjtVyGQ",
+    "url": "https://api.github.com/repos/HR-Presents/AegisLog/actions/runs/37354988514",
+    "html_url": "https://github.com/HR-Presents/AegisLog/actions/runs/37354988514",
+    "pull_requests": [],
+    "created_at": "2026-10-05T18:18:45Z",
+    "updated_at": "2026-10-05T18:18:54Z",
+    "actor": {
+      "login": "HR-Presents",
+      "id": 312614578,
+      "node_id": "U_kgDOEqIesg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/312614578?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/HR-Presents",
+      "html_url": "https://github.com/HR-Presents",
+      "followers_url": "https://api.github.com/users/HR-Presents/followers",
+      "following_url": "https://api.github.com/users/HR-Presents/following{/other_user}",
+      "gists_url": "https://api.github.com/users/HR-Presents/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/HR-Presents/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/HR-Presents/subscriptions",
+      "organizations_url": "https://api.github.com/users/HR-Presents/orgs",
+      "repos_url": "https://api.github.com/users/HR-Presents/repos",
+      "events_url": "https://api.github.com/users/HR-Presents/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/HR-Presents/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "run_attempt": 1,
+    "referenced_workflows": [],
+    "run_started_at": "2026-10-05T18:18:45Z",
+    "triggering_actor": {
+      "login": "HR-Presents",
+      "id": 312614578,
+      "node_id": "U_kgDOEqIesg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/312614578?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/HR-Presents",
+      "html_url": "https://github.com/HR-Presents",
+      "followers_url": "https://api.github.com/users/HR-Presents/followers",
+      "following_url": "https://api.github.com/users/HR-Presents/following{/other_user}",
+      "gists_url": "https://api.github.com/users/HR-Presents/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/HR-Presents/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/HR-Presents/subscriptions",
+      "organizations_url": "https://api.github.com/users/HR-Presents/orgs",
+      "repos_url": "https://api.github.com/users/HR-Presents/repos",
+      "events_url": "https://api.github.com/users/HR-Presents/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/HR-Presents/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "jobs_url": "https://api.github.com/repos/HR-Presents/AegisLog/actions/runs/37354988514/jobs",
+    "logs_url": "https://api.github.com/repos/HR-Presents/AegisLog/actions/runs/37354988514/logs",
+    "check_suite_url": "https://api.github.com/repos/HR-Presents/AegisLog/check-suites/101180600857",
+    "artifacts_url": "https://api.github.com/repos/HR-Presents/AegisLog/actions/runs/37354988514/artifacts",
+    "cancel_url": "https://api.github.com/repos/HR-Presents/AegisLog/actions/runs/37354988514/cancel",
+    "rerun_url": "https://api.github.com/repos/HR-Presents/AegisLog/actions/runs/37354988514/rerun",
+    "previous_attempt_url": null,
+    "workflow_url": "https://api.github.com/repos/HR-Presents/AegisLog/actions/workflows/375182120",
+    "head_commit": {
+      "id": "b70abd16e7673b75eabd4cc07fb7ca3a6ccc7a81",
+      "tree_id": "1e4657735ea33f5b503eedb5ae0eb54c72436f0c",
+      "message": "Rename product branding and new packages to AegisLog (#221)\n\n* Rename product branding and new packages to AegisLog\n\n* Update links and workflow repository references after AegisLog rename",
+      "timestamp": "2026-10-05T18:18:42Z",
+      "author": {
+        "name": "HR-Presents",
+        "email": "haziqxruveeha@gmail.com"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com"
+      }
+    },
+    "repository": {
+      "id": 1350398488,
+      "node_id": "R_kgDOUH1yGA",
+      "name": "AegisLog",
+      "full_name": "HR-Presents/AegisLog",
+      "private": false,
+      "owner": {
+        "login": "HR-Presents",
+        "id": 312614578,
+        "node_id": "U_kgDOEqIesg",
+        "avatar_url": "https://avatars.githubusercontent.com/u/312614578?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/HR-Presents",
+        "html_url": "https://github.com/HR-Presents",
+        "followers_url": "https://api.github.com/users/HR-Presents/followers",
+        "following_url": "https://api.github.com/users/HR-Presents/following{/other_user}",
+        "gists_url": "https://api.github.com/users/HR-Presents/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/HR-Presents/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/HR-Presents/subscriptions",
+        "organizations_url": "https://api.github.com/users/HR-Presents/orgs",
+        "repos_url": "https://api.github.com/users/HR-Presents/repos",
+        "events_url": "https://api.github.com/users/HR-Presents/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/HR-Presents/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "html_url": "https://github.com/HR-Presents/AegisLog",
+      "description": "Open-source, terminal-first defensive security for local-first log analysis, monitoring, and incident investigation.",
+      "fork": false,
+      "url": "https://api.github.com/repos/HR-Presents/AegisLog",
+      "forks_url": "https://api.github.com/repos/HR-Presents/AegisLog/forks",
+      "keys_url": "https://api.github.com/repos/HR-Presents/AegisLog/keys{/key_id}",
+      "collaborators_url": "https://api.github.com/repos/HR-Presents/AegisLog/collaborators{/collaborator}",
+      "teams_url": "https://api.github.com/repos/HR-Presents/AegisLog/teams",
+      "hooks_url": "https://api.github.com/repos/HR-Presents/AegisLog/hooks",
+      "issue_events_url": "https://api.github.com/repos/HR-Presents/AegisLog/issues/events{/number}",
+      "events_url": "https://api.github.com/repos/HR-Presents/AegisLog/events",
+      "assignees_url": "https://api.github.com/repos/HR-Presents/AegisLog/assignees{/user}",
+      "branches_url": "https://api.github.com/repos/HR-Presents/AegisLog/branches{/branch}",
+      "tags_url": "https://api.github.com/repos/HR-Presents/AegisLog/tags",
+      "blobs_url": "https://api.github.com/repos/HR-Presents/AegisLog/git/blobs{/sha}",
+      "git_tags_url": "https://api.github.com/repos/HR-Presents/AegisLog/git/tags{/sha}",
+      "git_refs_url": "https://api.github.com/repos/HR-Presents/AegisLog/git/refs{/sha}",
+      "trees_url": "https://api.github.com/repos/HR-Presents/AegisLog/git/trees{/sha}",
+      "statuses_url": "https://api.github.com/repos/HR-Presents/AegisLog/statuses/{sha}",
+      "languages_url": "https://api.github.com/repos/HR-Presents/AegisLog/languages",
+      "stargazers_url": "https://api.github.com/repos/HR-Presents/AegisLog/stargazers",
+      "contributors_url": "https://api.github.com/repos/HR-Presents/AegisLog/contributors",
+      "subscribers_url": "https://api.github.com/repos/HR-Presents/AegisLog/subscribers",
+      "subscription_url": "https://api.github.com/repos/HR-Presents/AegisLog/subscription",
+      "commits_url": "https://api.github.com/repos/HR-Presents/AegisLog/commits{/sha}",
+      "git_commits_url": "https://api.github.com/repos/HR-Presents/AegisLog/git/commits{/sha}",
+      "comments_url": "https://api.github.com/repos/HR-Presents/AegisLog/comments{/number}",
+      "issue_comment_url": "https://api.github.com/repos/HR-Presents/AegisLog/issues/comments{/number}",
+      "contents_url": "https://api.github.com/repos/HR-Presents/AegisLog/contents/{+path}",
+      "compare_url": "https://api.github.com/repos/HR-Presents/AegisLog/compare/{base}...{head}",
+      "merges_url": "https://api.github.com/repos/HR-Presents/AegisLog/merges",
+      "archive_url": "https://api.github.com/repos/HR-Presents/AegisLog/{archive_format}{/ref}",
+      "downloads_url": "https://api.github.com/repos/HR-Presents/AegisLog/downloads",
+      "issues_url": "https://api.github.com/repos/HR-Presents/AegisLog/issues{/number}",
+      "pulls_url": "https://api.github.com/repos/HR-Presents/AegisLog/pulls{/number}",
+      "milestones_url": "https://api.github.com/repos/HR-Presents/AegisLog/milestones{/number}",
+      "notifications_url": "https://api.github.com/repos/HR-Presents/AegisLog/notifications{?since,all,participating}",
+      "labels_url": "https://api.github.com/repos/HR-Presents/AegisLog/labels{/name}",
+      "releases_url": "https://api.github.com/repos/HR-Presents/AegisLog/releases{/id}",
+      "deployments_url": "https://api.github.com/repos/HR-Presents/AegisLog/deployments"
+    },
+    "head_repository": {
+      "id": 1350398488,
+      "node_id": "R_kgDOUH1yGA",
+      "name": "AegisLog",
+      "full_name": "HR-Presents/AegisLog",
+      "private": false,
+      "owner": {
+        "login": "HR-Presents",
+        "id": 312614578,
+        "node_id": "U_kgDOEqIesg",
+        "avatar_url": "https://avatars.githubusercontent.com/u/312614578?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/HR-Presents",
+        "html_url": "https://github.com/HR-Presents",
+        "followers_url": "https://api.github.com/users/HR-Presents/followers",
+        "following_url": "https://api.github.com/users/HR-Presents/following{/other_user}",
+        "gists_url": "https://api.github.com/users/HR-Presents/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/HR-Presents/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/HR-Presents/subscriptions",
+        "organizations_url": "https://api.github.com/users/HR-Presents/orgs",
+        "repos_url": "https://api.github.com/users/HR-Presents/repos",
+        "events_url": "https://api.github.com/users/HR-Presents/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/HR-Presents/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "html_url": "https://github.com/HR-Presents/AegisLog",
+      "description": "Open-source, terminal-first defensive security for local-first log analysis, monitoring, and incident investigation.",
+      "fork": false,
+      "url": "https://api.github.com/repos/HR-Presents/AegisLog",
+      "forks_url": "https://api.github.com/repos/HR-Presents/AegisLog/forks",
+      "keys_url": "https://api.github.com/repos/HR-Presents/AegisLog/keys{/key_id}",
+      "collaborators_url": "https://api.github.com/repos/HR-Presents/AegisLog/collaborators{/collaborator}",
+      "teams_url": "https://api.github.com/repos/HR-Presents/AegisLog/teams",
+      "hooks_url": "https://api.github.com/repos/HR-Presents/AegisLog/hooks",
+      "issue_events_url": "https://api.github.com/repos/HR-Presents/AegisLog/issues/events{/number}",
+      "events_url": "https://api.github.com/repos/HR-Presents/AegisLog/events",
+      "assignees_url": "https://api.github.com/repos/HR-Presents/AegisLog/assignees{/user}",
+      "branches_url": "https://api.github.com/repos/HR-Presents/AegisLog/branches{/branch}",
+      "tags_url": "https://api.github.com/repos/HR-Presents/AegisLog/tags",
+      "blobs_url": "https://api.github.com/repos/HR-Presents/AegisLog/git/blobs{/sha}",
+      "git_tags_url": "https://api.github.com/repos/HR-Presents/AegisLog/git/tags{/sha}",
+      "git_refs_url": "https://api.github.com/repos/HR-Presents/AegisLog/git/refs{/sha}",
+      "trees_url": "https://api.github.com/repos/HR-Presents/AegisLog/git/trees{/sha}",
+      "statuses_url": "https://api.github.com/repos/HR-Presents/AegisLog/statuses/{sha}",
+      "languages_url": "https://api.github.com/repos/HR-Presents/AegisLog/languages",
+      "stargazers_url": "https://api.github.com/repos/HR-Presents/AegisLog/stargazers",
+      "contributors_url": "https://api.github.com/repos/HR-Presents/AegisLog/contributors",
+      "subscribers_url": "https://api.github.com/repos/HR-Presents/AegisLog/subscribers",
+      "subscription_url": "https://api.github.com/repos/HR-Presents/AegisLog/subscription",
+      "commits_url": "https://api.github.com/repos/HR-Presents/AegisLog/commits{/sha}",
+      "git_commits_url": "https://api.github.com/repos/HR-Presents/AegisLog/git/commits{/sha}",
+      "comments_url": "https://api.github.com/repos/HR-Presents/AegisLog/comments{/number}",
+      "issue_comment_url": "https://api.github.com/repos/HR-Presents/AegisLog/issues/comments{/number}",
+      "contents_url": "https://api.github.com/repos/HR-Presents/AegisLog/contents/{+path}",
+      "compare_url": "https://api.github.com/repos/HR-Presents/AegisLog/compare/{base}...{head}",
+      "merges_url": "https://api.github.com/repos/HR-Presents/AegisLog/merges",
+      "archive_url": "https://api.github.com/repos/HR-Presents/AegisLog/{archive_format}{/ref}",
+      "downloads_url": "https://api.github.com/repos/HR-Presents/AegisLog/downloads",
+      "issues_url": "https://api.github.com/repos/HR-Presents/AegisLog/issues{/number}",
+      "pulls_url": "https://api.github.com/repos/HR-Presents/AegisLog/pulls{/number}",
+      "milestones_url": "https://api.github.com/repos/HR-Presents/AegisLog/milestones{/number}",
+      "notifications_url": "https://api.github.com/repos/HR-Presents/AegisLog/notifications{?since,all,participating}",
+      "labels_url": "https://api.github.com/repos/HR-Presents/AegisLog/labels{/name}",
+      "releases_url": "https://api.github.com/repos/HR-Presents/AegisLog/releases{/id}",
+      "deployments_url": "https://api.github.com/repos/HR-Presents/AegisLog/deployments"
+    }
+  }
 }

@@ -43,7 +43,7 @@ These are dated tests of specific source commits using synthetic inputs. Counts 
 <img src="./assets/company/repository-stats.svg" width="100%" alt="Automatically refreshed AegisLog public repository metadata and latest release" />
 
 [![Live repository](https://img.shields.io/badge/Repository-Current_counts-405D70?style=flat-square)](https://github.com/HR-Presents/AegisLog)
-[![Release](https://img.shields.io/badge/Release-v2.1.17-426253?style=flat-square)](https://github.com/HR-Presents/AegisLog/releases/tag/v2.1.17)
+[![Release](https://img.shields.io/badge/Release-v2.1.17?style=flat-square)](https://github.com/HR-Presents/AegisLog/releases/tag/v2.1.17)
 [![CI](https://github.com/HR-Presents/AegisLog/actions/workflows/ci.yml/badge.svg)](https://github.com/HR-Presents/AegisLog/actions/workflows/ci.yml)
 [![Security](https://github.com/HR-Presents/AegisLog/actions/workflows/security.yml/badge.svg)](https://github.com/HR-Presents/AegisLog/actions/workflows/security.yml)
 
@@ -59,7 +59,10 @@ These are dated tests of specific source commits using synthetic inputs. Counts 
 Public HR-Presents account statistics refresh automatically every six hours and on profile-source edits. The cards show their last successful refresh time. Language shares aggregate bytes across public, non-fork repositories; private source is excluded.
 
 <!-- LIVE-WORKFLOW:START -->
-Release workflow status will be refreshed by the profile workflow.
+**Latest release workflow:** failure · checked 2026-10-29 15:15 UTC. Published-release availability is separate from a newer workflow result.
+
+[![Latest publishing run](https://img.shields.io/badge/Publishing_run-failure-405D70?style=flat-square)](https://github.com/HR-Presents/AegisLog/actions/runs/37354988514)
+
 <!-- LIVE-WORKFLOW:END -->
 
 ---
@@ -288,7 +291,17 @@ For products, engineering services or technical education, tell us what you want
 ### Shared products & courses
 
 <!-- SHARED-CONTENT:START -->
-<!-- Generated from HR-Presents/profile-data.json on the next refresh. -->
+**Sentrix V1** — Python security and code-quality review with structured findings and reports.  
+[![Open Sentrix V1](https://img.shields.io/badge/Sentrix%20V1-A8CDB9?style=flat-square)](https://github.com/HaziqBinAfzal/HaziqBinAfzal/blob/main/docs/case-studies/sentrix.md)
+
+**AegisLog** — Local defensive log investigation, retained evidence and HTML reports.  
+[![Open AegisLog](https://img.shields.io/badge/AegisLog-A8CDB9?style=flat-square)](https://github.com/HR-Presents/AegisLog)
+
+**Docker Pro Skills** — Build, secure and deploy applications with containers, Compose and practical labs.  
+[![Open Docker Pro Skills](https://img.shields.io/badge/Docker%20Pro%20Skills-A8CDB9?style=flat-square)](https://www.udemy.com/course/docker-mastery-from-beginner-to-job-ready/)
+
+**Think Before You Click** — Online safety through scam recognition, account protection and practical scenarios.  
+[![Open Think Before You Click](https://img.shields.io/badge/Think%20Before%20You%20Click-A8CDB9?style=flat-square)](https://www.udemy.com/course/think-before-you-click-the-online-safety-course/)
 <!-- SHARED-CONTENT:END -->
 
 [![Profile refresh](https://github.com/HR-Presents/HR-Presents/actions/workflows/refresh-profile.yml/badge.svg)](https://github.com/HR-Presents/HR-Presents/actions/workflows/refresh-profile.yml)

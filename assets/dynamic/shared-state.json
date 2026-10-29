@@ -1,0 +1,103 @@
+{
+  "version": 1,
+  "items": {
+    "sentrix": {
+      "title": "Sentrix V1",
+      "category": "PRODUCT / COMMERCIAL",
+      "summary": "Python security and code-quality review with structured findings and reports.",
+      "url": "https://github.com/HaziqBinAfzal/HaziqBinAfzal/blob/main/docs/case-studies/sentrix.md",
+      "lines": [
+        "Python security & code-quality analysis",
+        "Structured findings and reports"
+      ],
+      "cards": {
+        "HR-Presents": [
+          "assets/company/sentrix.svg"
+        ],
+        "HaziqBinAfzal": [
+          "card-sentrix.svg"
+        ],
+        "ruveeha33": [
+          "card-sentrix.svg"
+        ]
+      }
+    },
+    "aegislog": {
+      "title": "AegisLog",
+      "category": "PRODUCT / OPEN SOURCE",
+      "summary": "Local defensive log investigation, retained evidence and HTML reports.",
+      "url": "https://github.com/HR-Presents/AegisLog",
+      "lines": [
+        "Local defensive log investigation",
+        "Evidence, context and HTML reports"
+      ],
+      "cards": {
+        "HR-Presents": [
+          "assets/company/aegislog.svg"
+        ],
+        "HaziqBinAfzal": [
+          "card-aegislog.svg"
+        ],
+        "ruveeha33": [
+          "card-aegislog.svg"
+        ]
+      }
+    },
+    "docker": {
+      "title": "Docker Pro Skills",
+      "category": "TECHNICAL EDUCATION",
+      "summary": "Build, secure and deploy applications with containers, Compose and practical labs.",
+      "url": "https://www.udemy.com/course/docker-mastery-from-beginner-to-job-ready/",
+      "lines": [
+        "Build, secure & deploy applications",
+        "Labs and an e-commerce capstone"
+      ],
+      "cards": {
+        "HR-Presents": [
+          "assets/company/docker.svg"
+        ],
+        "HaziqBinAfzal": [
+          "card-course-docker.svg"
+        ],
+        "ruveeha33": [
+          "card-course-docker.svg"
+        ]
+      }
+    },
+    "safety": {
+      "title": "Think Before You Click",
+      "category": "TECHNICAL EDUCATION",
+      "summary": "Online safety through scam recognition, account protection and practical scenarios.",
+      "url": "https://www.udemy.com/course/think-before-you-click-the-online-safety-course/",
+      "lines": [
+        "The Online Safety Course",
+        "Scams, privacy and account protection"
+      ],
+      "cards": {
+        "HR-Presents": [
+          "assets/company/safety.svg"
+        ],
+        "HaziqBinAfzal": [
+          "card-course-safety.svg"
+        ],
+        "ruveeha33": [
+          "card-course-safety.svg"
+        ]
+      }
+    }
+  },
+  "founders": [
+    "Haziq Afzal",
+    "Ruveeha Ashfaq"
+  ],
+  "projects": [
+    "HaziqBinAfzal/AquaVigil",
+    "ruveeha33/NuclearShield",
+    "HaziqBinAfzal/linux-backup-recovery-system",
+    "ruveeha33/AI-Log-Analyzer",
+    "HaziqBinAfzal/linuxops-enterprise-lab",
+    "HaziqBinAfzal/sfvds",
+    "HaziqBinAfzal/jira-python-automation-bot",
+    "HaziqBinAfzal/Smart_Mount_Manager"
+  ]
+}
