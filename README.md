@@ -1,102 +1,20 @@
 <div align="center">
 
-<img src="./assets/editorial/masthead.svg" width="100%" alt="HR-Presents — Engineering with purpose. Software products, practical education and technical services." />
+<img src="./assets/editorial/masthead.svg" width="100%" alt="HR-Presents — Software, security and technical education" />
 
-# HR-Presents
+**Built by Haziq Afzal & Ruveeha Ashfaq**
 
-**Software engineering, cybersecurity and technical education.**
+Python products · Defensive security · Linux & DevOps · Technical education
 
-Founded by **Haziq Afzal and Ruveeha Ashfaq**, HR-Presents brings together software products, practical technical education and fixed-scope engineering services. We build tools for Python code review and defensive log investigation, document Linux and automation workflows, and help people present and maintain their technical work.
+[Products](#products) · [Engineering](#projects) · [Technology](#tech-stack) · [Courses](#courses) · [Services](#services) · [Founders](#founders) · [Activity](#activity)
 
-[![Services](https://img.shields.io/badge/View_services-185C43?style=flat-square&logoColor=white)](#services)
-[![Products](https://img.shields.io/badge/Explore_products-164B38?style=flat-square&logoColor=white)](#products)
-[![Courses](https://img.shields.io/badge/Browse_courses-123C2E?style=flat-square&logoColor=white)](#courses)
-
-[Services](#services) · [Portfolio](#portfolio) · [Products](#products) · [Projects](#projects) · [Courses](#courses)  
-[Technology](#tech-stack) · [Activity](#activity) · [Founders](#founders) · [Education](#education) · [Training](#training) · [Contact](#contact)
-
-**[Discuss your GitHub project with Haziq](https://www.fiverr.com/haziq_afzal/enhance-your-github-profile-and-repository-readme) · [Discuss your GitHub project with Ruveeha](https://www.fiverr.com/ruveehaashfaq/redesign-your-github-profile-and-repository-readme)**
+[![LinkedIn](https://img.shields.io/badge/Company_LinkedIn-135239?style=for-the-badge)](https://www.linkedin.com/company/hr-presents/)
+[![Udemy](https://img.shields.io/badge/Our_Courses-185C43?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/user/haziq-x-ruveeha/)
+[![Fiverr](https://img.shields.io/badge/Work_With_Us-147D51?style=for-the-badge&logo=fiverr&logoColor=white)](#services)
 
 </div>
 
----
-
-<a id="portfolio"></a>
-
-## What we build
-
-| Products | Engineering | Education |
-| --- | --- | --- |
-| Python code review and local log investigation | Linux systems, automation and educational security projects | Practical courses, demonstrations and learning resources |
-| **Sentrix V1 · AegisLog** | **AquaVigil · NuclearShield · collaborative labs** | **Docker Pro Skills · Think Before You Click** |
-
-### Our engineering focus
-
-| Focus | Applied through |
-| --- | --- |
-| **Defensive security** | Log investigation, evidence review, security findings and human validation |
-| **Software development** | Python applications, APIs, analysis tools and structured reporting |
-| **Infrastructure** | Linux, Docker, CI/CD, observability and recovery workflows |
-| **Automation** | Python, Bash, REST APIs and repeatable technical tasks |
-| **Technical education** | Courses, demonstrations, quizzes and downloadable practice materials |
-
----
-
-<a id="services"></a>
-
-## Services
-
-<table>
-<tr><td width="50%" valign="top"><a href="https://www.fiverr.com/haziq_afzal/enhance-your-github-profile-and-repository-readme"><img src="./assets/company/github.svg" width="100%" alt="GitHub and documentation services" /></a><p>Profile and repository presentation, selected graphics and clear technical documentation.</p></td>
-<td width="50%" valign="top"><a href="https://www.fiverr.com/ruveehaashfaq"><img src="./assets/company/infra.svg" width="100%" alt="Infrastructure and automation services" /></a><p>Linux and Docker troubleshooting, automation and CI/CD support within an agreed scope.</p></td></tr>
-</table>
-
-
-
-Work delivered jointly by Haziq Afzal and Ruveeha Ashfaq. Share your requirement before ordering; we agree on deliverables, a fixed price and a delivery date.
-
-**GitHub profiles and repository documentation**  
-Editable READMEs, project presentation, selected graphics, installation and usage guidance, and handover notes within the agreed scope.  
-[Haziq’s GitHub service](https://www.fiverr.com/haziq_afzal/enhance-your-github-profile-and-repository-readme) · [Ruveeha’s GitHub service](https://www.fiverr.com/ruveehaashfaq/redesign-your-github-profile-and-repository-readme)
-
-**Linux and Docker support**  
-Investigation of a defined issue, agreed changes or commands, checks and written findings.  
-[Linux troubleshooting](https://www.fiverr.com/ruveehaashfaq/troubleshoot-linux-server-issues-ssh-permissions-and-services) · [Docker and Compose support](https://www.fiverr.com/ruveehaashfaq/troubleshoot-docker-containers-and-docker-compose-applications)
-
-**Automation and CI/CD**  
-Scoped Python or Bash scripts with usage guidance, or investigation of an existing GitHub Actions or Jenkins workflow.  
-[Python and Bash automation](https://www.fiverr.com/haziq_afzal/write-python-and-bash-scripts-to-automate-repetitive-tasks) · [CI/CD troubleshooting](https://www.fiverr.com/haziq_afzal/troubleshoot-github-actions-and-jenkins-ci-cd-pipelines)
-
-### What you receive
-
-| Deliverable | What it means |
-| --- | --- |
-| **Editable source** | Agreed Markdown, scripts, configuration or other working files |
-| **Documentation** | Relevant setup, usage, troubleshooting or project guidance |
-| **Selected visuals** | Graphics and project presentation where included in the agreed package |
-| **Verification** | Checks relevant to the task, with findings and remaining limitations |
-| **Handover** | A clear record of the changes and how to use the delivered work |
-
-**Custom software**  
-Discuss defensive tools or software workflows tailored to your requirements.  
-[Contact HR-Presents](https://www.linkedin.com/company/hr-presents/)
-
-<details>
-<summary>How an engagement works</summary>
-
-1. Share the repository or task, desired result, relevant environment and target date.
-2. Agree on deliverables, price, package limits and delivery date.
-3. We develop the agreed work and review it against the requirement.
-4. Receive the agreed editable files, usage guidance and handover notes.
-
-Exact package limits on the selected listing apply.
-
-</details>
-
-[See our own profile redesign case study](profile-redesign-case-study.md)
-
----
-
+We build practical security tools, automate technical workflows and teach the skills behind them. Explore our products and collaborative engineering below.
 
 <a id="products"></a>
 
@@ -108,25 +26,14 @@ Exact package limits on the selected listing apply.
 </table>
 
 
-| | Sentrix V1 | AegisLog |
-| --- | --- | --- |
-| **Purpose** | Python security and code-quality review | Defensive log investigation |
-| **Workflow** | Local browser workspace | Terminal investigation and local HTML reports |
-| **Core capabilities** | Bandit, Pylint, Radon, Black, syntax validation, history and reports | File/folder analysis, supported native telemetry, incident context, evidence and reports |
-| **Availability** | Commercial software; private source | Free and open source; MIT license |
-| **Explore** | [Public case study](https://github.com/HaziqBinAfzal/HaziqBinAfzal/blob/main/docs/case-studies/sentrix.md) · [Demonstration](https://www.linkedin.com/posts/hr-presents_sentrix-hrpresents-python-activity-7495086599194558465-6ZIc) | [Documentation](https://github.com/HR-Presents/AegisLog) · [Downloads](https://github.com/HR-Presents/AegisLog/releases) |
+**Sentrix:** [Product details](https://github.com/HaziqBinAfzal/HaziqBinAfzal/blob/main/docs/case-studies/sentrix.md) · **AegisLog:** [Documentation & downloads](https://github.com/HR-Presents/AegisLog)
 
-Both founders contribute across planning, implementation, testing, documentation and release preparation. Findings support human review; standards references do not establish certification.
 
 ---
 
 <a id="projects"></a>
 
-## Engineering projects & collaborative work
-
-
-Our wider portfolio spans educational security demonstrations, Linux administration, backup workflows and Python automation. The repositories and case studies explain the implementation, evidence and contributor roles.
-
+## Engineering portfolio
 
 <table>
 <tr><td width="50%" valign="top"><a href="https://github.com/HaziqBinAfzal/AquaVigil"><img src="./assets/company/aquavigil.svg" width="100%" alt="AquaVigil — water and OT evidence" /></a><p>Educational water and desalination evidence analysis with Python, Flask, Docker, SHA-256 provenance and observability. Haziq: project author; Ruveeha: contributor.</p></td>
@@ -134,6 +41,11 @@ Our wider portfolio spans educational security demonstrations, Linux administrat
 <tr><td width="50%" valign="top"><a href="https://github.com/HaziqBinAfzal/linux-backup-recovery-system"><img src="./assets/company/backup.svg" width="100%" alt="Linux backup and recovery" /></a><p>rsync, tar, GPG, SHA-256, SSH, cron and documented restoration. Team: Haziq, Ruveeha, Ambreen Imtiaz and Muhammad Buddha.</p></td>
 <td width="50%" valign="top"><a href="https://github.com/ruveeha33/AI-Log-Analyzer"><img src="./assets/company/ai-log.svg" width="100%" alt="AI Log Analyzer — collaborative project" /></a><p>Ruveeha: Flask backend/API; Haziq: frontend/API integration; Ambreen Imtiaz: classification and AI logic.</p></td></tr>
 </table>
+
+**More work:** [LinuxOps Enterprise Lab](https://github.com/HaziqBinAfzal/linuxops-enterprise-lab) · [SFVDS](https://github.com/HaziqBinAfzal/sfvds) · [Jira automation](https://github.com/HaziqBinAfzal/jira-python-automation-bot) · [Smart Mount Manager](https://github.com/HaziqBinAfzal/Smart_Mount_Manager)
+
+<details>
+<summary>Project credits, operating limits & verification</summary>
 
 ### More engineering work
 
@@ -161,47 +73,8 @@ We link test records to their dates and environments so visitors can inspect wha
 | [AegisLog workflows](https://github.com/HR-Presents/AegisLog/actions) | Current workflow runs and job results | Inspect the selected commit and run |
 | [AegisLog releases](https://github.com/HR-Presents/AegisLog/releases) | Published packages, release notes and checksums | Choose the exact release and asset |
 
----
+</details>
 
-<a id="courses"></a>
-
-## Courses
-
-
-Co-created and co-presented by **Haziq Afzal and Ruveeha Ashfaq** under HR-Presents.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://www.udemy.com/course/docker-mastery-from-beginner-to-job-ready/"><img src="./assets/company/docker.svg" width="100%" alt="Docker Pro Skills — Build, Secure and Deploy Applications" /></a>
-<h3>Docker Pro Skills</h3>
-<p><strong>Build, Secure &amp; Deploy Applications</strong></p>
-<p>Dockerfiles, Compose, storage, networking, security and CI/CD, supported by labs, quizzes and an e-commerce capstone.</p>
-<p><a href="https://www.udemy.com/course/docker-mastery-from-beginner-to-job-ready/"><strong>View the Docker course</strong></a></p>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://www.udemy.com/course/think-before-you-click-the-online-safety-course/"><img src="./assets/company/safety.svg" width="100%" alt="Think Before You Click — The Online Safety Course" /></a>
-<h3>Think Before You Click</h3>
-<p><strong>The Online Safety Course</strong></p>
-<p>Scams, phishing, account protection, privacy and AI deception, explored through fictional missions, quizzes and downloadable resources.</p>
-<p><a href="https://www.udemy.com/course/think-before-you-click-the-online-safety-course/"><strong>View the online safety course</strong></a></p>
-
-</td>
-</tr>
-</table>
-
-### How we teach
-
-We share curriculum planning, lesson preparation, demonstrations, recording, quizzes, presentations and downloadable practice resources. Our lessons connect concepts to practical workflows: building and troubleshooting applications, recognizing suspicious messages, protecting accounts and making safer digital decisions.
-
-**Docker Pro Skills** covers images, Dockerfiles, Compose, networking, storage, security, troubleshooting and CI/CD, with an e-commerce capstone and introductory Kubernetes topics.
-
-**Think Before You Click** uses fictional scenarios and missions to explore scams, phishing, account security, privacy and AI deception. It is aimed at students, parents, employees, freelancers and everyday internet users.
-
-[HR-Presents on Udemy](https://www.udemy.com/user/haziq-x-ruveeha/)
 
 ---
 
@@ -276,16 +149,159 @@ Tools and topics span products, collaborative projects, labs and ongoing study; 
 
 ---
 
+<a id="courses"></a>
+
+## Courses
+
+
+Co-created and co-presented by **Haziq Afzal and Ruveeha Ashfaq** under HR-Presents.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://www.udemy.com/course/docker-mastery-from-beginner-to-job-ready/"><img src="./assets/company/docker.svg" width="100%" alt="Docker Pro Skills — Build, Secure and Deploy Applications" /></a>
+
+<p>Dockerfiles, Compose, storage, networking, security and CI/CD, supported by labs, quizzes and an e-commerce capstone.</p>
+<p><a href="https://www.udemy.com/course/docker-mastery-from-beginner-to-job-ready/"><strong>View the Docker course</strong></a></p>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://www.udemy.com/course/think-before-you-click-the-online-safety-course/"><img src="./assets/company/safety.svg" width="100%" alt="Think Before You Click — The Online Safety Course" /></a>
+
+<p>Scams, phishing, account protection, privacy and AI deception, explored through fictional missions, quizzes and downloadable resources.</p>
+<p><a href="https://www.udemy.com/course/think-before-you-click-the-online-safety-course/"><strong>View the online safety course</strong></a></p>
+
+</td>
+</tr>
+</table>
+
+
+We co-create the curriculum, demonstrations, quizzes and downloadable practice resources. [Our Udemy profile](https://www.udemy.com/user/haziq-x-ruveeha/).
+
+
+---
+
+<a id="services"></a>
+
+## Work with our team
+
+<table>
+<tr><td width="50%" valign="top"><a href="https://www.fiverr.com/haziq_afzal/enhance-your-github-profile-and-repository-readme"><img src="./assets/company/github.svg" width="100%" alt="GitHub and documentation services" /></a><p>Profile and repository presentation, selected graphics and clear technical documentation.</p></td>
+<td width="50%" valign="top"><a href="https://www.fiverr.com/ruveehaashfaq"><img src="./assets/company/infra.svg" width="100%" alt="Infrastructure and automation services" /></a><p>Linux and Docker troubleshooting, automation and CI/CD support within an agreed scope.</p></td></tr>
+</table>
+
+**GitHub enhancement:** [Haziq](https://www.fiverr.com/haziq_afzal/enhance-your-github-profile-and-repository-readme) · [Ruveeha](https://www.fiverr.com/ruveehaashfaq/redesign-your-github-profile-and-repository-readme)  
+**Support:** [Linux](https://www.fiverr.com/ruveehaashfaq/troubleshoot-linux-server-issues-ssh-permissions-and-services) · [Docker](https://www.fiverr.com/ruveehaashfaq/troubleshoot-docker-containers-and-docker-compose-applications) · [Python & Bash](https://www.fiverr.com/haziq_afzal/write-python-and-bash-scripts-to-automate-repetitive-tasks) · [CI/CD](https://www.fiverr.com/haziq_afzal/troubleshoot-github-actions-and-jenkins-ci-cd-pipelines)
+
+Delivered jointly, with an agreed scope, fixed price and handover.
+
+<details>
+<summary>Service scope, deliverables & how we work</summary>
+
+Work delivered jointly by Haziq Afzal and Ruveeha Ashfaq. Share your requirement before ordering; we agree on deliverables, a fixed price and a delivery date.
+
+**GitHub profiles and repository documentation**  
+Editable READMEs, project presentation, selected graphics, installation and usage guidance, and handover notes within the agreed scope.  
+[Haziq’s GitHub service](https://www.fiverr.com/haziq_afzal/enhance-your-github-profile-and-repository-readme) · [Ruveeha’s GitHub service](https://www.fiverr.com/ruveehaashfaq/redesign-your-github-profile-and-repository-readme)
+
+**Linux and Docker support**  
+Investigation of a defined issue, agreed changes or commands, checks and written findings.  
+[Linux troubleshooting](https://www.fiverr.com/ruveehaashfaq/troubleshoot-linux-server-issues-ssh-permissions-and-services) · [Docker and Compose support](https://www.fiverr.com/ruveehaashfaq/troubleshoot-docker-containers-and-docker-compose-applications)
+
+**Automation and CI/CD**  
+Scoped Python or Bash scripts with usage guidance, or investigation of an existing GitHub Actions or Jenkins workflow.  
+[Python and Bash automation](https://www.fiverr.com/haziq_afzal/write-python-and-bash-scripts-to-automate-repetitive-tasks) · [CI/CD troubleshooting](https://www.fiverr.com/haziq_afzal/troubleshoot-github-actions-and-jenkins-ci-cd-pipelines)
+
+### What you receive
+
+| Deliverable | What it means |
+| --- | --- |
+| **Editable source** | Agreed Markdown, scripts, configuration or other working files |
+| **Documentation** | Relevant setup, usage, troubleshooting or project guidance |
+| **Selected visuals** | Graphics and project presentation where included in the agreed package |
+| **Verification** | Checks relevant to the task, with findings and remaining limitations |
+| **Handover** | A clear record of the changes and how to use the delivered work |
+
+**Custom software**  
+Discuss defensive tools or software workflows tailored to your requirements.  
+[Contact HR-Presents](https://www.linkedin.com/company/hr-presents/)
+
+<details>
+<summary>How an engagement works</summary>
+
+1. Share the repository or task, desired result, relevant environment and target date.
+2. Agree on deliverables, price, package limits and delivery date.
+3. We develop the agreed work and review it against the requirement.
+4. Receive the agreed editable files, usage guidance and handover notes.
+
+Exact package limits on the selected listing apply.
+
+</details>
+
+[See our own profile redesign case study](profile-redesign-case-study.md)
+
+</details>
+
+
+---
+
+<a id="founders"></a>
+
+## The people behind HR-Presents
+
+<table><tr>
+<td width="50%" valign="top"><a href="https://github.com/HaziqBinAfzal"><img src="./assets/company/haziq.svg" width="100%" alt="Haziq Afzal — Co-Founder and CTO" /></a><p>Technical strategy, Python engineering, defensive security and Linux/DevOps.</p><p><a href="https://github.com/HaziqBinAfzal">GitHub</a> · <a href="https://www.linkedin.com/in/haziq-afzal/">LinkedIn</a> · <a href="https://www.fiverr.com/haziq_afzal">Fiverr</a></p></td>
+<td width="50%" valign="top"><a href="https://github.com/ruveeha33"><img src="./assets/company/ruveeha.svg" width="100%" alt="Ruveeha Ashfaq — Co-Founder and CEO" /></a><p>Company direction, product delivery, cybersecurity and hands-on development.</p><p><a href="https://github.com/ruveeha33">GitHub</a> · <a href="https://www.linkedin.com/in/ruveeha-ashfaq/">LinkedIn</a> · <a href="https://www.fiverr.com/ruveehaashfaq">Fiverr</a></p></td>
+</tr></table>
+
+We share product ownership, engineering work and teaching responsibilities.
+
+<details>
+<summary>Our full professional backgrounds</summary>
+
+
+
+## Meet the founders
+
+
+### Haziq Afzal
+
+
+**Co-Founder & CTO · Udemy Instructor · Abu Dhabi, UAE**
+
+Haziq works across Python applications, defensive security, Linux systems, cloud/DevOps, automation and observability. His founder responsibilities include technical strategy and product development, alongside hands-on implementation, testing, troubleshooting and documentation.
+
+[GitHub](https://github.com/HaziqBinAfzal) · [LinkedIn](https://www.linkedin.com/in/haziq-afzal/) · [Fiverr](https://www.fiverr.com/haziq_afzal) · [Full professional background](https://github.com/HaziqBinAfzal/HaziqBinAfzal/blob/main/docs/professional-background.md)
+
+### Ruveeha Ashfaq
+
+
+**Co-Founder & CEO · Udemy Instructor · Mandi Bahauddin, Pakistan**
+
+Ruveeha works across cybersecurity, Python, Linux, Docker, cloud/DevOps, AI and automation. Her founder responsibilities include company direction, coordination and product delivery, alongside hands-on development, testing, troubleshooting and documentation.
+
+[GitHub](https://github.com/ruveeha33) · [LinkedIn](https://www.linkedin.com/in/ruveeha-ashfaq/) · [Fiverr](https://www.fiverr.com/ruveehaashfaq) · [Full professional background](https://github.com/ruveeha33/ruveeha33/blob/main/professional-background.md)
+
+Both founders share ownership and credit across products, services and technical education.
+
+</details>
+
+
+---
 
 <a id="activity"></a>
 
-## Development activity & company overview
+## Building in public
 
 [<img src="./assets/company/activity.svg" width="100%" alt="Founder personal GitHub monthly contributions, January through 24 October 2026" />](assets/company/activity-data.json)
 
 The graph uses dated contribution-calendar records from both personal profiles. It includes all activity recorded in those calendars, rather than company-only work. October is partial. [Source and monthly values](assets/company/activity-data.json).
 
-<table><tr><td width="50%"><img src="./assets/company/overview.svg" width="100%" alt="Company overview: two founders, two products and two courses" /></td><td width="50%"><img src="./assets/company/delivery.svg" width="100%" alt="Shared ownership across engineering and teaching" /></td></tr></table>
+
+<details>
+<summary>Engineering process & company milestones</summary>
 
 ### Engineering workflow
 
@@ -312,36 +328,23 @@ flowchart TD
 | **Engineering portfolio** | Educational security projects, Linux workflows and collaborative automation |
 | **Fixed-scope services** | GitHub presentation, documentation, Linux/Docker support and automation |
 
----
+</details>
 
-<a id="founders"></a>
-
-## Meet the founders
-
-
-### Haziq Afzal
-
-<img src="./assets/company/haziq.svg" width="100%" alt="Haziq Afzal — Co-Founder and CTO" />
-**Co-Founder & CTO · Udemy Instructor · Abu Dhabi, UAE**
-
-Haziq works across Python applications, defensive security, Linux systems, cloud/DevOps, automation and observability. His founder responsibilities include technical strategy and product development, alongside hands-on implementation, testing, troubleshooting and documentation.
-
-[GitHub](https://github.com/HaziqBinAfzal) · [LinkedIn](https://www.linkedin.com/in/haziq-afzal/) · [Fiverr](https://www.fiverr.com/haziq_afzal) · [Full professional background](https://github.com/HaziqBinAfzal/HaziqBinAfzal/blob/main/docs/professional-background.md)
-
-### Ruveeha Ashfaq
-
-<img src="./assets/company/ruveeha.svg" width="100%" alt="Ruveeha Ashfaq — Co-Founder and CEO" />
-**Co-Founder & CEO · Udemy Instructor · Mandi Bahauddin, Pakistan**
-
-Ruveeha works across cybersecurity, Python, Linux, Docker, cloud/DevOps, AI and automation. Her founder responsibilities include company direction, coordination and product delivery, alongside hands-on development, testing, troubleshooting and documentation.
-
-[GitHub](https://github.com/ruveeha33) · [LinkedIn](https://www.linkedin.com/in/ruveeha-ashfaq/) · [Fiverr](https://www.fiverr.com/ruveehaashfaq) · [Full professional background](https://github.com/ruveeha33/ruveeha33/blob/main/professional-background.md)
-
-Both founders share ownership and credit across products, services and technical education.
 
 ---
 
 <a id="about"></a>
+<a id="education"></a>
+<a id="training"></a>
+
+## Background & continued learning
+
+Both founders are pursuing **AIOPS Level 6 — Artificial Intelligence at Al Nafi International College**. Our experience develops through products, coursework, controlled labs and collaborative projects.
+
+<details>
+<summary>Company background, education, credentials & recognition</summary>
+
+
 
 ## About HR-Presents
 
@@ -373,7 +376,7 @@ Both founders contribute across planning, implementation, testing, troubleshooti
 
 Our principles are practical: preserve source evidence, explain findings, credit collaborators, keep documentation usable and distinguish implemented work from planned features.
 
-<a id="education"></a>
+
 
 ## Education & technical development
 
@@ -406,7 +409,7 @@ Study areas describe our learning foundation. Project repositories show where a 
 
 </details>
 
-<a id="training"></a>
+
 
 ## Training records & credentials
 
@@ -448,14 +451,19 @@ These are training badges and course completions. They are distinct from AWS cer
 
 **Languages:** Haziq’s profile lists English at professional working proficiency and Urdu at native or bilingual proficiency. Both detailed founder background pages above include further experience and contributor records.
 
+
+</details>
+
 <a id="contact"></a>
 
-## Collaboration & opportunities
+## Let’s work together
 
-We welcome conversations about Python applications, defensive security tooling, Linux workflows, automation, project documentation and technical education. Share the problem, environment and intended result so we can discuss an achievable scope.
+Share your project, desired result and target date. We’ll discuss an achievable scope and fixed price.
+
+**[Haziq on Fiverr](https://www.fiverr.com/haziq_afzal) · [Ruveeha on Fiverr](https://www.fiverr.com/ruveehaashfaq) · [Company LinkedIn](https://www.linkedin.com/company/hr-presents/)**
 
 <details>
-<summary><strong>Frequently asked questions</strong></summary>
+<summary>Frequently asked questions</summary>
 
 **Do both founders deliver the work?**  
 We collaborate as HR-Presents and agree on responsibilities for each task.
@@ -472,21 +480,9 @@ AquaVigil and NuclearShield are educational evidence-analysis projects.
 **Where can I verify experience and training?**  
 Use the linked project repositories, dated verification records, founder backgrounds and training evidence.
 
+
 </details>
-
-## Work with HR-Presents
-
-
-For a service request, share the repository or task, desired outcome, relevant environment and target delivery date. We will discuss feasibility and agree on a fixed scope and price.
-
-**GitHub presentation:** [Work with Haziq](https://www.fiverr.com/haziq_afzal/enhance-your-github-profile-and-repository-readme) · [Work with Ruveeha](https://www.fiverr.com/ruveehaashfaq/redesign-your-github-profile-and-repository-readme)
-
-**Other services:** [Haziq’s Fiverr profile](https://www.fiverr.com/haziq_afzal) · [Ruveeha’s Fiverr profile](https://www.fiverr.com/ruveehaashfaq)
-
-**Products, education and collaboration:** [Company LinkedIn](https://www.linkedin.com/company/hr-presents/) · [Udemy](https://www.udemy.com/user/haziq-x-ruveeha/) · [GitHub](https://github.com/HR-Presents)
 
 ---
 
-<p align="center"><strong>HR-Presents · Built by Haziq Afzal & Ruveeha Ashfaq</strong><br />Software engineering · Defensive security · Practical technical education</p>
-
-<p align="center"><a href="#services">Services</a> · <a href="#projects">Engineering work</a> · <a href="#founders">Meet the founders</a> · <a href="#courses">Explore courses</a></p>
+<p align="center"><strong>HR-Presents · Engineering together. Teaching what we build.</strong></p>
