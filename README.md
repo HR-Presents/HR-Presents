@@ -27,10 +27,13 @@
 
 ## Featured products
 
+<p align="center"><a href="#product-aegislog"><img src="./assets/tabs/product-aegislog.svg" width="280" alt="AegisLog — jump to product" /></a> <a href="#product-sentrix"><img src="./assets/tabs/product-sentrix.svg" width="280" alt="Sentrix — jump to product" /></a></p>
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
+<a id="product-aegislog"></a>
 <a href="https://github.com/HR-Presents/AegisLog"><img src="./card-aegislog.svg?rev=emerald-20261029" width="100%" alt="AegisLog — defensive log investigation, free and open source" /></a>
 <p align="center"><a href="product-gallery.md#aegislog"><img src="./assets/media/aegislog-terminal.jpg" width="360" alt="Actual AegisLog terminal findings — open the gallery for the full-size view" /></a></p>
 <p>Investigate supported logs and accessible Windows, Linux and Docker telemetry. Review retained evidence, incident context and local HTML reports.</p>
@@ -41,6 +44,7 @@
 </td>
 <td width="50%" valign="top">
 
+<a id="product-sentrix"></a>
 <a href="https://lnkd.in/p/dJM76MA4"><img src="./card-sentrix.svg?rev=emerald-20261029" width="100%" alt="Sentrix V1 — Python security and code quality, commercial software" /></a>
 <p align="center"><a href="https://lnkd.in/p/dJM76MA4"><img src="./assets/media/sentrix-post.jpg" width="192" alt="The original Sentrix V1 product image from the selected LinkedIn introduction post" /></a></p>
 <p>Review Python security, quality, complexity, formatting and syntax with Bandit, Pylint, Radon and Black, plus structured findings and reports.</p>
@@ -63,30 +67,45 @@
 
 **Co-created and co-presented by Haziq Afzal and Ruveeha Ashfaq.**
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center"><a href="#course-docker"><img src="./assets/tabs/course-docker.svg" width="280" alt="Docker Pro Skills — jump to course panel" /></a> <a href="#course-safety"><img src="./assets/tabs/course-safety.svg" width="280" alt="Online Safety — jump to course panel" /></a></p>
 
-<a href="https://www.udemy.com/course/docker-mastery-from-beginner-to-job-ready/"><img src="./assets/media/course-docker.jpg" width="100%" alt="Original Udemy cover for Docker Pro Skills" /></a>
-<h3>Docker Pro Skills</h3>
-<p><strong>Build, Secure &amp; Deploy Applications</strong></p>
-<p>Containers, Dockerfiles, Compose, networking, storage, security and CI/CD—with practical labs, quizzes and an e-commerce capstone.</p>
-<p><a href="https://www.udemy.com/course/docker-mastery-from-beginner-to-job-ready/"><strong>Explore the Docker course →</strong></a></p>
+Select a course above, then expand its panel for the cover, topics and enrollment link.
 
-</td>
-<td width="50%" valign="top">
+<a id="course-docker"></a>
 
-<a href="https://www.udemy.com/course/think-before-you-click-the-online-safety-course/"><img src="./assets/media/course-safety.jpg" width="100%" alt="Original Udemy cover for Think Before You Click" /></a>
-<h3>Think Before You Click</h3>
-<p><strong>The Online Safety Course</strong></p>
-<p>Scams, phishing, account protection, privacy and AI deception—practiced through fictional missions, quizzes and downloadable resources.</p>
-<p><a href="https://www.udemy.com/course/think-before-you-click-the-online-safety-course/"><strong>Explore the online safety course →</strong></a></p>
+<details open>
+<summary><strong>Docker Pro Skills — Build, Secure &amp; Deploy Applications</strong></summary>
 
-</td>
-</tr>
-</table>
+<p align="center"><a href="https://www.udemy.com/course/docker-mastery-from-beginner-to-job-ready/"><img src="./assets/media/course-docker.jpg" width="480" alt="Original Udemy cover for Docker Pro Skills" /></a></p>
 
-[Visit our Udemy instructor page](https://www.udemy.com/user/haziq-x-ruveeha/). Our shared teaching work includes preparation, demonstrations, recording, quizzes and downloadable learning materials.
+Containers, Dockerfiles, Compose, networking, storage, security and CI/CD—with practical labs, quizzes and an e-commerce capstone.
+
+**Explore:** container fundamentals · application builds · deployment workflows · practical troubleshooting.
+
+**[Explore the Docker course on Udemy →](https://www.udemy.com/course/docker-mastery-from-beginner-to-job-ready/)**
+
+[Online Safety panel ↓](#course-safety) · [All HR-Presents courses](https://www.udemy.com/user/haziq-x-ruveeha/)
+
+</details>
+
+<a id="course-safety"></a>
+
+<details>
+<summary><strong>Think Before You Click — The Online Safety Course</strong></summary>
+
+<p align="center"><a href="https://www.udemy.com/course/think-before-you-click-the-online-safety-course/"><img src="./assets/media/course-safety.jpg" width="480" alt="Original Udemy cover for Think Before You Click" /></a></p>
+
+Scams, phishing, account protection, privacy and AI deception—practiced through fictional missions, quizzes and downloadable resources.
+
+**Explore:** suspicious messages · safer accounts · digital privacy · everyday decisions. **Pause. Verify. Protect.**
+
+**[Explore the Online Safety course on Udemy →](https://www.udemy.com/course/think-before-you-click-the-online-safety-course/)**
+
+[Docker panel ↑](#course-docker) · [All HR-Presents courses](https://www.udemy.com/user/haziq-x-ruveeha/)
+
+</details>
+
+Our shared teaching work includes preparation, demonstrations, recording, quizzes and downloadable learning materials.
 
 <img src="./section-divider.svg?rev=emerald-20261029" width="100%" alt="" />
 
