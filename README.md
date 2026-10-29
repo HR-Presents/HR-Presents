@@ -1,25 +1,25 @@
 <div align="center">
 
-<img src="./assets/brand/company-banner.svg" width="100%" alt="HR-Presents — software, security and practical learning" />
+<img src="./assets/brand/company-banner-emerald.svg" width="100%" alt="HR-Presents — software, security and practical learning" />
 
 # HR-Presents
 
-![Software Engineering](https://img.shields.io/badge/Software_Engineering-123B63?style=for-the-badge&logoColor=E0F2FE)
-![Defensive Security](https://img.shields.io/badge/Defensive_Security-1D4ED8?style=for-the-badge&logoColor=E0F2FE)
-![Technology Education](https://img.shields.io/badge/Technology_Education-2563EB?style=for-the-badge&logo=udemy&logoColor=E0F2FE)
+![Software Engineering](https://img.shields.io/badge/Software_Engineering-123B2A?style=for-the-badge&logoColor=E1FBEF)
+![Defensive Security](https://img.shields.io/badge/Defensive_Security-147D51?style=for-the-badge&logoColor=E1FBEF)
+![Technology Education](https://img.shields.io/badge/Technology_Education-159B63?style=for-the-badge&logo=udemy&logoColor=E1FBEF)
 
 **Tools for technical work. Courses for practical skills. Solutions built together.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Company-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/hr-presents/)
-[![Udemy](https://img.shields.io/badge/Udemy-Our_Courses-1D4ED8?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/user/haziq-x-ruveeha/)
-[![Work with us](https://img.shields.io/badge/Work_With_Us-123B63?style=for-the-badge&logoColor=white)](#services)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Company-116B45?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/hr-presents/)
+[![Udemy](https://img.shields.io/badge/Udemy-Our_Courses-147D51?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/user/haziq-x-ruveeha/)
+[![Work with us](https://img.shields.io/badge/Work_With_Us-123B2A?style=for-the-badge&logoColor=white)](#services)
 
 [Products](#products) · [Product gallery](product-gallery.md) · [Courses](#courses) · [Services](#services) · [Tech stack](#tech-stack) · [Founders](#founders)
 
 </div>
 
 
-<img src="./section-divider.svg?rev=showcase-20261028" width="100%" alt="" />
+<img src="./section-divider.svg?rev=emerald-20261029" width="100%" alt="" />
 
 **HR-Presents** is founded and built together by **Haziq Afzal** and **Ruveeha Ashfaq**. We develop defensive security and developer tools, create hands-on technology courses, and help people present and document their engineering work.
 
@@ -31,7 +31,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/HR-Presents/AegisLog"><img src="./card-aegislog.svg?rev=showcase-20261028" width="100%" alt="AegisLog — defensive log investigation, free and open source" /></a>
+<a href="https://github.com/HR-Presents/AegisLog"><img src="./card-aegislog.svg?rev=emerald-20261029" width="100%" alt="AegisLog — defensive log investigation, free and open source" /></a>
 <p align="center"><a href="product-gallery.md#aegislog"><img src="./assets/media/aegislog-terminal.jpg" width="360" alt="Actual AegisLog terminal findings — open the gallery for the full-size view" /></a></p>
 <p>Investigate supported logs and accessible Windows, Linux and Docker telemetry. Review retained evidence, incident context and local HTML reports.</p>
 <p><strong>Local · Read-only source access · MIT</strong></p>
@@ -41,7 +41,7 @@
 </td>
 <td width="50%" valign="top">
 
-<a href="https://lnkd.in/p/dJM76MA4"><img src="./card-sentrix.svg?rev=showcase-20261028" width="100%" alt="Sentrix V1 — Python security and code quality, commercial software" /></a>
+<a href="https://lnkd.in/p/dJM76MA4"><img src="./card-sentrix.svg?rev=emerald-20261029" width="100%" alt="Sentrix V1 — Python security and code quality, commercial software" /></a>
 <p align="center"><a href="https://lnkd.in/p/dJM76MA4"><img src="./assets/media/sentrix-post.jpg" width="192" alt="The original Sentrix V1 product image from the selected LinkedIn introduction post" /></a></p>
 <p>Review Python security, quality, complexity, formatting and syntax with Bandit, Pylint, Radon and Black, plus structured findings and reports.</p>
 <p><strong>Local browser workspace · Commercial</strong></p>
@@ -55,7 +55,7 @@
 **[Explore the product gallery →](product-gallery.md)** Original media, full-size previews, demonstrations and product context.
 
 
-<img src="./section-divider.svg?rev=showcase-20261028" width="100%" alt="" />
+<img src="./section-divider.svg?rev=emerald-20261029" width="100%" alt="" />
 
 <a id="courses"></a>
 
@@ -88,7 +88,7 @@
 
 [Visit our Udemy instructor page](https://www.udemy.com/user/haziq-x-ruveeha/). Our shared teaching work includes preparation, demonstrations, recording, quizzes and downloadable learning materials.
 
-<img src="./section-divider.svg?rev=showcase-20261028" width="100%" alt="" />
+<img src="./section-divider.svg?rev=emerald-20261029" width="100%" alt="" />
 
 <a id="services"></a>
 
@@ -125,56 +125,56 @@ Bring your requirement. We agree on the scope, develop the solution, review the 
 
 **[Start a project conversation →](https://www.linkedin.com/company/hr-presents/)** · [Haziq on Fiverr](https://www.fiverr.com/haziq_afzal) · [Ruveeha on Fiverr](https://www.fiverr.com/ruveehaashfaq)
 
-<img src="./section-divider.svg?rev=showcase-20261028" width="100%" alt="" />
+<img src="./section-divider.svg?rev=emerald-20261029" width="100%" alt="" />
 
 ## Tech stack
 
 **Programming & automation**
 
-![Python](https://img.shields.io/badge/Python-12355B?style=for-the-badge&logoColor=E6F1FF&logo=python)
-![Flask](https://img.shields.io/badge/Flask-164578?style=for-the-badge&logoColor=E6F1FF&logo=flask)
-![Bash](https://img.shields.io/badge/Bash-1557B0?style=for-the-badge&logoColor=E6F1FF&logo=gnubash)
-![Git](https://img.shields.io/badge/Git-164578?style=for-the-badge&logoColor=E6F1FF&logo=git)
-![REST APIs](https://img.shields.io/badge/REST_APIs-12355B?style=for-the-badge&logoColor=E6F1FF)
-![Jira](https://img.shields.io/badge/Jira-1557B0?style=for-the-badge&logoColor=E6F1FF&logo=jira)
+![Python](https://img.shields.io/badge/Python-103B29?style=for-the-badge&logoColor=E1FBEF&logo=python)
+![Flask](https://img.shields.io/badge/Flask-135239?style=for-the-badge&logoColor=E1FBEF&logo=flask)
+![Bash](https://img.shields.io/badge/Bash-147D51?style=for-the-badge&logoColor=E1FBEF&logo=gnubash)
+![Git](https://img.shields.io/badge/Git-135239?style=for-the-badge&logoColor=E1FBEF&logo=git)
+![REST APIs](https://img.shields.io/badge/REST_APIs-103B29?style=for-the-badge&logoColor=E1FBEF)
+![Jira](https://img.shields.io/badge/Jira-147D51?style=for-the-badge&logoColor=E1FBEF&logo=jira)
 
 **Linux, cloud & delivery**
 
-![Linux](https://img.shields.io/badge/Linux-12355B?style=for-the-badge&logoColor=E6F1FF&logo=linux)
-![AWS](https://img.shields.io/badge/AWS-164578?style=for-the-badge&logoColor=E6F1FF&logo=amazonwebservices)
-![Azure](https://img.shields.io/badge/Azure-1557B0?style=for-the-badge&logoColor=E6F1FF)
-![Docker](https://img.shields.io/badge/Docker-12355B?style=for-the-badge&logoColor=E6F1FF&logo=docker)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-164578?style=for-the-badge&logoColor=E6F1FF&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1557B0?style=for-the-badge&logoColor=E6F1FF&logo=githubactions)
+![Linux](https://img.shields.io/badge/Linux-103B29?style=for-the-badge&logoColor=E1FBEF&logo=linux)
+![AWS](https://img.shields.io/badge/AWS-135239?style=for-the-badge&logoColor=E1FBEF&logo=amazonwebservices)
+![Azure](https://img.shields.io/badge/Azure-147D51?style=for-the-badge&logoColor=E1FBEF)
+![Docker](https://img.shields.io/badge/Docker-103B29?style=for-the-badge&logoColor=E1FBEF&logo=docker)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-135239?style=for-the-badge&logoColor=E1FBEF&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-147D51?style=for-the-badge&logoColor=E1FBEF&logo=githubactions)
 
 **Code analysis & investigation**
 
-![Bandit](https://img.shields.io/badge/Bandit-12355B?style=for-the-badge&logoColor=E6F1FF)
-![Pylint](https://img.shields.io/badge/Pylint-164578?style=for-the-badge&logoColor=E6F1FF)
-![Radon](https://img.shields.io/badge/Radon-1557B0?style=for-the-badge&logoColor=E6F1FF)
-![Black](https://img.shields.io/badge/Black-1E65A6?style=for-the-badge&logoColor=E6F1FF)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-12355B?style=for-the-badge&logoColor=E6F1FF&logo=elasticsearch)
-![SHA256](https://img.shields.io/badge/SHA256-164578?style=for-the-badge&logoColor=E6F1FF)
+![Bandit](https://img.shields.io/badge/Bandit-103B29?style=for-the-badge&logoColor=E1FBEF)
+![Pylint](https://img.shields.io/badge/Pylint-135239?style=for-the-badge&logoColor=E1FBEF)
+![Radon](https://img.shields.io/badge/Radon-147D51?style=for-the-badge&logoColor=E1FBEF)
+![Black](https://img.shields.io/badge/Black-168B5B?style=for-the-badge&logoColor=E1FBEF)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-103B29?style=for-the-badge&logoColor=E1FBEF&logo=elasticsearch)
+![SHA256](https://img.shields.io/badge/SHA256-135239?style=for-the-badge&logoColor=E1FBEF)
 
 <details>
 <summary><strong>Additional tools, practice areas & ongoing study</strong></summary>
 
 **Additional infrastructure tools used across labs and learning**
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-12355B?style=for-the-badge&logoColor=E6F1FF&logo=kubernetes)
-![Terraform](https://img.shields.io/badge/Terraform-164578?style=for-the-badge&logoColor=E6F1FF&logo=terraform)
-![Ansible](https://img.shields.io/badge/Ansible-1557B0?style=for-the-badge&logoColor=E6F1FF&logo=ansible)
-![Jenkins](https://img.shields.io/badge/Jenkins-1E65A6?style=for-the-badge&logoColor=E6F1FF&logo=jenkins)
-![SSH](https://img.shields.io/badge/SSH-164578?style=for-the-badge&logoColor=E6F1FF)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-103B29?style=for-the-badge&logoColor=E1FBEF&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/Terraform-135239?style=for-the-badge&logoColor=E1FBEF&logo=terraform)
+![Ansible](https://img.shields.io/badge/Ansible-147D51?style=for-the-badge&logoColor=E1FBEF&logo=ansible)
+![Jenkins](https://img.shields.io/badge/Jenkins-168B5B?style=for-the-badge&logoColor=E1FBEF&logo=jenkins)
+![SSH](https://img.shields.io/badge/SSH-135239?style=for-the-badge&logoColor=E1FBEF)
 
 **AI & data study**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1557B0?style=for-the-badge&logoColor=E6F1FF&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-1E65A6?style=for-the-badge&logoColor=E6F1FF&logo=pytorch)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-164578?style=for-the-badge&logoColor=E6F1FF&logo=scikitlearn)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-12355B?style=for-the-badge&logoColor=E6F1FF)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-12355B?style=for-the-badge&logoColor=E6F1FF)
-![NLP](https://img.shields.io/badge/NLP-164578?style=for-the-badge&logoColor=E6F1FF)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-147D51?style=for-the-badge&logoColor=E1FBEF&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-168B5B?style=for-the-badge&logoColor=E1FBEF&logo=pytorch)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-135239?style=for-the-badge&logoColor=E1FBEF&logo=scikitlearn)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-103B29?style=for-the-badge&logoColor=E1FBEF)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-103B29?style=for-the-badge&logoColor=E1FBEF)
+![NLP](https://img.shields.io/badge/NLP-135239?style=for-the-badge&logoColor=E1FBEF)
 
 **Practice areas**
 
@@ -184,13 +184,13 @@ Cloud computing · Linux administration · CI/CD · cybersecurity · log analysi
 
 Tools and topics span products, collaborative projects, labs and ongoing study; experience varies by project. [Technical foundation and learning context](company-background.md#technical-foundation).
 
-<img src="./section-divider.svg?rev=showcase-20261028" width="100%" alt="" />
+<img src="./section-divider.svg?rev=emerald-20261029" width="100%" alt="" />
 
 <a id="founders"></a>
 
 ## The founders
 
-<img src="./founders-panel.svg?rev=showcase-20261028" width="100%" alt="Haziq Afzal — Co-Founder and CTO; Ruveeha Ashfaq — Co-Founder and CEO" />
+<img src="./founders-panel.svg?rev=emerald-20261029" width="100%" alt="Haziq Afzal — Co-Founder and CTO; Ruveeha Ashfaq — Co-Founder and CEO" />
 
 **Haziq Afzal — Co-Founder & CTO · Udemy Instructor**  
 Technical strategy, software engineering, cybersecurity and product development.  
@@ -202,7 +202,7 @@ Company direction, operations, product delivery and customer experience.
 
 Both founders collaborate across product development, testing, documentation and technical education.
 
-<img src="./section-divider.svg?rev=showcase-20261028" width="100%" alt="" />
+<img src="./section-divider.svg?rev=emerald-20261029" width="100%" alt="" />
 
 ## Engineering background
 
@@ -213,6 +213,6 @@ Both founders collaborate across product development, testing, documentation and
 
 </details>
 
-<img src="./profile-footer.svg?rev=showcase-20261028" width="100%" alt="Build thoughtfully. Make technology useful." />
+<img src="./profile-footer.svg?rev=emerald-20261029" width="100%" alt="Build thoughtfully. Make technology useful." />
 
 <p align="center"><strong><a href="https://www.linkedin.com/company/hr-presents/">Discuss a project</a></strong> · <a href="https://www.udemy.com/user/haziq-x-ruveeha/">Learn with us</a> · <a href="#products">Explore our products</a></p>

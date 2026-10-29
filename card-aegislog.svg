@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="560" height="192" viewBox="0 0 560 192" role="img" aria-label="AegisLog — Defensive log investigation"><style>text{font-family:Arial,Helvetica,sans-serif}</style><defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0B1525"/><stop offset="1" stop-color="#102A47"/></linearGradient></defs>
-<rect x="1" y="1" width="558" height="190" rx="16" fill="url(#bg)" stroke="#2C4864"/>
-<rect x="24" y="24" width="4" height="142" rx="2" fill="#60B6FF"/>
-<circle cx="490" cy="49" r="100" fill="#338DFF" opacity=".08"/>
-<text x="44" y="46" fill="#83C7FF" font-size="12" font-weight="700" letter-spacing="2">OPEN SOURCE SOFTWARE</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="192" viewBox="0 0 560 192" role="img" aria-label="AegisLog — Defensive log investigation"><style>text{font-family:Arial,Helvetica,sans-serif}</style><defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#071A12"/><stop offset="1" stop-color="#0C2C20"/></linearGradient></defs>
+<rect x="1" y="1" width="558" height="190" rx="16" fill="url(#bg)" stroke="#234C39"/>
+<rect x="24" y="24" width="4" height="142" rx="2" fill="#50DFA0"/>
+<circle cx="490" cy="49" r="100" fill="#20C982" opacity=".08"/>
+<text x="44" y="46" fill="#69E6AD" font-size="12" font-weight="700" letter-spacing="2">OPEN SOURCE SOFTWARE</text>
 <text x="42" y="99" fill="#FFFFFF" font-size="37" font-weight="700" letter-spacing="-1">AegisLog</text>
-<text x="44" y="134" fill="#CDDEEF" font-size="19">Defensive log investigation</text>
-<path d="M44 158H516" stroke="#2C4864"/>
-<g transform="translate(462 68)" fill="none" stroke="#83C7FF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><rect x="0" y="0" width="55" height="42" rx="5"/><path d="M10 12L20 21L10 30M28 30H43"/></g></svg>
+<text x="44" y="134" fill="#CDE9DA" font-size="19">Defensive log investigation</text>
+<path d="M44 158H516" stroke="#234C39"/>
+<g transform="translate(462 68)" fill="none" stroke="#69E6AD" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><rect x="0" y="0" width="55" height="42" rx="5"/><path d="M10 12L20 21L10 30M28 30H43"/></g></svg>

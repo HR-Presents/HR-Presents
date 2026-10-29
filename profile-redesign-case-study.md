@@ -12,7 +12,7 @@ The [retained earlier README](https://github.com/HR-Presents/HR-Presents/blob/c8
 
 | Area | Earlier presentation | Current approach |
 | --- | --- | --- |
-| Identity | Text heading, tagline and badges | Custom navy/blue banner, circuit monogram and concise introduction |
+| Identity | Text heading, tagline and badges | Custom dark emerald banner, circuit monogram and concise introduction |
 | Products | Text-based comparison table | Matching product cards, original-media previews and full-size gallery links |
 | Courses | Text descriptions and links | Paired panels with original Udemy covers and visible course titles |
 | Services | Offer list | Clear scope, delivery outline and this traceable example |

@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1120" height="220" viewBox="0 0 1120 220" role="img" aria-label="Haziq Afzal and Ruveeha Ashfaq — HR-Presents founders"><style>text{font-family:Arial,Helvetica,sans-serif}</style>
-<defs><linearGradient id="bg"><stop stop-color="#0B1525"/><stop offset="1" stop-color="#102A47"/></linearGradient></defs><rect x="1" y="1" width="1118" height="218" rx="18" fill="url(#bg)" stroke="#2C4864"/>
-<rect x="32" y="40" width="4" height="140" rx="2" fill="#83C7FF"/><rect x="592" y="40" width="4" height="140" rx="2" fill="#83C7FF"/>
-<text x="56" y="94" fill="#FFFFFF" font-size="38" font-weight="700">Haziq Afzal</text><text x="56" y="139" fill="#83C7FF" font-size="24">Co-Founder &amp; CTO</text>
-<text x="616" y="94" fill="#FFFFFF" font-size="38" font-weight="700">Ruveeha Ashfaq</text><text x="616" y="139" fill="#83C7FF" font-size="24">Co-Founder &amp; CEO</text>
-<path d="M56 174H506M616 174H1066" stroke="#35536F"/>
+<defs><linearGradient id="bg"><stop stop-color="#071A12"/><stop offset="1" stop-color="#0C2C20"/></linearGradient></defs><rect x="1" y="1" width="1118" height="218" rx="18" fill="url(#bg)" stroke="#234C39"/>
+<rect x="32" y="40" width="4" height="140" rx="2" fill="#69E6AD"/><rect x="592" y="40" width="4" height="140" rx="2" fill="#69E6AD"/>
+<text x="56" y="94" fill="#FFFFFF" font-size="38" font-weight="700">Haziq Afzal</text><text x="56" y="139" fill="#69E6AD" font-size="24">Co-Founder &amp; CTO</text>
+<text x="616" y="94" fill="#FFFFFF" font-size="38" font-weight="700">Ruveeha Ashfaq</text><text x="616" y="139" fill="#69E6AD" font-size="24">Co-Founder &amp; CEO</text>
+<path d="M56 174H506M616 174H1066" stroke="#2D5843"/>
 </svg>
