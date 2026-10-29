@@ -1,6 +1,8 @@
 # Automatic profile refresh
 
-The company and both founder profiles use scripts/refresh_profile.py and .github/workflows/refresh-profile.yml.
+The company profile is active and its first live refresh passed. Founder installation is prepared but pending explicit approval of repository write automation. The inactive, reviewable template is automation/templates/founder-refresh.yml.txt. It embeds the reviewed updater and does not download executable code. It is not installed under .github/workflows and cannot run from this location.
+
+The intended deployments use the Refresh profile workflow; the company uses scripts/refresh_profile.py.
 
 ## What updates automatically
 
