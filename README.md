@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./assets/brand/company-logo.png" width="96" height="96" alt="HR-Presents company logo" />
+<img src="./assets/editorial/masthead.svg" width="100%" alt="HR-Presents — Engineering with purpose. Software products, practical education and technical services." />
+
+<img src="./assets/brand/company-logo.png" width="64" height="64" alt="HR-Presents company logo" />
 
 # HR-Presents
 
@@ -24,6 +26,8 @@ Founded by **Haziq Afzal and Ruveeha Ashfaq**, HR-Presents brings together softw
 <a id="services"></a>
 
 ## Services
+
+<img src="./assets/editorial/services.svg" width="100%" alt="Services" />
 
 Work delivered jointly by Haziq Afzal and Ruveeha Ashfaq. Share your requirement before ordering; we agree on deliverables, a fixed price and a delivery date.
 
@@ -64,6 +68,8 @@ Exact package limits on the selected listing apply.
 
 ## Our presentation work
 
+<img src="./assets/editorial/portfolio.svg" width="100%" alt="Our presentation work" />
+
 Our company and personal profiles are working examples of how we organize technical identity, project evidence, documentation and navigation.
 
 | Earlier company presentation | Subsequent company presentation |
@@ -86,30 +92,36 @@ These are our own profiles and team projects. They show the work we can discuss 
 
 ## Products
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<img src="./assets/editorial/products.svg" width="100%" alt="Products" />
 
-<h3>AegisLog</h3>
+<a href="https://github.com/HR-Presents/AegisLog"><img src="./assets/editorial/aegislog.svg" width="100%" alt="AegisLog — defensive log investigation" /></a>
+
+
+
+
 <p>Defensive log investigation.</p>
-<p align="center"><a href="product-gallery.md#aegislog"><img src="./assets/media/aegislog-terminal.jpg" width="360" alt="AegisLog terminal findings from the published demonstration" /></a></p>
+<p align="center"><a href="product-gallery.md#aegislog"><img src="./assets/media/aegislog-terminal.jpg" width="560" alt="AegisLog terminal findings from the published demonstration" /></a></p>
 <p>Investigate supported files and accessible Windows, Linux and Docker telemetry. Review findings, incident context and retained evidence in local HTML reports.</p>
 <p><strong>Free and open source.</strong> Local processing, read-only source access, MIT licensed.</p>
 <p><a href="https://github.com/HR-Presents/AegisLog/releases/latest"><strong>Download AegisLog</strong></a> &nbsp; · &nbsp; <a href="https://github.com/HR-Presents/AegisLog">Documentation</a></p>
 
-</td>
-<td width="50%" valign="top">
 
-<h3>Sentrix V1</h3>
+
+---
+
+<a href="product-gallery.md#sentrix-v1"><img src="./assets/editorial/sentrix.svg" width="100%" alt="Sentrix V1 — Python code review" /></a>
+
+
+
+
 <p>Python security and code-quality review.</p>
-<p align="center"><a href="https://lnkd.in/p/dJM76MA4"><img src="./assets/media/sentrix-post.jpg" width="360" alt="Original Sentrix product image from the selected LinkedIn introduction post" /></a></p>
+<p align="center"><a href="https://lnkd.in/p/dJM76MA4"><img src="./assets/media/sentrix-post.jpg" width="560" alt="Original Sentrix product image from the selected LinkedIn introduction post" /></a></p>
 <p>Review security, quality, complexity, formatting and syntax in a local browser workspace, with Bandit, Pylint, Radon, Black and downloadable reports.</p>
 <p><strong>Commercial software.</strong> Contact us about the edition and license that fits your requirements.</p>
 <p><a href="https://www.linkedin.com/posts/hr-presents_sentrix-hrpresents-python-activity-7495086599194558465-6ZIc"><strong>Watch the Sentrix demo</strong></a> &nbsp; · &nbsp; <a href="https://www.linkedin.com/company/hr-presents/">Enquire</a></p>
 
-</td>
-</tr>
-</table>
+
+
 
 [View full-size product images and demonstrations](product-gallery.md)
 
@@ -119,6 +131,8 @@ These are our own profiles and team projects. They show the work we can discuss 
 <a id="projects"></a>
 
 ## Engineering projects & collaborative work
+
+<img src="./assets/editorial/projects.svg" width="100%" alt="Engineering projects &amp; collaborative work" />
 
 Our wider portfolio spans educational security demonstrations, Linux administration, backup workflows and Python automation. The repositories and case studies explain the implementation, evidence and contributor roles.
 
@@ -153,6 +167,8 @@ We link test records to their dates and environments so visitors can inspect wha
 <a id="courses"></a>
 
 ## Courses
+
+<img src="./assets/editorial/courses.svg" width="100%" alt="Courses" />
 
 Co-created and co-presented by **Haziq Afzal and Ruveeha Ashfaq** under HR-Presents.
 
@@ -194,6 +210,8 @@ We share curriculum planning, lesson preparation, demonstrations, recording, qui
 <a id="tech-stack"></a>
 
 ## Technology
+
+<img src="./assets/editorial/technology.svg" width="100%" alt="Technology" />
 
 **Programming & automation**
 
@@ -256,13 +274,13 @@ Tools and topics span products, collaborative projects, labs and ongoing study; 
 
 ## Founders
 
-**Haziq Afzal · Co-Founder & CTO**  
-Technical strategy, software engineering, cybersecurity and product development.  
-[GitHub](https://github.com/HaziqBinAfzal) · [LinkedIn](https://www.linkedin.com/in/haziq-afzal/)
+<img src="./assets/editorial/founders.svg" width="100%" alt="Founders" />
 
-**Ruveeha Ashfaq · Co-Founder & CEO**  
-Company direction, operations, product delivery and customer experience.  
-[GitHub](https://github.com/ruveeha33) · [LinkedIn](https://www.linkedin.com/in/ruveeha-ashfaq/)
+| Haziq Afzal | Ruveeha Ashfaq |
+| --- | --- |
+| **Co-Founder & CTO · Udemy Instructor** | **Co-Founder & CEO · Udemy Instructor** |
+| Technical strategy, software engineering, cybersecurity and product development | Company direction, operations, product delivery and customer experience |
+| [GitHub](https://github.com/HaziqBinAfzal) · [LinkedIn](https://www.linkedin.com/in/haziq-afzal/) | [GitHub](https://github.com/ruveeha33) · [LinkedIn](https://www.linkedin.com/in/ruveeha-ashfaq/) |
 
 Both founders collaborate across products, services, documentation and technical education.
 
@@ -279,6 +297,8 @@ Both founders collaborate across products, services, documentation and technical
 <a id="about"></a>
 
 ## About HR-Presents
+
+<img src="./assets/editorial/background.svg" width="100%" alt="About HR-Presents" />
 
 HR-Presents is an independent technology collaboration founded in 2026. Our shared work connects defensive cybersecurity, software development, Linux systems, cloud/DevOps, automation and technical education.
 
@@ -300,6 +320,8 @@ Our principles are practical: preserve source evidence, explain findings, credit
 <a id="education"></a>
 
 ## Education & technical development
+
+<img src="./assets/editorial/education.svg" width="100%" alt="Education &amp; technical development" />
 
 | Founder | Education | Status |
 | --- | --- | --- |
@@ -327,6 +349,8 @@ Study areas describe our learning foundation. Project repositories show where a 
 <a id="training"></a>
 
 ## Training records & credentials
+
+<img src="./assets/editorial/training.svg" width="100%" alt="Training records &amp; credentials" />
 
 ### Haziq Afzal
 
@@ -370,6 +394,8 @@ Haziq’s profile lists English at professional working proficiency and Urdu at 
 <a id="contact"></a>
 
 ## Work with HR-Presents
+
+<img src="./assets/editorial/contact.svg" width="100%" alt="Work with HR-Presents" />
 
 For a service request, share the repository or task, desired outcome, relevant environment and target delivery date. We will discuss feasibility and agree on a fixed scope and price.
 
