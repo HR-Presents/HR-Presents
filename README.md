@@ -6,7 +6,7 @@
 
 Software products · Cybersecurity · Linux & DevOps · Automation · Education
 
-[![Products](https://img.shields.io/badge/Products-426253?style=flat-square&logoColor=F4F1E9)](#products) &nbsp; [![Projects](https://img.shields.io/badge/Projects-426253?style=flat-square&logoColor=F4F1E9)](#projects) &nbsp; [![Technology](https://img.shields.io/badge/Technology-426253?style=flat-square&logoColor=F4F1E9)](#technology) &nbsp; [![Courses](https://img.shields.io/badge/Courses-80683E?style=flat-square&logoColor=F4F1E9)](#courses) &nbsp; [![Services](https://img.shields.io/badge/Services-426253?style=flat-square&logoColor=F4F1E9)](#services) &nbsp; [![Team](https://img.shields.io/badge/Team-426253?style=flat-square&logoColor=F4F1E9)](#team) &nbsp; [![Activity](https://img.shields.io/badge/Activity-426253?style=flat-square&logoColor=F4F1E9)](#activity) &nbsp; [![Background](https://img.shields.io/badge/Background-426253?style=flat-square&logoColor=F4F1E9)](#background)
+[![Dashboard](https://img.shields.io/badge/Dashboard-405D70?style=flat-square)](#dashboard) &nbsp; [![Products](https://img.shields.io/badge/Products-426253?style=flat-square&logoColor=F4F1E9)](#products) &nbsp; [![Projects](https://img.shields.io/badge/Projects-426253?style=flat-square&logoColor=F4F1E9)](#projects) &nbsp; [![Technology](https://img.shields.io/badge/Technology-426253?style=flat-square&logoColor=F4F1E9)](#technology) &nbsp; [![Courses](https://img.shields.io/badge/Courses-80683E?style=flat-square&logoColor=F4F1E9)](#courses) &nbsp; [![Services](https://img.shields.io/badge/Services-426253?style=flat-square&logoColor=F4F1E9)](#services) &nbsp; [![Team](https://img.shields.io/badge/Team-426253?style=flat-square&logoColor=F4F1E9)](#team) &nbsp; [![Activity](https://img.shields.io/badge/Activity-426253?style=flat-square&logoColor=F4F1E9)](#activity) &nbsp; [![Background](https://img.shields.io/badge/Background-426253?style=flat-square&logoColor=F4F1E9)](#background)
 
 [![LinkedIn](https://img.shields.io/badge/Company_LinkedIn-354B57?style=flat-square)](https://www.linkedin.com/company/hr-presents/)
 [![Udemy](https://img.shields.io/badge/Our_Udemy-706044?style=flat-square&logo=udemy&logoColor=F4F1E9)](https://www.udemy.com/user/haziq-x-ruveeha/)
@@ -26,6 +26,33 @@ HR-Presents is our independent technology collaboration, founded in 2026. We bui
 [![Discuss work](https://img.shields.io/badge/04-Discuss_work-405D70?style=flat-square)](#services)
 
 
+
+<a id="dashboard"></a>
+
+## <img src="./assets/company/section-dashboard.svg" width="100%" alt="Company dashboard & scoreboards" />
+
+<img src="./assets/company/company-dashboard.svg" width="100%" alt="Company inventory: two founders, two products, two courses and eight engineering projects" />
+
+<img src="./assets/company/test-scoreboard.svg" width="100%" alt="Dated source tests: AegisLog 689 passed, AquaVigil 14 passed, NuclearShield 34 passed" />
+
+[![AegisLog and AquaVigil evidence](https://img.shields.io/badge/AegisLog_%26_AquaVigil-Test_evidence-426253?style=flat-square)](https://github.com/HaziqBinAfzal/HaziqBinAfzal/blob/main/docs/verification/2026-10-24/README.md)
+[![NuclearShield evidence](https://img.shields.io/badge/NuclearShield-Test_evidence-80683E?style=flat-square)](https://github.com/ruveeha33/ruveeha33/blob/main/verification.md)
+
+These are dated tests of specific source commits using synthetic inputs. Counts reflect different test suites; they are not comparable product scores or detection-accuracy ratings.
+
+<img src="./assets/company/repository-stats.svg" width="100%" alt="AegisLog snapshot: one star, zero forks, zero open issues, release v2.1.17" />
+
+[![Live repository](https://img.shields.io/badge/Repository-Current_counts-405D70?style=flat-square)](https://github.com/HR-Presents/AegisLog)
+[![Release](https://img.shields.io/badge/Release-v2.1.17-426253?style=flat-square)](https://github.com/HR-Presents/AegisLog/releases/tag/v2.1.17)
+[![CI](https://github.com/HR-Presents/AegisLog/actions/workflows/ci.yml/badge.svg)](https://github.com/HR-Presents/AegisLog/actions/workflows/ci.yml)
+[![Security](https://github.com/HR-Presents/AegisLog/actions/workflows/security.yml/badge.svg)](https://github.com/HR-Presents/AegisLog/actions/workflows/security.yml)
+
+**Release workflow snapshot:** the latest “Publish reviewed release” run returned **failure** when checked on 29 October 2026. Published-release availability is separate from the result of a newer workflow run.
+
+[![Review publishing run](https://img.shields.io/badge/Publishing_run-Failed-B06A65?style=flat-square)](https://github.com/HR-Presents/AegisLog/actions/runs/37354988514)
+[![All workflow runs](https://img.shields.io/badge/Build_history-Open_Actions-405D70?style=flat-square)](https://github.com/HR-Presents/AegisLog/actions)
+
+---
 
 <a id="products"></a>
 
