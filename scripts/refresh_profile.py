@@ -171,6 +171,12 @@ def render(data, shared):
         if release:
             readme = re.sub(r'https://github.com/HR-Presents/AegisLog/releases/tag/[^)\s"]+', release['html_url'], readme)
             readme = re.sub(r'/badge/Release-v[^?]+\?', '/badge/Release-'+release['tag_name']+'?', readme)
+        Path('assets/company/release-badge.svg').write_text(status_badge('Release', (release or {}).get('tag_name', 'unavailable'), '426253'))
+        for key in ['ci', 'security']:
+            check = data.get('checks', {}).get(key, {})
+            value = check.get('conclusion') or check.get('status', 'unknown')
+            color = '426253' if value == 'success' else '9A5B58' if value == 'failure' else '80683E'
+            Path('assets/company/'+key+'-badge.svg').write_text(status_badge('CI' if key == 'ci' else 'Security', value, color))
         status = data['workflow']
         url = status.get('html_url', 'https://github.com/HR-Presents/AegisLog/actions')
         result = status.get('conclusion') or status.get('status', 'unknown')
@@ -180,6 +186,11 @@ def render(data, shared):
     overview = '\n'.join('**'+item['title']+'** — '+item['summary']+'  \n[![Open '+item['title']+'](https://img.shields.io/badge/'+quote(item['title'].replace('-', '--').replace('_', '__'))+'-'+ACCENT+'?style=flat-square)]('+item['url']+')\n' for item in shared['items'].values())
     readme = re.sub(r'<!-- SHARED-CONTENT:START -->[\s\S]*?<!-- SHARED-CONTENT:END -->', '<!-- SHARED-CONTENT:START -->\n'+overview+'<!-- SHARED-CONTENT:END -->', readme)
     Path('README.md').write_text(readme)
+
+
+def status_badge(label, value, color):
+    left = max(55, len(label)*7+18); right = max(65, len(str(value))*7+18)
+    return f'<svg xmlns="http://www.w3.org/2000/svg" width="{left+right}" height="22" role="img"><title>{esc(label)}: {esc(value)}</title><rect width="{left+right}" height="22" rx="3" fill="#35444B"/><path d="M{left} 0H{left+right}V22H{left}Z" fill="#{color}"/><text x="{left/2}" y="15" text-anchor="middle" fill="#F4F1E9" font-family="Arial" font-size="12">{esc(label)}</text><text x="{left+right/2}" y="15" text-anchor="middle" fill="#F4F1E9" font-family="Arial" font-size="12">{esc(value)}</text></svg>\\n'
 
 def main():
     parser = argparse.ArgumentParser(); parser.add_argument('--fixture'); args = parser.parse_args()
@@ -202,6 +213,7 @@ def main():
             data['release'] = None
         runs = api('/repos/HR-Presents/AegisLog/actions/runs?per_page=100')
         data['workflow'] = next((r for r in runs['workflow_runs'] if r['name'] == 'Publish reviewed release'), {})
+        data['checks'] = {key: next((r for r in runs['workflow_runs'] if r.get('path') == '.github/workflows/'+key+'.yml'), {}) for key in ['ci','security']}
     render(data, shared)
     print('Refreshed public profile facts and shared cards for '+ACCOUNT)
 

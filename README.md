@@ -43,9 +43,9 @@ These are dated tests of specific source commits using synthetic inputs. Counts 
 <img src="./assets/company/repository-stats.svg" width="100%" alt="Automatically refreshed AegisLog public repository metadata and latest release" />
 
 [![Live repository](https://img.shields.io/badge/Repository-Current_counts-405D70?style=flat-square)](https://github.com/HR-Presents/AegisLog)
-[![Release](https://img.shields.io/badge/Release-v2.1.17?style=flat-square)](https://github.com/HR-Presents/AegisLog/releases/tag/v2.1.17)
-[![CI](https://github.com/HR-Presents/AegisLog/actions/workflows/ci.yml/badge.svg)](https://github.com/HR-Presents/AegisLog/actions/workflows/ci.yml)
-[![Security](https://github.com/HR-Presents/AegisLog/actions/workflows/security.yml/badge.svg)](https://github.com/HR-Presents/AegisLog/actions/workflows/security.yml)
+[![Release](./assets/company/release-badge.svg)](https://github.com/HR-Presents/AegisLog/releases/tag/v2.1.17)
+[![CI](./assets/company/ci-badge.svg)](https://github.com/HR-Presents/AegisLog/actions/workflows/ci.yml)
+[![Security](./assets/company/security-badge.svg)](https://github.com/HR-Presents/AegisLog/actions/workflows/security.yml)
 
 
 ### ![GitHub statistics](https://img.shields.io/badge/GitHub_Statistics-405D70?style=flat-square)
@@ -285,7 +285,7 @@ For products, engineering services or technical education, tell us what you want
 
 **[![Company LinkedIn](https://img.shields.io/badge/Company_LinkedIn-405D70?style=flat-square&logoColor=F4F1E9)](https://www.linkedin.com/company/hr-presents/) &nbsp; [![Haziq on Fiverr](https://img.shields.io/badge/Haziq_on_Fiverr-426253?style=flat-square&logoColor=F4F1E9)](https://www.fiverr.com/haziq_afzal) &nbsp; [![Ruveeha on Fiverr](https://img.shields.io/badge/Ruveeha_on_Fiverr-426253?style=flat-square&logoColor=F4F1E9)](https://www.fiverr.com/ruveehaashfaq) &nbsp; [![Udemy](https://img.shields.io/badge/Udemy-80683E?style=flat-square&logoColor=F4F1E9)](https://www.udemy.com/user/haziq-x-ruveeha/)**
 
-<p align="center"><strong>HR-Presents · Built together. Explained clearly.</strong></p>
+<img src="./assets/company/company-footer.svg" width="100%" alt="HR-Presents — Practical software. Thoughtful engineering. Knowledge shared. Built by Haziq Afzal and Ruveeha Ashfaq." />
 
 
 ### Shared products & courses
