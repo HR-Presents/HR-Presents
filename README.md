@@ -59,7 +59,7 @@ These are dated tests of specific source commits using synthetic inputs. Counts 
 Public HR-Presents account statistics refresh automatically every six hours and on profile-source edits. The cards show their last successful refresh time. Language shares aggregate bytes across public, non-fork repositories; private source is excluded.
 
 <!-- LIVE-WORKFLOW:START -->
-**Latest release workflow:** failure · checked 2026-10-30 22:28 UTC. Published-release availability is separate from a newer workflow result.
+**Latest release workflow:** failure · checked 2026-10-31 05:55 UTC. Published-release availability is separate from a newer workflow result.
 
 [![Latest publishing run](https://img.shields.io/badge/Publishing_run-failure-405D70?style=flat-square)](https://github.com/HR-Presents/AegisLog/actions/runs/37354988514)
 
